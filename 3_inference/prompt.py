@@ -1,4 +1,6 @@
 # imported logic from https://github.com/softly-undefined/NLP_final/blob/main/2_order_bias/order_bias.py
+import re
+
 
 # === PROMPT TEMPLATE ===
 QUERY_TEMPLATE = """
