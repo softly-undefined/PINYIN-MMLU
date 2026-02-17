@@ -1,8 +1,7 @@
 # Evaluating LLM Performance on PINYIN
 
 ## 1_data_cleaning
-Cleaning process to get final data. NOTE: not totally sure if human translated or MT (I believe human translated?), more details on where I found it are in 1_data_cleaning/cleaning.ipynb
-
+Cleaning process to get final data. Collected from: https://openaipublic.blob.core.windows.net/simple-evals/mmlu.csv and https://openaipublic.blob.core.windows.net/simple-evals/mmlu_ZH-CN.csv (translation by humans).
 Cleaned for faulty multilingual data, and distributed equally across relevant subjects as follows (TOTAL = 500 rows):
 
 Subcategory_ZH-PY
@@ -21,6 +20,8 @@ psychology          50
 
 I used pypyin to make conversions using their "lazy_pinyin" setting.
 This setting doesn't include any tone markings, which reflects how many type pinyin in real-world use cases. 
+
+ex. 你好 -> ni hao
 
 Final converted data is found in 2_pinyin_conversion/mmlu_ZH-PY.csv
 
