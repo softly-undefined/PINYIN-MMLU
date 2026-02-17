@@ -5,16 +5,16 @@ Cleaning process to get final data. Collected from: https://openaipublic.blob.co
 Cleaned for faulty multilingual data, and distributed equally across relevant subjects as follows (TOTAL = 500 rows):
 
 Subcategory_ZH-PY
-biology             50
-history             50
-physics             50
-philosophy          50
-math                50
-health              50
-business            50
-economics           50
-computer science    50
-psychology          50
+- biology             50
+- history             50
+- physics             50
+- philosophy          50
+- math                50
+- health              50
+- business            50
+- economics           50
+- computer science    50
+- psychology          50
 
 ## 2_pinyin_conversion
 
