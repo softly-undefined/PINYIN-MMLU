@@ -1,0 +1,2634 @@
+index,subject,subcategory,answer,predicted,correct,raw_output,input_tokens,output_tokens,cost
+0,high_school_biology,biology,B,B,True,"血红蛋白氨基酸序列越相似，说明两者的亲缘关系越近、共同祖先越近。人和黑猩猩的血红蛋白比人和狗更相似，因此人和黑猩猩的亲缘关系比人和狗更近。
+
+Answer: B",242,284,0.000000
+1,college_biology,biology,A,B,False,"脊椎动物在胚胎早期往往表现出相似的结构特征，这支持它们具有共同的进化祖先，而不是“成年阶段特征重演”。因此最合适的结论是 B。
+
+Answer: B",225,716,0.000000
+2,high_school_biology,biology,D,D,True,"D 不是防止中间繁殖（生殖隔离）的实例，因为“繁殖季节相似”并不会阻止交配或受精；相反，繁殖季节不同才会起到隔离作用。  
+Answer: D",158,1595,0.000000
+3,high_school_biology,biology,A,A,True,"细胞凋亡是**程序性**、受调控的细胞死亡，不是随机发生的，因此不正确的是 **A**。
+
+Answer: A",207,270,0.000000
+4,high_school_biology,biology,B,B,True,"这些观察说明：对适应度更高的表型，虽然可能伴随一些代价，仍会在自然选择作用下逐渐增多。因此最符合的是 B。
+
+Answer: B",317,6548,0.000000
+5,high_school_biology,biology,C,C,True,"从题干所给家系信息看，更符合常染色体隐性遗传的判断；若第 II 代的父母 1 和 2 为携带者，再生一个患病孩子的概率为 25%。其余选项要么过于笼统，要么不能由家系图直接推出。
+
+Answer: C",190,3705,0.000000
+6,high_school_biology,biology,C,C,True,"根据碱基互补配对：
+
+- DNA 5′-C-A-T-3′ 转录出的 mRNA 为 3′-G-U-A-5′
+- 与之配对的 tRNA 反密码子为 5′-C-A-U-3′
+
+因此选择 **C**。
+
+Answer: C",230,923,0.000000
+7,college_biology,biology,C,C,True,"蓝藻属于原核生物，没有细胞核；单细胞绿藻属于真核生物，有细胞核。  
+Answer: C",136,374,0.000000
+8,high_school_biology,biology,D,D,True,"fei zao shi biao mian huo xing ji，ta de fen zi you **qin shui** de tou bu he **qin you** de wei bu。zai zhe li，fei zao fen zi de qin you bu fen hui yu ye pian biao mian de zhi zhi/you zhi bu fen xiang hu zuo yong，er qin shui bu fen ze gen shui fen zi xiang hu zuo yong，cong er bang zhu jiang zhe xie bu fen cong ye pian shang fen li chu lai。
+
+Answer: D",307,316,0.000000
+9,college_biology,biology,A,A,True,"结缔组织中通常可见成纤维细胞、胶原蛋白和糖胺聚糖等；“凝血酶”属于凝血相关酶，不是结缔组织中的典型成分。
+
+Answer: A",131,335,0.000000
+10,college_biology,biology,A,A,True,"环节动物和节肢动物的共同点主要在于它们的身体都具有分节结构；其余选项并不同时适用于两类动物。
+
+Answer: A",160,299,0.000000
+11,high_school_biology,biology,D,D,True,"题目问的是：**哪一种说法最不可能解释“突变频率似乎较低”**。
+
+逐项看：
+
+- **A**：有些突变是沉默突变，不表现出来，所以看起来少了——可以解释。
+- **B**：有些不良表型无法繁殖，后代中就不容易保留下来——可以解释。
+- **C**：有些突变导致严重表型变化，可能被从基因库中淘汰——可以解释。
+- **D**：说“可预测的突变发生率导致基因库持续变异”只是描述突变和进化过程，并**不能**解释为什么“看起来突变频率低”。
+
+所以最不可能的是 **D**。
+
+Answer: D",247,389,0.000000
+12,college_biology,biology,A,A,True,"真菌的细胞壁主要由**几丁质**加固。
+
+Answer: A",127,218,0.000000
+13,high_school_biology,biology,B,B,True,"非洲肺鱼把含氮废物排成**尿素**而不是**氨**，主要好处是：**尿素毒性更低**，而氨在小而静止、稀释作用差的水体中容易积累并伤害鱼体。这样肺鱼就能在这种环境中更安全地代谢废物。
+
+Answer: B",300,750,0.000000
+14,high_school_biology,biology,A,A,True,"同源蛋白的氨基酸序列会漏掉许多**沉默突变**（核苷酸变了，但氨基酸不变），因此信息量通常不如直接比较同源基因的核酸序列。  
+
+Answer: A",185,429,0.000000
+15,college_biology,biology,B,B,True,"灰色新月体含有决定背腹轴形成的重要因素（如组织者相关信号）。如果它只进入两个卵裂球中的一个，那么这个卵裂球具有形成完整胚胎的能力；由于起始细胞物质量较少，通常会发育成一个较小但完整的蝌蚪。没有灰色新月体的那个卵裂球则不能正常形成完整胚胎。
+
+Answer: B",326,1484,0.000000
+16,high_school_biology,biology,B,B,True,"胰岛素通常会促进糖原合成、增加糖原储存，而不是减少糖原储存；因此不正确的是 B。
+
+Answer: B",165,515,0.000000
+17,high_school_biology,biology,C,C,True,"这些雏鸡的数量大致符合 **1:2:1** 的比例（黑:灰:白 = 7:17:8），最简单的解释是：**黑色和白色之间存在不完全显性**，杂合子表现为灰色。
+
+Answer: C",237,581,0.000000
+18,high_school_biology,biology,A,A,True,"肝细胞和白细胞都来自同一个受精卵，通常具有相同的基因组；不同之处主要在于哪些基因被表达，而不是 DNA 本身不同。
+
+Answer: A",239,270,0.000000
+19,college_biology,biology,D,D,True,"题干描述的是通过调节血钙水平来维持体内钙平衡的激素，这对应的是甲状旁腺激素，能促进骨钙释放并促进肾小管对钙的重吸收，从而维持血清钙水平。
+
+Answer: D",144,406,0.000000
+20,college_biology,biology,A,C,False,"植物沿着重力方向生长，表现为向重力性。  
+Answer: C",132,3827,0.000000
+21,college_biology,biology,C,B,False,"“拟态”通常是指生物通过外形、颜色或行为去**模仿别的生物或对象**，以获得保护或其他优势。四个选项里，**B**：飞蛾在尾端展示类似“眼睛”的斑纹，属于用假眼来吓退天敌的拟态形式。
+
+Answer: B",270,1068,0.000000
+22,high_school_biology,biology,A,A,True,"秋水仙碱会抑制微管装配，因此最明显受损的是依赖微管纺锤体进行的**有丝分裂中染色体分离**。
+
+Answer: A",250,455,0.000000
+23,college_biology,biology,C,C,True,"陆地生态系统的初级生产力在热带通常更高，最主要的原因是那里通常同时具备**充足的水分**和**温暖的气温**，这两者都能显著促进光合作用和植物生长。
+
+A 说的是生物多样性，虽然可能有间接影响，但不是最直接的主要原因。  
+B 不够准确，植物代谢成本并不是解释这一现象的关键。  
+D 说的是分解者和食草动物，和初级生产力的直接关系不大。
+
+Answer: C",253,650,0.000000
+24,high_school_biology,biology,D,D,True,"金枪鱼、鲨鱼和海豚属于不同类群，但都生活在水中，流线型身体能减少阻力、提高游动效率，因此在各自环境中更容易被自然选择保留下来。这是趋同进化的结果，不是因为共同祖先最近或相同突变。
+
+Answer: D",212,329,0.000000
+25,high_school_biology,biology,D,D,True,"固定基因座比例越高，说明群体中可变位点越少，因此群体的遗传变异和平均杂合性都会降低。  
+所以选 **D**。
+
+Answer: D",149,1265,0.000000
+26,college_biology,biology,D,D,True,"该杂交为 **DDWw × ddww**。  
+亲本 DDWw 只能产生 **DW** 和 **Dw** 两种配子，ddww 只能产生 **dw** 一种配子，所以后代为：
+
+- **DdWw**：高大紫花
+- **Ddww**：高大白花
+
+比例是 **1 : 1**。
+
+Answer: D",294,519,0.000000
+27,high_school_biology,biology,B,B,True,"黑色为显性（B），白色为隐性（b）。  
+后代出现 **3/4 黑色、1/4 白色**，这是经典的 **3:1 分离比**，对应的亲本基因型应为：
+
+**Bb × Bb**
+
+所以答案是：
+
+Answer: B",194,166,0.000000
+28,college_biology,biology,C,C,True,"流感病毒是 RNA 病毒，进入细胞后会利用自身的 RNA 聚合酶开始转录和复制，并合成病毒蛋白质；它不会把 DNA 整合进宿主染色体，也不使用逆转录酶。
+
+Answer: C",188,272,0.000000
+29,high_school_biology,biology,B,B,True,"马的体积在漫长时间里持续向一个方向变化，属于**方向选择**。
+
+Answer: B",158,202,0.000000
+30,high_school_biology,biology,B,B,True,"加拉帕戈斯群岛上的雀类由于地理隔离、进入不同生态位后逐渐分化，表现出**趋异进化**。这不是趋同进化，也不是稳定选择；分裂性选择可能会增加变异，但题目更直接指向隔离后群体之间的分化。
+
+Answer: B",209,1189,0.000000
+31,high_school_biology,biology,D,D,True,"从题干看，90% 幼崽存活会让种群增大到 80，说明环境条件改善时，食物可能增加（A），出生数也可能随种群调节而下降（B），而更多个体能存活并繁殖，未来遗传多样性也可能更高（C）。因此三项都可能成立。
+
+Answer: D",345,6997,0.000000
+32,high_school_biology,biology,A,A,True,"在光合作用的光反应中，释放出的氧气来自于**水的光解**，也就是 **H2O**。
+
+Answer: A",126,149,0.000000
+33,college_biology,biology,A,A,True,"这是典型的酶动力学饱和现象：当底物浓度足够高时，酶的活性位点几乎都被占满，反应速率达到最大值，再增加底物也不会再明显提高速率。
+
+因此正确的是：
+
+A) 几乎所有的酶分子都在与底物分子相互作用。
+
+Answer: A",255,499,0.000000
+34,high_school_biology,biology,B,B,True,"DNA 中嘌呤和嘧啶的总量在双链 DNA 里应当相等，因此 **嘧啶 : 嘌呤** 的比值保持恒定。
+
+Answer: B",169,568,0.000000
+35,college_biology,biology,C,C,True,"有丝分裂纺锤体附着在染色体上的部位是**着丝点**（kinetochore/centromere region），因此选 **C**。
+
+Answer: C",136,333,0.000000
+36,high_school_biology,biology,D,D,True,"植物细胞和动物细胞都具有细胞膜；核糖体也都有。叶绿体通常只在植物细胞中有，但并不是所有植物细胞都有；而细胞壁是植物细胞更典型、稳定的特征。  
+因此应选 D。
+
+Answer: D",121,457,0.000000
+37,high_school_biology,biology,B,B,True,Answer: B,127,525,0.000000
+38,college_biology,biology,B,B,True,"固定动作模式（fixed action pattern）是一种先天、刻板的行为序列，通常由特定刺激触发，而且一旦启动，往往可以在没有持续感觉反馈的情况下继续完成。四个选项中，最符合这一特征的是 B。
+
+Answer: B",200,923,0.000000
+39,college_biology,biology,D,D,True,"如果酶的活性基团在很宽的 pH 范围内都保持恒定，说明它的催化并不依赖于容易随 pH 改变电离状态的基团。  
+组氨酸的咪唑基和天冬氨酸的羧基都属于这类可电离基团，因此它们都不太可能是该酶反应所必需的活性基团。
+
+Answer: D",187,956,0.000000
+40,high_school_biology,biology,D,D,True,"马铃薯能从纯水中吸水，前提是它的水势低于纯水。纯水的水势通常为 0，因此马铃薯的水势必须为负，水才会由纯水进入马铃薯。
+
+Answer: D",172,287,0.000000
+41,college_biology,biology,D,D,True,"这种染色体数目加倍的杂交植物通常会恢复可育性，因为每条染色体都有对应的同源染色体可正常配对并完成减数分裂。
+
+Answer: D",309,362,0.000000
+42,high_school_biology,biology,D,D,True,"这类突变会使阅读框发生改变，属于**移码突变**。
+
+Answer: D",153,258,0.000000
+43,college_biology,biology,A,A,True,"人类基因组中真正编码蛋白质的部分只占很小一部分，通常约为 **1% 到 2%** 左右，因此最接近的是 **A) 2%**。
+
+Answer: A",121,209,0.000000
+44,high_school_biology,biology,C,C,True,"在 pike-cichlids 这类视觉型捕食压力下，猎物鱼类更可能演化出能降低被发现和被捕食风险的特征，比如夜间活动、较早成熟、较小体型等。  
+相较之下，“体型较大雌性选择，产下更多且更大的幼崽”更像是在低捕食压力下才更可能出现的趋势，因此它最不可能在长期观察中出现。
+
+Answer: C",265,2019,0.000000
+45,college_biology,biology,A,A,True,"原生生物界通常指的是**真核生物**，它们不包括蓝藻；而且它们的储存物质也不一定都是糖原。
+
+Answer: A",160,195,0.000000
+46,college_biology,biology,A,A,True,"这是 **IgE**，其重链为 **ε（epsilon）**，可结合肥大细胞和嗜碱性粒细胞表面的受体，参与过敏反应。
+
+Answer: A",138,192,0.000000
+47,high_school_biology,biology,B,B,True,"所有病毒都至少含有两种主要成分：**核酸**和**衣壳（蛋白质外壳）**。  
+因此正确选项是 **B**。
+
+Answer: B",137,214,0.000000
+48,high_school_biology,biology,D,D,True,"这些结构属于**同源结构**，说明人类、蝙蝠和海豚的这些肢体骨骼**来源于共同祖先**，并不是趋同进化的结果。因此 **A 和 C 都对**。
+
+Answer: D",216,807,0.000000
+49,high_school_biology,biology,D,D,True,"动作电位具有“全或无”特性：一旦超过阈值，单个动作电位的幅度不会因为刺激更强而变大；更强的刺激通常只会让单位时间内触发的动作电位次数增加，也就是频率升高。
+
+Answer: D",283,1266,0.000000
+50,marketing,business,C,C,True,"服务的五个典型特征通常是：**无形性、易逝性、可变性、不可分割性、缺乏所有权**。因此正确选项是 **C**。
+
+Answer: C",221,936,0.000000
+51,business_ethics,business,A,A,True,"根据 Wood（1991）的企业社会表现观点，企业社会责任的三个结果（outcomes）是：社会政策、社会计划和社会影响。对应选项 A。
+
+Answer: A",183,472,0.000000
+52,marketing,business,D,D,True,"“为他人目的收集的二手数据”通常称为**二手研究**，即利用已有数据进行分析的研究类型。
+
+Answer: $D",137,316,0.000000
+53,marketing,business,C,C,True,"在品牌定位过程中，通常使用**感知地图**来说明所选品牌的不同属性。
+
+Answer: C",144,205,0.000000
+54,marketing,business,D,D,True,"答案是“收割/收获”类目标，即强调最大化短期利润和现金流。对应选项为 D。
+
+Answer: D",169,275,0.000000
+55,marketing,business,C,C,True,Answer: C,263,525,0.000000
+56,marketing,business,C,C,True,"这类营销方式强调收件人事先同意接收邮件，属于“基于许可的电子邮件营销”。
+
+Answer: C",182,305,0.000000
+57,business_ethics,business,D,C,False,Answer: C,153,2007,0.000000
+58,marketing,business,C,C,True,"在分销网络中，不同层级成员（如生产商、分销商、零售商）之间因特定区域、价格上调等问题产生的冲突，属于**垂直冲突**。
+
+Answer: C",180,312,0.000000
+59,marketing,business,A,A,True,"这类组织专门通过互联网向成员或最终用户提供信息，通常称为“信息中介（infomediary）”，对应选项 A。
+
+Answer: A",150,239,0.000000
+60,marketing,business,B,B,True,"在国际市场调查中，常见的对等类型一般包括概念上对等、功能对等和翻译对等；“市场对等”不是其中一种。
+
+Answer: B",147,371,0.000000
+61,business_ethics,business,C,C,True,Answer: C,239,407,0.000000
+62,marketing,business,D,D,True,"“个性”不是解释消费者如何思考和了解产品与品牌的基本过程；它更像是一种稳定的人格特征，而不是认知过程。
+
+Answer: D",142,241,0.000000
+63,marketing,business,A,A,True,"这是“搜索目录”或“网络目录”的定义：由人工编辑维护，并按类别/子类别列出网站信息。
+
+Answer: A",147,216,0.000000
+64,management,business,A,A,True,Answer: A,146,525,0.000000
+65,business_ethics,business,A,A,True,"答案应为 A，因为“结果主义推理”常以“成本效益分析”的形式在企业中出现。
+
+Answer: A",176,377,0.000000
+66,marketing,business,D,D,True,"交换发生的核心前提是：双方都必须拥有对对方有价值的东西，才可能形成交换。
+
+Answer: D",173,204,0.000000
+67,management,business,B,B,True,"广告通常用于塑造品牌形象、突出产品独特性，因此更符合“差异化”这一形式。
+
+Answer: B",122,550,0.000000
+68,business_ethics,business,C,C,True,"题干强调“将道德置于理性范围之外”，并将其理解为一种对他人的情感性“道德冲动”，这更符合**后现代伦理学**对传统理性主义伦理的反思与超越。
+
+Answer: C",146,993,0.000000
+69,management,business,D,C,False,"这句话描述的是“全球范围内的竞争”，最贴切的术语是“全球竞争”。
+
+Answer: C",155,481,0.000000
+70,business_ethics,business,C,C,True,"题干描述的是“工作时间、空间和任务相关流动性”的工作模式，这对应“弹性工作时间”。
+
+Answer: C",137,247,0.000000
+71,management,business,C,C,True,"考虑他人观点、意见和想法的领导风格是**民主性**，因为这种风格强调共同参与和充分听取他人意见。
+
+Answer: C",137,154,0.000000
+72,business_ethics,business,A,A,True,"这句话的意思是在批评营销传播的伦理问题：它们“具有侵入性且不可避免”，会“制造人为的需求”，并“强化消费主义”，同时让“不安全感”和“社会攀比影响”持续存在。对应最合适的是 A。
+
+Answer: A",260,1004,0.000000
+73,marketing,business,B,B,True,"非弹性需求指的是：**价格变化时，需求量变化很小**。  
+因此，符合的是 **B) 需求量几乎不随价格变化而变化**。
+
+Answer: B",194,228,0.000000
+74,management,business,D,A,False,"四个选项里，撒切尔夫人更常被视为保守派领导人，而不是典型的“改革型”领导人；其余三位都更符合改革型领导人的特征。
+
+Answer: A",149,2579,0.000000
+75,management,business,D,C,False,"收购通常发生在两个不平等的合作伙伴之间，因此应选 C。
+
+Answer: C",166,921,0.000000
+76,business_ethics,business,B,C,False,"题干信息不完整，无法严格确定。若这是常见的“文化同质化”判断题，我倾向选 C。
+
+Answer: C",119,1944,0.000000
+77,marketing,business,C,C,True,"这类研究属于**探索性研究**：当对问题所知甚少时，先通过与知情者讨论、查阅已有数据来初步了解问题原因，正是探索性研究的典型做法。
+
+Answer: C",186,249,0.000000
+78,marketing,business,A,A,True,"Pavlou（2002）提到，关系信任的重要结果通常包括满意度、**降低感知风险**以及连续性。  
+因此应选 **A**。
+
+Answer: A",154,499,0.000000
+79,business_ethics,business,C,A,False,Answer: A,120,1941,0.000000
+80,marketing,business,B,B,True,"“家庭生命周期”通常指家庭从形成、发展、扩展到收缩、解体的过程，因此最符合的是 **B**。
+
+Answer: B",187,531,0.000000
+81,marketing,business,C,C,True,"商业折扣通常是制造商或批发商给零售商等中间商的价格优惠，用来促进转售和销售。四个选项中，**C**“生产商为零售商在6月促销其产品提供折扣”最符合这个定义。
+
+Answer: C",211,437,0.000000
+82,management,business,D,D,True,"组织结构的目的通常是为了协调人员和资源、明确沟通渠道、规范权责关系，而不是用来限制工人权利。  
+Answer: D",131,173,0.000000
+83,marketing,business,D,B,False,"这题描述的是一种让顾客放心、体现商家价格具有竞争力的承诺，最符合的是“价格保证”。
+
+Answer: B",166,968,0.000000
+84,marketing,business,A,A,True,"非随机样本通常包括便利抽样、判断抽样、配额抽样等；其中“便利”和“配额”都属于非随机样本类型。其他选项里的集群、分层、系统抽样都属于随机抽样。
+
+Answer: A",137,249,0.000000
+85,business_ethics,business,A,A,True,"这句话讨论的是“裁员”的两个问题：第一个是员工参与/知情相关，第二个是赔偿，尤其是补偿方案。四个空里最自然的是“裁员、参与度、赔偿、补偿”。
+
+Answer: A",222,1544,0.000000
+86,marketing,business,B,B,True,"这类用来解释广告如何逐步起作用的经典模型是 **AIDA**，即 **Attention（注意）— Interest（兴趣）— Desire（欲望）— Action（行动）**。
+
+AIDA 正是描述受众从看到广告到采取行动的影响过程，因此选 **B**。
+
+Answer: B",135,171,0.000000
+87,management,business,D,D,True,"“经验法则”在决策心理学里通常对应“启发式”，因此这里指的是**启发式偏差**。
+
+Answer: D",138,277,0.000000
+88,business_ethics,business,B,B,True,"“全球生产网络”通常被定义为一个“动态、关系”框架，用来理解跨国生产、运营和交易的组织方式，因此应选 **B**。
+
+Answer: B",199,378,0.000000
+89,marketing,business,D,D,True,"根据法律，获得专有权保护的是**商标**；品牌标志、商品名称等只有在作为商标的一部分并依法注册时，才可能受到相应保护。
+
+Answer: D",139,381,0.000000
+90,marketing,business,D,C,False,"这道题描述的是通过电视、广播等媒体向大众传递特定信息、进行教育和传播的做法，属于**公共关系**。
+
+Answer: C",180,1765,0.000000
+91,management,business,D,D,True,"这是“社会化”，指个人学习并采用群体认可的行为方式、规范和价值观。
+
+Answer: D",130,236,0.000000
+92,marketing,business,A,A,True,"这是“广告”的定义，因此选 A。
+
+Answer: A",198,248,0.000000
+93,business_ethics,business,A,A,True,"根据语义和搭配，空格应依次对应“利益相关者、风险、利益相关者管理、问责制、透明度”，因此选 A。
+
+Answer: A",270,1079,0.000000
+94,management,business,D,C,False,"组织的状况通常最直接地体现在其日常运行中的**活动**上，因此最合适的是“活动”。
+
+Answer: C",128,1852,0.000000
+95,business_ethics,business,A,C,False,"这句话最符合的搭配是“影响政府……包括传播广度……途径（公共或者私人）以及沟通的内容”，因此应选 C。
+
+Answer: C",212,2927,0.000000
+96,management,business,D,D,True,Answer: D,178,525,0.000000
+97,marketing,business,A,A,True,"Pine 和 Gilmore（1999）提出的四个体验领域，是基于两个维度：**客户参与**与**环境关系**（也常表述为“参与程度”和“与环境的连接方式”）。
+
+Answer: A",175,370,0.000000
+98,business_ethics,business,C,A,False,"联合国全球契约的十项原则涵盖人权、劳工、环境和反腐败；在给定选项中，最符合的是“人权”。
+
+Answer: A",130,3453,0.000000
+99,marketing,business,C,C,True,"在营销术语中，描述“我们付出什么就能得到什么”的是**价值**，即客户感知到的获得与付出之间的关系。
+
+Answer: C",135,149,0.000000
+100,high_school_computer_science,computer science,C,C,True,"`sum([1,2,3,4])` 会把列表中的元素相加：`1 + 2 + 3 + 4 = 10`。
+
+Answer: C",129,136,0.000000
+101,college_computer_science,computer science,C,C,True,"先看各语句之间的依赖关系（按顺序执行时，后面的语句可能要用到前面的结果）：
+
+1. `A := B + C`  
+   这一步最先做。
+
+2. `B := A - B`  
+   需要用到第 1 步算出的 `A`。
+
+3. `C := A * E`  
+   也需要第 1 步的 `A`。
+
+4. `D := A/F`  
+   同样需要第 1 步的 `A`。
+
+所以第 2、3、4 步都可以在第 1 步完成后并行执行。
+
+5. `E := B - C`  
+   需要第 2 步的 `B` 和第 3 步的 `C`。
+
+6. `F := A + B`  
+   需要第 1 步的 `A` 和第 2 步的 `B`。
+
+因此第 5、6 步可以在第 2、3、4 步完成后并行执行。
+
+最少时间单位数是：
+
+- 第 1 单位：执行第 1 步
+- 第 2 单位：并行执行第 2、3、4 步
+- 第 3 单位：并行执行第 5、6 步
+
+所以答案是 3。
+
+Answer: C",229,1283,0.000000
+102,high_school_computer_science,computer science,C,C,True,"将 \(231_{10}\) 转成十六进制：
+
+- \(231 \div 16 = 14\) 余 \(7\)
+- \(14\) 对应十六进制的 \(E\)
+
+所以 \(231_{10} = E7_{16}\)。
+
+Answer: C",133,136,0.000000
+103,college_computer_science,computer science,A,A,True,"逐项分析：
+
+I. 虚拟地址空间可以大于物理内存空间。——正确  
+II. 程序在执行期间必须全部驻留在主存中。——错误，虚拟内存允许按需调页。  
+III. 页面与程序的语义特征相对应。——错误，页面是固定大小的内存管理单位，不强调语义特征。
+
+因此，正确的是：只有 I。
+
+Answer: A",213,277,0.000000
+104,high_school_computer_science,computer science,B,B,True,"当新设备连接到 Internet 时，通常会由网络分配一个 **IP 地址**，以便它能在网络中被识别和通信。
+
+Answer: B",171,143,0.000000
+105,machine_learning,computer science,A,A,True,"K 折交叉验证需要将数据分成 K 份，并训练/验证 K 次，因此其随 K 的增长是线性的。
+
+Answer: A",128,715,0.000000
+106,high_school_computer_science,computer science,C,C,True,"逐步对应：
+
+1. 场景1：车辆按到达顺序通过洗车流程，符合 **队列**（FIFO）。
+2. 场景2：每位参赛者获得一个唯一 ID，更像 **字典/映射**。
+3. 场景3：从同一开口放入、取出，后放入先取出，符合 **栈**（LIFO）。
+
+因此对应关系是：**队列 | 字典/映射 | 栈**。
+
+Answer: C",490,634,0.000000
+107,computer_security,computer science,A,A,True,"C、C++ 这类语言中的一些预定义函数（如 `strcpy`、`gets` 等）在设计上往往**没有自动进行字符串边界检查**，因此如果开发者处理不当，就容易造成缓冲区溢出。
+
+Answer: A",174,198,0.000000
+108,high_school_computer_science,computer science,A,A,True,"A项最不符合典型钓鱼特征，因为它只是要求你拨打卡片上的官方号码核实交易；其余三项都更明显地涉及索取敏感信息或诱导点击可疑链接。
+
+Answer: A",261,330,0.000000
+109,high_school_computer_science,computer science,C,C,True,"C 是可逆的：把每个通道用 255 减去，之后再做一次同样操作就能完全恢复原图，因此它是无损转换。
+
+Answer: C",431,1456,0.000000
+110,college_computer_science,computer science,C,C,True,"中断常用于通知 CPU 某个 I/O 操作已经完成，因此可以用来指示 I/O 完成情况。其他选项都不正确。
+
+Answer: C",190,325,0.000000
+111,high_school_computer_science,computer science,B,B,True,"这三个数分别是：
+
+- 二进制 1100 = 十进制 12
+- 十进制 11 = 11
+- 十六进制 D = 13
+
+按从小到大排序是：11、12、13。
+
+对应选项是 B。
+
+Answer: B",251,156,0.000000
+112,machine_learning,computer science,B,B,True,"逐条判断：
+
+1. **PCA** 通常对协方差矩阵做特征分解，矩阵大小是 **特征数 × 特征数**；而很多聚类相关的特征分解方法（如谱聚类）通常对相似度矩阵/拉普拉斯矩阵做分解，大小是 **样本数 × 样本数**。这两个矩阵一般**不同大小**，所以该陈述是 **错**。
+
+2. **逻辑回归** 不是 **线性回归** 的特殊情况。它们虽然都可以写成线性形式的加权和，但一个用于回归，一个主要用于分类，损失函数和输出解释都不同，所以该陈述是 **错**。
+
+因此答案是 **B**。
+
+Answer: B",216,968,0.000000
+113,college_computer_science,computer science,D,D,True,"逐条判断：
+
+- I：错误。IPv4 数据包不要求源端就必须满足“路径上最小 MTU”；是否需要分片由途中链路 MTU 和分片标志等决定。
+- II：正确。IPv4 路由过程中，数据包可能在路由器处被分片。
+- III：正确。IPv4 分片只在目的主机进行重组。
+
+因此正确的是 II 和 III。
+
+Answer: D",254,372,0.000000
+114,college_computer_science,computer science,C,C,True,"每个数据包大小是 1000 字节。
+
+- 网络带宽：每秒 1000 个包  
+  \=> 1000 × 1000 = 1,000,000 字节/秒
+- CPU 处理一个包需要 10 毫秒  
+  \=> 每秒可处理 1000 毫秒 / 10 毫秒 = 100 个包  
+  \=> 100 × 1000 = 100,000 字节/秒
+
+实际最大速率取两者较小值，所以是 **100,000 字节/秒**。
+
+Answer: C",263,902,0.000000
+115,college_computer_science,computer science,D,D,True,"先逐对检查能否通过**一致代换**使两式完全相同。
+
+1. **(I, II)**  
+   I: \(f(w,w)\)  
+   II: \(f(x,1)\)  
+   令 \(w=1\)、\(x=1\)，两者都可变成 \(f(1,1)\)，所以**可同一**。
+
+2. **(I, III)**  
+   I: \(f(w,w)\)  
+   III: \(f(y,g(z))\)  
+   令 \(w=g(z)\)、\(y=g(z)\)，则两者都可变成 \(f(g(z),g(z))\)，所以**可同一**。
+
+3. **(II, III)**  
+   II: \(f(x,1)\)  
+   III: \(f(y,g(z))\)  
+   需要把 \(1\) 代成 \(g(z)\)，但常量 \(1\) 不能与函数项 \(g(z)\) 同一，所以**不可同一**。
+
+因此，只有 **(I, II)** 和 **(I, III)** 属于可同一的表达式。
+
+Answer: D",289,1573,0.000000
+116,machine_learning,computer science,B,B,True,"陈述1：若这里的 \(p(x)\) 指连续随机变量的概率密度函数，那么它不一定满足 \(0 \le p(x) \le 1\)，因为密度值可以大于 1。  
+陈述2：决策树通常是通过**最大化信息增益**来选择划分，而不是最小化信息增益。
+
+因此两项都错。
+
+Answer: B",192,569,0.000000
+117,high_school_computer_science,computer science,A,A,True,"只有商品数据库中的现有信息（尤其是“可用数量”）足以判断某些商品是否已经售罄、当前不在店内。其余选项都需要顾客性别、年龄或按时间统计的销售记录，数据库里没有。
+
+Answer: A",308,470,0.000000
+118,machine_learning,computer science,C,C,True,"这描述的是欠拟合。
+
+Answer: $C",138,324,0.000000
+119,college_computer_science,computer science,D,D,True,"将十六进制 `D4FE2003` 转成二进制后，统计其中 `1` 的个数：
+
+- `D` = `1101`，有 3 个 1  
+- `4` = `0100`，有 1 个 1  
+- `F` = `1111`，有 4 个 1  
+- `E` = `1110`，有 3 个 1  
+- `2` = `0010`，有 1 个 1  
+- `0` = `0000`，有 0 个 1  
+- `0` = `0000`，有 0 个 1  
+- `3` = `0011`，有 2 个 1  
+
+总共有 `3+1+4+3+1+0+0+2 = 14` 个 `1`。
+
+占用百分比为：
+
+\[
+\frac{14}{32} = 43.75\% \approx 44\%
+\]
+
+Answer: D",215,501,0.000000
+120,machine_learning,computer science,B,B,True,"这是一个**无监督学习**问题。
+
+因为题目中提到的是：  
+- 只有大量医疗记录数据  
+- 目标是**发现患者是否存在不同的群体/簇**  
+- 并根据这些群体制定不同治疗方案  
+
+这属于**聚类（clustering）**这类无监督学习任务，而不是有标签的分类问题。
+
+Answer: B",219,223,0.000000
+121,college_computer_science,computer science,C,A,False,"这种共享方式的主要缺点是：**一个用户对共享文件所做的修改会被其他共享者立即看到**，也就是说共享副作用很强，缺乏各自独立的副本。
+
+Answer: A",381,2126,0.000000
+122,machine_learning,computer science,A,A,True,"这个网络是全连接的，并且每一层都有偏置项，所以参数数目要把每层的权重和偏置都算上：
+
+- 输入层 \(100\) 到第一隐藏层 \(1000\)：  
+  权重 \(100 \times 1000 = 100000\)，偏置 \(1000\)
+- 第一隐藏层 \(1000\) 到第二隐藏层 \(10\)：  
+  权重 \(1000 \times 10 = 10000\)，偏置 \(10\)
+- 第二隐藏层 \(10\) 到输出层 \(1\)：  
+  权重 \(10 \times 1 = 10\)，偏置 \(1\)
+
+总参数数目：
+\[
+100000 + 1000 + 10000 + 10 + 10 + 1 = 111021
+\]
+
+因此选 A。
+
+Answer: $A",283,404,0.000000
+123,college_computer_science,computer science,D,D,True,"在选择分页系统的页面大小时，需要综合考虑页表大小、内部碎片以及磁盘访问特性等因素。
+
+- I 对：页面越大，同样的内存容量需要的页数越少，因此页表更小。
+- II 对：页面越小，内部碎片通常越少。
+- III 对：磁盘访问时间通常主要受寻道和旋转延迟影响，与页长关系不大，因此较大的页面往往更方便。
+
+Answer: D",254,587,0.000000
+124,high_school_computer_science,computer science,C,C,True,"在这种情况下，最好的做法是先把需求说明清楚，明确当数组中有多个符合条件的元素时应该返回哪一个或如何处理，而不是擅自假设或临时添加输出信息。
+
+Answer: C",282,309,0.000000
+125,computer_security,computer science,B,B,True,"AH 协议提供源身份验证和数据完整性，但不提供隐私性（机密性）。
+
+Answer: B",134,548,0.000000
+126,machine_learning,computer science,A,A,True,"两项都正确：斯坦福情绪树库（SST）包含的是电影评论，宾夕法尼亚树库（Penn Treebank）也确实被用于语言建模。
+
+Answer: A",166,311,0.000000
+127,machine_learning,computer science,D,D,True,"第一句是错的：L1 正则化通常比 L2 更容易产生稀疏解。  
+第二句是对的：残差连接既出现在 ResNets 中，也广泛用于 Transformers 中。
+
+Answer: D",185,208,0.000000
+128,machine_learning,computer science,B,B,True,"Lasso 更适合做特征选择，因为它会把一部分系数压缩到 0，从而实现变量筛选；Ridge 主要是做系数收缩，一般不会把系数变为 0。
+
+Answer: B",137,157,0.000000
+129,computer_security,computer science,C,C,True,"Nmap 端口状态的标准描述包括：open、closed、filtered、unfiltered，以及组合状态 open|filtered、closed|filtered。  
+在给出的选项中，最接近的是 **C**。
+
+Answer: C",146,515,0.000000
+130,machine_learning,computer science,B,B,True,"在图像卷积里，只有**中心位置为 1，其余全为 0** 的卷积核，才会在常规设置下保持图像不变；它相当于“恒等滤波器”。
+
+- A：会把对角线邻域的像素加进来，不是不变
+- B：中心为 1，其余为 0，图像不变
+- C：会把周围 9 个像素全加起来，图像会变亮/模糊
+- D：输出全 0，当然会改变图像
+
+Answer: $B",345,520,0.000000
+131,computer_security,computer science,D,D,True,"“__________” 指的是内存中一段连续的空间，用来临时存放数据，比如字符串或整数数组，这描述的是**缓冲区**。
+
+Answer: D",140,182,0.000000
+132,college_computer_science,computer science,C,C,True,"在假定**始终使用写分配（write-allocate）**时：
+
+- **直写（write-through）**：每次写入都会同时更新主内存；
+- **回写（write-back）**：写入通常只更新缓存，只有在脏块被替换/清除时才写回主内存。
+
+因此，**回写导致主内存操作的写入比例不可能大于直写**，因为直写几乎是“每次写都触发主存写”。
+
+所以正确的是 **C**。
+
+Answer: C",400,2072,0.000000
+133,machine_learning,computer science,B,C,False,Answer: C,211,347,0.000000
+134,high_school_computer_science,computer science,C,C,True,"DDoS 和 DoS 的主要区别在于：DDoS 通常由**多个被控制的计算机/设备**同时发起，而 DoS 往往来自**单一来源**。因此最能描述两者差异的是**发起攻击的计算机数量**。
+
+Answer: C",173,172,0.000000
+135,machine_learning,computer science,A,A,True,"在多项式回归中，最直接影响模型复杂度、拟合能力以及泛化权衡的，是**多项式的次数**。  
+它决定了模型能表示多复杂的函数，因此对偏差-方差权衡影响最大；而用矩阵求逆还是梯度下降只是求解方法，不改变模型本身。
+
+Answer: A",187,959,0.000000
+136,machine_learning,computer science,A,D,False,"先分别判断两个陈述：
+
+1. **错误**。  
+   “所有矩形”是凸集。若取 5 个共线点，那么任何矩形与这条直线的交集都是一个区间，不可能实现类似 `1,0,1,0,1` 这样的任意标记，因此不可能“任意一组 5 个点”都能被分裂。
+
+2. **正确**。  
+   对于 **1-NN**，任意有限点集都可以被其“自身作为训练样本”来实现任意标记：每个点离自己最近，所以可以把这组点任意标号并被 1-NN 完全拟合。因此其 VC 维数是**无限**的。
+
+所以答案是 **D**。
+
+Answer: D",198,3096,0.000000
+137,computer_security,computer science,B,A,False,"EXE 通常会把超时的约束查询当作“可能可满足”来处理，以便继续沿着该路径执行并尽量保持探索进度。
+
+Answer: A",210,1440,0.000000
+138,college_computer_science,computer science,D,D,True,"先把定义理解清楚：
+
+- 空串 \(e^M=e\)
+- 如果 \(w\) 是字符串，且 \(a\) 是长度为 1 的字符串，那么  
+  \((aw)^M = a\,w^M\,a\)
+
+所以对单个字符 \(a\)，有
+\[
+a^M=(ae)^M=a\,e^M\,a=aa
+\]
+因此 A 错。
+
+再看 B，取 \(a=c,\ x=b\)：
+\[
+(ab)^M=abba,\quad (ba)^M=baab
+\]
+不相等，所以 B 错。
+
+再看 C，取 \(x=a,\ y=b\)：
+\[
+(xy)^M=(ab)^M=abba
+\]
+而
+\[
+y^M x^M = bb\,aa = bbaa
+\]
+也不相等，所以 C 错。
+
+因此只有 D 正确。
+
+Answer: $D",251,2155,0.000000
+139,machine_learning,computer science,D,D,True,"陈述1是错的：最大间隔并不保证在所有线性分类器中都具有“最低”的泛化误差，只是通常有更好的泛化界。  
+陈述2是对的：类条件高斯生成模型对应的判别边界至多是二次型，用次数不超过 3 的多项式（实际上二次就够）可以表示。
+
+Answer: D",243,695,0.000000
+140,college_computer_science,computer science,A,A,True,"访问矩阵模型的主要问题是它本身通常非常大且稀疏，实际管理和存储都不方便，因此最典型的缺点是 A。
+
+Answer: A",171,414,0.000000
+141,computer_security,computer science,C,C,True,"WPA（尤其是最初的 WPA）采用的是 **TKIP**（Temporal Key Integrity Protocol，临时密钥完整性协议），用于增强 WEP 的安全性；而 **AES** 通常对应的是 WPA2。  
+
+Answer: C",113,156,0.000000
+142,machine_learning,computer science,D,D,True,"回归分析通常用于描述变量之间的关系、进行预测和解释变量影响，但**不能直接发现因果关系**。因此，错误的是 **D**。
+
+Answer: D",147,150,0.000000
+143,high_school_computer_science,computer science,C,C,True,"A 和 B 都是 Python 的常见特性描述：Python 支持自动垃圾收集，也可与 C、C++、COM、ActiveX、CORBA 和 Java 等进行集成，因此选 C。
+
+Answer: C",165,411,0.000000
+144,machine_learning,computer science,B,B,True,"逐句判断：
+
+1. **错误**。核密度估计（KDE）并不等价于把每个样本点 \(X_i\) 的响应值都设为 \(Y_i=1/n\) 的核回归。这个说法不符合标准的核回归/核密度估计形式。  
+2. **错误**。决策树的深度一般不可能大于用于建树的训练样本数；在极端情况下最多也只是接近样本数（如 \(n-1\)），但不会超过样本数。
+
+所以两句都错。  
+Answer: B",206,1177,0.000000
+145,machine_learning,computer science,A,A,True,"线性硬间隔 SVM 要求训练数据严格线性可分，否则约束无可行解；而逻辑回归、软间隔 SVM 都不要求线性可分。  
+Answer: A",151,914,0.000000
+146,college_computer_science,computer science,D,D,True,"在 8 位二补码中，可表示范围是 **-128 到 127**。
+
+逐项判断：
+
+- **A)** 11111111 = -1，00000001 = 1，和为 0，不溢出
+- **B)** 00000001 = 1，10000000 = -128，和为 -127，不溢出
+- **C)** 11111111 = -1，10000001 = -127，和为 -128，刚好在范围内，不溢出
+- **D)** 10000001 = -127，10101010 = -86，和为 **-213**，超出范围，**会溢出**
+
+Answer: D",156,559,0.000000
+147,college_computer_science,computer science,C,A,False,"先看块映射关系：
+
+- Cache 大小 2K，块大小 8B，所以共有 \(2K/8 = 256\) 个块。
+- A 有 256 个 4B 元素，共 128 个块。
+- B[2*i] 访问的是 B 的连续 256 个块中的前 256 个访问次序。
+
+由于 A 的 128 个块可以一直留在 cache 里，而 B 前 128 个块在 A 对应块被真正装入前就已经过去了，后 128 个 B 块又映射到 cache 的另一半，不会挤掉 A 的脏块，所以执行过程中没有脏块被替换写回内存。
+
+因此写回内存的字节数是 0。
+
+Answer: A",376,9817,0.000000
+148,computer_security,computer science,C,C,True,"在这些选项中，**身份验证**本身不是安全漏洞，而是一种安全机制；其余选项都属于常见的安全风险或攻击方式。
+
+Answer: C",121,214,0.000000
+149,college_computer_science,computer science,D,D,True,"I 可判定：直接模拟前 \(n\) 步即可。  
+II 不可判定：可归约停机问题。  
+III 可判定：若始终未扫描到 \(n\) 个不同磁带格，则在最多 \(n-1\) 个格子内的配置只有有限多个，必会重复；一旦重复，之后不可能再扩展到 \(n\) 个不同格子。
+
+Answer: $D",347,3541,0.000000
+150,high_school_macroeconomics,economics,D,D,True,"“分配效率”指资源被用于生产社会所需要的商品和服务，而且产量恰好合适、达到社会最优配置。对应的是 D。
+
+Answer: D",176,251,0.000000
+151,high_school_macroeconomics,economics,C,C,True,"在 AD-AS 模型中，消费支出增加会使总需求（AD）右移。短期内通常表现为：
+
+- 实际 GDP：上升  
+- 价格水平：上升  
+- 失业率：下降  
+
+所以正确答案是 C。
+
+Answer: C",235,170,0.000000
+152,high_school_macroeconomics,economics,D,D,True,"预期未来价格上涨放缓，通常会压低工资和定价预期，从而使实际通胀也趋于放缓；在给出的选项里，最符合的是“预期会成为现实”。
+
+Answer: D",183,2203,0.000000
+153,high_school_microeconomics,economics,D,D,True,"空气通常既能带来最大的总效用，又因为极其充足而具有最小的边际效用。
+
+Answer: D",135,349,0.000000
+154,high_school_macroeconomics,economics,A,C,False,"要把经济从 **5000** 拉回到充分就业 GDP **4000**，需要的是 **紧缩性政策**，即减少总需求。
+
+四个选项里，**C** 包含了 **公开市场售债**，这是紧缩性的货币政策；虽然减税是扩张性的，但相比之下，售债带来的收缩效应更可能主导，使 GDP 下降。
+
+Answer: C",235,2822,0.000000
+155,high_school_microeconomics,economics,D,D,True,"垄断企业在产品定价时面临向下倾斜的需求曲线，因此其边际收益通常低于价格；而完全竞争企业则有 \(P=MR\)。所以正确选项是 D。
+
+Answer: $D",151,313,0.000000
+156,econometrics,economics,A,A,True,"逐项判断：
+
+- i) 错。协整变量不一定平稳，通常它们各自是同阶单整（如 \(I(1)\)）。
+- ii) 对。协整的核心特征就是：\(x_t\) 和 \(y_t\) 的某个线性组合是平稳的。
+- iii) 错。协整方程描述的是**长期均衡关系**，不是短期关系。
+- iv) 对。若 \(y_t\) 对 \(x_t\) 的回归是真正的协整回归，则残差应当是平稳的。
+
+因此正确的是 (ii) 和 (iv)。
+
+Answer: A",297,642,0.000000
+157,high_school_microeconomics,economics,C,C,True,"价格歧视型垄断之所以不同于非价格歧视型垄断，核心在于它能通过对不同消费者收取不同价格，攫取更多消费者剩余，因此通常获得更高利润。
+
+Answer: C",200,1093,0.000000
+158,high_school_macroeconomics,economics,C,C,True,"这类题目考察的是宏观政策方向：  
+- 扩张性政策 = 增加货币供给、预算赤字  
+- 紧缩性政策 = 减少货币供给、增税、减支出  
+
+如果题目指的是抑制通胀缺口，应选择全部为紧缩性政策的组合。
+
+Answer: C",219,4229,0.000000
+159,high_school_macroeconomics,economics,A,A,True,"GDP 通常由美国的经济分析局（Bureau of Economic Analysis）按季度计算一次。
+
+Answer: A",147,231,0.000000
+160,high_school_macroeconomics,economics,D,B,False,"投资需求对利率越不敏感，扩张性财政政策引起的挤出效应越小，因此政策效果越强。  
+Answer: B",179,1887,0.000000
+161,high_school_macroeconomics,economics,D,D,True,"贸易顺差（出口大于进口）往往与国内需求较弱、进口较少有关。相对较低的收入水平会压低消费和进口需求，因此更可能导致贸易顺差。其余选项一般都会削弱顺差。
+
+Answer: D",149,782,0.000000
+162,high_school_microeconomics,economics,B,B,True,"如果贸易是基于**相对机会成本**，那么各国会分别出口自己具有**比较优势**的商品，而不是看绝对优势。  
+这里应当是：**美国在桂鱼生产上具有比较优势，秘鲁在凤尾鱼生产上具有比较优势**。
+
+Answer: B",293,2142,0.000000
+163,high_school_macroeconomics,economics,D,D,True,"逐项看：
+
+- A：长期总供给曲线通常是垂直的，弹性不等于 1。
+- B：支出乘数一般大于 1。
+- C：货币乘数或银行乘数通常也不等于 1。
+- D：在简单宏观模型中，**平衡预算乘数等于 1**。
+
+Answer: $D",141,361,0.000000
+164,high_school_macroeconomics,economics,A,A,True,"总供给曲线向左移动（等价于向上移动）时，表示在每一个价格水平下，实际产出都减少了。与总需求不变时的均衡相比：
+
+- 均衡价格水平会上升
+- 均衡产出量会下降
+
+Answer: A",236,230,0.000000
+165,high_school_macroeconomics,economics,A,A,True,"这是典型的“挤出”效应：政府借款增加会推高利率，从而抑制私人实际投资。
+
+Answer: A",151,164,0.000000
+166,econometrics,economics,D,D,True,"在检验结构稳定性的子样本回归中，**不受限制（unrestricted）** 的模型是分别对两个子样本各自回归，因此其残差平方和是**两个子样本 RSS 之和**。
+
+Answer: D",240,334,0.000000
+167,high_school_macroeconomics,economics,D,D,True,"滞涨通常是由负向供给冲击引起的，会使通胀上升、失业率上升，并推动菲利普斯曲线向右移动。  
+Answer: D",145,941,0.000000
+168,econometrics,economics,D,D,True,"二型错误（Type II error）指的是：**当零假设实际上是错误时，却未能拒绝它**，也就是“拒绝错误零假设失败的概率”。
+
+Answer: D",167,250,0.000000
+169,econometrics,economics,D,D,True,"对于带漂移 \(b\) 的随机游走，模型可写为：
+
+\[
+y_t = y_{t-1} + b + u_t
+\]
+
+所以对下一期“变化量” \(\Delta y_{t+1}\) 的最优一步预测是漂移项 \(b\)；在实际中通常用样本内的平均变化来估计它。
+
+因此正确选项是：
+
+Answer: D",162,612,0.000000
+170,high_school_microeconomics,economics,D,D,True,"最低工资如果高于市场均衡工资，通常会使劳动力供给大于需求，导致**劳动力过剩**（也就是失业或排队找工作的人变多）。
+
+Answer: D",156,219,0.000000
+171,high_school_macroeconomics,economics,D,D,True,"产品质量提高时，如果 CPI 没有充分调整质量变化带来的价值提升，就会把一部分“质量改善”误算成“价格上涨”，从而**高估通货膨胀率**。
+
+Answer: D",135,455,0.000000
+172,high_school_macroeconomics,economics,A,A,True,"长期 AS 曲线通常表示为**垂直线**，因为在长期中总产出由生产要素和技术决定，而不取决于价格水平。
+
+Answer: A",168,126,0.000000
+173,high_school_macroeconomics,economics,D,D,True,"从古典经济学的长期观点看，货币是中性的：货币供给增加主要影响名义变量，而不会长期影响实际产出，因此更典型的结果是物价水平按比例上升。
+
+Answer: D",160,238,0.000000
+174,high_school_microeconomics,economics,B,B,True,"杂货店里的销售税通常会被归类为**递减税（累退税）**，因为它对低收入者的收入占比影响更大。
+
+Answer: B",132,827,0.000000
+175,high_school_macroeconomics,economics,D,D,True,"在总供给曲线为**古典（垂直）**时，经济的**均衡产出量由潜在产出决定，不会因总需求变动而改变**。  
+因此，当总需求曲线向右移动时：
+
+- **均衡价格水平上升**
+- **均衡产出量保持不变**
+
+所以正确选项是 **D**。
+
+Answer: D",239,193,0.000000
+176,high_school_macroeconomics,economics,C,C,True,"凯恩斯经济理论强调在需求不足时，政府应优先使用财政政策来影响总需求，因此最符合的是 C。
+
+Answer: C",204,249,0.000000
+177,high_school_macroeconomics,economics,B,B,True,"部分准备金制创造货币的能力，取决于银行是否把可贷出的准备金继续贷出去。  
+如果银行**持有超额准备金**，就意味着这些资金没有被继续放贷出去，因此货币创造能力会减弱。
+
+Answer: B",189,482,0.000000
+178,high_school_macroeconomics,economics,A,D,False,"事业人员通常指把工作/事业作为主要发展方向、对职业有追求的人。  
+I 的 Mary 有上进心，符合；II 的 John 已经退休，不符合；III 的 Diane 想从兼职转为全职，也符合。
+
+Answer: D",186,766,0.000000
+179,high_school_microeconomics,economics,A,A,True,"需求越具体、可替代品越多，需求通常越有弹性。四个选项里，“白色福特厢式旅行车”最具体，因此需求弹性最大。
+
+Answer: A",158,247,0.000000
+180,econometrics,economics,A,A,True,"这种情况最准确地描述为**删失**（censoring）：因变量在某个范围外不可观测，但自变量仍然可用。
+
+Answer: A",164,559,0.000000
+181,high_school_macroeconomics,economics,B,D,False,"这笔交易会被记为**进口增加**，因此**净出口减少**；但由于这台娱乐系统是在**中国生产**的，不计入美国国内生产，所以**美国 GDP 不变**。
+
+Answer: D",194,362,0.000000
+182,high_school_macroeconomics,economics,A,A,True,"国债增加通常意味着政府发行更多国债，吸引投资者买入时需要先换成美元，因此**美元需求增加**，进而**美元升值**。
+
+Answer: A",191,785,0.000000
+183,high_school_macroeconomics,economics,C,C,True,"“Ceteris paribus” 是拉丁语，意思是“其他条件不变”或“其余一切保持不变”。
+
+Answer: C",165,132,0.000000
+184,econometrics,economics,B,B,True,"Hausman 检验主要用于检验某个变量是否外生、是否需要按联立方程中的内生变量来处理。  
+因此最合适的是 **B**。
+
+Answer: B",182,752,0.000000
+185,econometrics,economics,C,C,True,"Johansen 的 **trace（迹）检验** 在检验“至多有 \(r\) 个协整关系”时，会把 **第 \(r+1\) 到第 \(n\)** 个特征值都加进去。  
+这里系统有 4 个变量，且考虑 2 个协整向量时，对应用的是 **剩下的 2 个特征值**，也就是 **最小的 2 个**。
+
+Answer: C",175,613,0.000000
+186,high_school_macroeconomics,economics,A,A,True,"凯恩斯主义认为，大萧条主要源于总需求不足，尤其是支出不足导致的有效需求不够。
+
+Answer: A",151,552,0.000000
+187,high_school_macroeconomics,economics,B,B,True,"货币供给增加会使货币供给曲线右移，在货币需求不变、且需求曲线向下倾斜的情况下，均衡名义利率会下降。
+
+Answer: B",180,568,0.000000
+188,high_school_macroeconomics,economics,D,D,True,"根据货币主义理论，最核心的观点之一是：货币供给应以稳定、可预测的速度增长，而不应频繁进行主动干预。
+
+因此，正确选项是 **D**。
+
+Answer: D",203,194,0.000000
+189,econometrics,economics,A,A,True,"样本外预测准确率通常更高的模型，往往具有较强的理论支撑，并且结构相对稳定、不过度复杂。  
+A 符合这一点；B 容易过拟合，C 的结构变化会削弱预测能力，D 也不一定带来更高准确率。
+
+Answer: A",191,1315,0.000000
+190,high_school_microeconomics,economics,A,A,True,"相对自由或容易进入意味着进入壁垒低，通常会带来：
+
+- 更多企业进入，竞争者更多；
+- 消费者选择更多；
+- 单个企业面对的需求更容易被替代，因此需求价格弹性更大。
+
+所以最匹配的是 A。
+
+Answer: A",263,465,0.000000
+191,high_school_macroeconomics,economics,D,D,True,"紧缩性货币政策会减少货币供给，使利率上升；利率上升会抑制投资和消费，导致总需求下降，进而使产出下降；在短期内，价格水平也会下降。
+
+Answer: D",255,263,0.000000
+192,high_school_microeconomics,economics,B,A,False,"劳动需求曲线指的是市场上对劳动的需求曲线，通常表现为工资越高，企业愿意雇佣的劳动数量越少。四个选项中最符合的是 A。
+
+Answer: $A",142,474,0.000000
+193,high_school_microeconomics,economics,A,A,True,"劳动总产量“正在以越来越快的速度增长”表示总产量的增长速度也在上升，也就是总产量曲线的斜率在变大，因此**边际产量在上升**。
+
+Answer: A",173,196,0.000000
+194,high_school_macroeconomics,economics,B,B,True,"货币主义者通常认为，货币流通速度 \(V\) 和实际产出 \(Q\) 在短期内是相对稳定的，因此货币供给变化主要会影响价格水平。
+
+Answer: B",138,342,0.000000
+195,high_school_microeconomics,economics,C,C,True,"这是一种衡量企业垄断定价能力的指标，称为 **Lerner 指数**，其表达式为：
+
+\[
+\frac{P - MC}{P}
+\]
+
+该值越大，说明价格高于边际成本的程度越大，企业的市场定价能力越强。
+
+Answer: C",164,275,0.000000
+196,high_school_microeconomics,economics,D,D,True,"比较优势看的是“机会成本”而不是绝对产量。  
+Ray 做饭的机会成本是 50 根草/小时，Dorothy 是 100 根草/小时，所以 Ray 在做饭方面有比较优势，Dorothy 在拔草方面有比较优势。
+
+Answer: D",253,435,0.000000
+197,econometrics,economics,B,B,True,"自助抽样法（bootstrap）更适合在**真实分布未知**、且希望用样本来**模拟/逼近原始数据分布特征**的时候使用。  
+它**不是**为了“确切知道”真实分布，也**不是**在“样本非常小”时就一定有优势。
+
+因此正确的是 **(i) 和 (iii)**。
+
+Answer: B",264,5376,0.000000
+198,high_school_macroeconomics,economics,C,D,False,"如果 GDP 增加的是名义值，那么这只能说明价格和/或产出上升，不能单独推出失业率或生产率变化。
+
+Answer: D",158,1077,0.000000
+199,econometrics,economics,B,A,False,"房子的价格通常属于离散的数值（以货币最小单位来计）。  
+Answer: $A",119,1779,0.000000
+200,human_aging,health,D,D,True,"这道题考查“性别差异可能与哪些方面的差异有关”。从题目列出的三项来看，激素差异、风险行为/职业选择差异、吸烟比例差异都可能相关，因此应选“以上皆是”。
+
+Answer: D",135,270,0.000000
+201,professional_medicine,health,D,D,True,"This presentation is most consistent with **condyloma acuminata (genital warts) due to HPV**: painless, flesh-colored penile papules that turn white with acetic acid. A common next treatment is **cryotherapy**.
+
+Answer: D",373,354,0.000000
+202,nutrition,health,A,A,True,Answer: A,138,4293,0.000000
+203,human_aging,health,D,D,True,Answer: D,190,184,0.000000
+204,professional_medicine,health,A,A,True,Answer: A,337,858,0.000000
+205,nutrition,health,B,B,True,Answer: B,120,1263,0.000000
+206,virology,health,A,C,False,"病毒组装通常依赖于**病毒基因组中编码的装配信息**，也就是“蓝图”，让病毒结构蛋白和核酸按特定方式自组装成完整病毒颗粒，而不是随机拼凑。
+
+Answer: C",192,543,0.000000
+207,professional_medicine,health,A,A,True,"这位患者最符合**大疱性类天疱疮（bullous pemphigoid）**的表现：老年人、张力性水疱、好发于腋窝和腹股沟等褶皱部位、**无口腔黏膜受累**。
+
+其本质是**表皮与真皮交界处黏附失败**，主要与**基底膜区的半桥粒（hemidesmosome）**相关。
+
+Answer: A",228,633,0.000000
+208,professional_medicine,health,A,A,True,"这位患者最符合 **隐孢子虫（Cryptosporidium parvum）** 感染：  
+- **AIDS + 持续大量水样腹泻 + 体重下降**
+- **无明显腹痛、发热或血便**
+- 旅行/饮水或食物暴露后更常见  
+- 其余选项中，**CMV** 通常见于更低 CD4（常 <50）且常有腹痛、血便；**MAC** 多为播散性感染；**沙门菌**更常表现为急性感染伴发热
+
+Answer: A",420,1036,0.000000
+209,clinical_knowledge,health,A,A,True,Answer: A,186,1561,0.000000
+210,college_medicine,health,D,D,True,"一般情况下，氧气消耗量可按 **1 L O₂ ≈ 20 kJ** 来估算。  
+所以：
+
+2 L/min × 20 kJ/L = **40 kJ/min**
+
+因此，能量消耗率大约是 **40 kJ/min**。
+
+Answer: D",151,160,0.000000
+211,virology,health,B,B,True,"HIV 母婴传播最重要的单一决定因素是**母亲的病毒载量**，病毒载量越高，传播风险通常越大。
+
+Answer: B",140,182,0.000000
+212,nutrition,health,C,C,True,"在人类营养中评价蛋白质质量时，**发育中的大鼠并不是理想模型**，因为它们对蛋白质和氨基酸的需要与人类不同，常会把某些食物蛋白的质量**低估**。因此，正确说法是 **C**。
+
+Answer: C",260,710,0.000000
+213,virology,health,B,C,False,"双盲研究让受试者和研究者都不知道分组，以减少受试者偏差和观察者偏差。
+
+Answer: C",164,253,0.000000
+214,human_aging,health,B,B,True,"客观人格测验通常是以标准化问卷的形式，由被试直接作答、评分较为客观；其中 **MMPI（明尼苏达多项人格测验）** 就是典型例子。TAT 和罗夏墨迹测验都属于投射测验，不是客观人格测验。
+
+Answer: B",144,255,0.000000
+215,college_medicine,health,D,B,False,"顺利跑完马拉松最关键的要素是良好的体能与耐力，因此应选 **B**。
+
+Answer: B",119,189,0.000000
+216,college_medicine,health,A,A,True,"反复冲刺活动中的外周肌疲劳，通常与肌肉内**无机磷酸盐的累积**等代谢产物堆积有关。
+
+Answer: A",157,859,0.000000
+217,college_medicine,health,B,B,True,Answer: B,206,1863,0.000000
+218,nutrition,health,D,D,True,"消化能量摄入量 = 总能量摄入量 − 粪便能量 = 9279 − 647 kJ。  
+代谢能量摄入量 = 总能量摄入量 − 粪便能量 − 尿液能量 = 9279 − (647 + 318) kJ。  
+
+因此选 D。  
+Answer: D",245,212,0.000000
+219,human_aging,health,B,B,True,"对同居老年人的调查表明，他们通常把同居看作婚姻的替代选择，而不是迈向婚姻的第一步。
+
+Answer: B",152,1315,0.000000
+220,college_medicine,health,A,D,False,"根据依恋理论，最可能对一位陌生的男性心理学家表现出依恋的是在较不稳定、较少形成单一主要依恋对象的环境中长大的孩子。四个选项里，D 最符合这一点。
+
+Answer: D",240,2134,0.000000
+221,human_aging,health,A,C,False,"晚年神经质（neuroticism）增加常被视为认知功能下降的早期信号，因此更符合“认知能力下降”。
+
+Answer: C",131,1875,0.000000
+222,nutrition,health,C,C,True,"严格素食（纯素）饮食中最容易缺乏的是维生素 B12，因为它主要存在于动物性食物中。母亲若缺乏 B12，婴儿也更容易出现 B12 缺乏。
+
+Answer: C",136,178,0.000000
+223,professional_medicine,health,D,D,True,"该患者在使用青光眼滴眼液后出现活动后气短，最符合**非选择性 β 受体阻滞剂**的全身不良反应。滴眼液虽为局部用药，但仍可经鼻黏膜吸收，诱发**支气管痉挛/呼吸困难**，尤其在吸烟者或有潜在 COPD 的患者中更明显。
+
+噻吗洛尔（timolol）是典型代表。
+
+Answer: D",213,1058,0.000000
+224,human_aging,health,B,D,False,"投射测验相较于客观人格测验，通常能提供更丰富、更多样的个体信息，因此更符合题意的是 D。
+
+Answer: D",124,300,0.000000
+225,professional_medicine,health,C,C,True,"选择已经做过胸部 X 光的对照组，主要是为了让病例组和对照组在“疾病评估方式”上尽量一致，从而减少检测/评估偏倚（assessment bias，或信息偏倚的一种）。这样可以避免因为是否做过 X 光而造成疾病发现率不同。
+
+Answer: C",361,1203,0.000000
+226,college_medicine,health,B,B,True,"丙酮酸脱氢酶复合物主要催化丙酮酸氧化脱羧生成乙酰辅酶A；在真核细胞中位于线粒体基质。若单选，最佳答案是 B。
+
+Answer: B",155,1026,0.000000
+227,college_medicine,health,C,C,True,"DNA 转录生成新生 RNA 的过程在真核细胞中主要发生于细胞核内，因此应选 C。
+
+Answer: C",139,245,0.000000
+228,medical_genetics,health,B,B,True,"这个定义描述的是“表现型/表型”，即生物可观察到的性状，是基因和环境共同作用的结果。
+
+Answer: B",154,247,0.000000
+229,anatomy,health,B,B,True,"TMJ 的位置信息主要依赖关节囊和韧带中的本体感受器，这些结构属于关节外结构，因此答案选 B。
+
+Answer: B",174,871,0.000000
+230,human_aging,health,C,C,True,"我倾向于选择“超过一半”。  
+
+Answer: C",157,3559,0.000000
+231,clinical_knowledge,health,D,D,True,"血液之所以在心室收缩之间仍能继续在血管中流动，主要是因为动脉具有弹性，能够在心室舒张时回弹，推动血液前行。
+
+Answer: D",153,355,0.000000
+232,nutrition,health,D,D,True,"根据题干所述，流行病学证据强调的是“早期生命阶段”对后期健康的影响，并不局限于出生前，而是包括出生前和出生后早期这一段时期，因此正确说法是 D。
+
+Answer: D",344,354,0.000000
+233,clinical_knowledge,health,D,D,True,"在一个乙酰辅酶 A 进入三羧酸循环的一次完整循环中，通常产生 **2 分子 CO2** 和 **1 分子 ATP（或 GTP 等价物）**。
+
+Answer: D",173,287,0.000000
+234,professional_medicine,health,D,D,True,"该患者最符合**蛛网膜下腔出血**：起病突然、剧烈头痛，并伴有**颈项强直**；虽然目前神经系统查体正常、没有发热，但这些并不能排除蛛网膜下腔出血。脑膜炎通常会有发热、感染前驱症状或意识改变；偏头痛和紧张性头痛也不符合这种“突然发生的严重头痛”表现。
+
+Answer: D",316,400,0.000000
+235,virology,health,C,C,True,"乳头瘤病毒（HPV）在人群中最常见的传播方式是**皮肤/黏膜的直接接触**，尤其常见于**性接触**；在给出的选项里，最接近的是**通过皮肤破损处进入**。
+
+Answer: C",163,344,0.000000
+236,human_aging,health,B,C,False,"少量睡眠剥夺也常常会影响第二天的警觉性和注意力，这是最符合题意的选项。
+
+Answer: C",140,540,0.000000
+237,clinical_knowledge,health,D,A,False,"这题里，C 和 D 明显都是管制性很强的阿片类药物，B 也属于吗啡制剂；A 所指的可待因磷酸盐片在这里是唯一不属于该类管制药物的选项。
+
+Answer: A",175,4105,0.000000
+238,anatomy,health,B,B,True,"房室束（His束）属于特殊传导纤维，正常情况下是心房和心室之间的唯一电连接通路。四个选项里，最接近正确描述的是 **B**。
+
+Answer: B",238,2395,0.000000
+239,professional_medicine,health,D,D,True,"这位患者是**活动性强直性脊柱炎**，对常规 **NSAIDs** 和 **柳氮磺胺吡啶** 都无反应，下一步最合适的是使用**生物制剂**，尤其是**TNF-α 抑制剂**（如 etanercept、infliximab、adalimumab）。
+
+Answer: D",248,329,0.000000
+240,clinical_knowledge,health,B,B,True,"基因掺杂（gene doping）通常指利用基因操纵技术或相关方法来提高运动成绩。最符合的是 **B**。
+
+Answer: B",182,229,0.000000
+241,nutrition,health,D,C,False,"转氨作用主要依赖磷酸吡哆醛（维生素 B6 的辅酶），不需要维生素 B12。因此正确的是 C。
+
+Answer: C",219,624,0.000000
+242,college_medicine,health,D,D,True,"逐项判断：
+
+- A：磷酸果糖激酶（PFK）是糖酵解的限速酶，正确。
+- B：II 型（快肌、偏糖酵解）纤维的乳酸脱氢酶活性通常高于 I 型（慢肌、偏氧化）纤维，正确。
+- C：耐力训练会增加肌肉中与有氧代谢相关的 TCA 循环酶含量，正确。
+- D：氧并不是在 TCA 循环中直接被消耗的；它主要在电子传递链中作为最终电子受体被消耗，所以这项错误。
+
+Answer: D",191,542,0.000000
+243,anatomy,health,C,C,True,"前臂向身体弯曲的运动属于“屈曲”。
+
+Answer: C",124,257,0.000000
+244,clinical_knowledge,health,A,A,True,"周围神经病变最典型的是“手套-袜套样”感觉障碍，表现为远端、对称性的感觉减退。  
+因此正确的是 A。
+
+Answer: A",163,565,0.000000
+245,professional_medicine,health,C,C,True,"这位患者最符合 **乳管扩张症（duct ectasia）**。其典型特点是**中年/绝经前后女性**出现**乳头绿色、棕色或黏稠样分泌物**，常可无明显疼痛、发热或外伤史，体检也可能基本正常。  
+乳腺癌通常更常见**血性**分泌物或伴乳房肿块；垂体腺瘤会导致**泌乳素升高和乳汁样分泌物**；纤维囊性乳腺病可有乳房胀痛和结节感，但本题最典型的是乳管扩张症。
+
+Answer: C",244,395,0.000000
+246,college_medicine,health,D,B,False,"在这四种方法里，**B** 不太适合用来限制热量摄入，因为“奖励自己一顿美味大餐”很可能会把前面的控制成果抵消掉。
+
+Answer: B",229,716,0.000000
+247,college_medicine,health,A,A,True,"这段文字前后都在讲桑拿的生理机制与健康效应，紧接着最自然的延伸是介绍与“热应激反应”相关的分子机制，例如热休克蛋白，因此最可能接的是 A。
+
+Answer: A",1697,2134,0.000000
+248,clinical_knowledge,health,D,D,True,"呼吸功增加通常会表现为呼吸频率增快、出现呼吸作响、以及更多使用辅助呼吸肌；而每分钟 16 次属于正常呼吸频率，不属于呼吸功增加的表现。
+
+Answer: D",150,522,0.000000
+249,clinical_knowledge,health,B,D,False,Answer: D,132,525,0.000000
+250,prehistory,history,A,A,True,"巨石阵最适合描述为“巨石纪念碑”这一类史前巨石建筑，因此选择 A。
+
+Answer: A",134,1194,0.000000
+251,high_school_us_history,history,C,C,True,Answer: C,366,95,0.000000
+252,prehistory,history,D,D,True,"世界上最早的文明一般认为起源于两河流域的美索不达米亚。
+
+Answer: D",124,209,0.000000
+253,high_school_european_history,history,A,B,False,"这份《苏德互不侵犯条约》最相似的是那种**大国秘密划分势力范围**的协定；四个选项里，最接近的是 **《赛克斯-皮克协定》**。
+
+Answer: B",647,3461,0.000000
+254,high_school_us_history,history,D,D,True,"这四项法案里，A《谢尔曼反托拉斯法案》、B《州际贸易法案》、C《联邦贸易委员会法案》都属于对工商业进行监管、限制垄断或不正当竞争的法律；只有 D《纽兰兹开垦法案》主要是用于西部灌溉和土地开垦，不是为了授权政府管理工业。
+
+Answer: D",531,413,0.000000
+255,high_school_world_history,history,B,B,True,Answer: B,612,525,0.000000
+256,prehistory,history,C,C,True,"相比其他早期文明，印度河文明和两河流域文明最突出的共同特点是**城市规划水平**较高，尤其体现在布局、排水和街道设计上。
+
+Answer: C",169,547,0.000000
+257,prehistory,history,C,C,True,Answer: $C,130,526,0.000000
+258,high_school_world_history,history,C,C,True,"唐朝时期整体上更具开放和对外扩张色彩，而宋朝更偏向守势、防御型的对外政策，因此二者不同之处最符合的是 C。
+
+Answer: C",463,653,0.000000
+259,prehistory,history,B,B,True,"帕伦克王“帕卡尔大帝”的石棺盖，通常被考古学解释为他置身于玛雅宇宙观中的场景：处于地底怪兽与象征天界的神鸟之间，而不是“外星飞船”。
+
+Answer: B",246,587,0.000000
+260,high_school_us_history,history,D,D,True,"格伦维尔首相在法国和印度战争后主张加强对殖民地的管控、通过议会征税，并让殖民地分担战争债务；他并不是想继续或扩大“有益的忽视”。
+
+Answer: D",519,413,0.000000
+261,high_school_world_history,history,A,A,True,"这段话出自林则徐致维多利亚女王的信，核心是在谴责英国向中国倾销鸦片并造成严重危害。
+
+Answer: A",523,184,0.000000
+262,prehistory,history,B,B,True,"从采集食物到形成完全农业社会的转变，并不是一蹴而就的，而是一个持续了很长时间、通常以“几千年”为单位的过程；而且这种转变也并非只发生在除南美以外的地方，南美也有独立的农业起源。
+
+Answer: B",157,295,0.000000
+263,prehistory,history,D,D,True,"这题指的是与猛犸象等灭绝大型动物相关、以两面有凹槽的石器著称的“克洛维斯人（Clovis）”。因此选 D。
+
+Answer: D",136,1885,0.000000
+264,high_school_us_history,history,C,C,True,"他们来到普利茅斯定居，主要是因为他们是宗教分离主义者，希望找到一个可以自由信仰和敬拜的地方。  
+
+Answer: C",664,209,0.000000
+265,high_school_european_history,history,D,D,True,"这类宗教运动是**再洗礼派**（Anabaptists）：他们主张**成人洗礼**，并且不少派别强调**和平主义**，因此在宗教改革时期遭到严厉镇压。对应选项是 **D**。
+
+Answer: D",591,416,0.000000
+266,prehistory,history,B,B,True,"“通过臂对臂的摆动而在树上移动”通常称为“臂行/摆荡”，对应选项 B。
+
+Answer: B",136,419,0.000000
+267,prehistory,history,B,B,True,"印加帝国的劳役制度叫作 **Mit'a（米塔）**，是强制性的公共劳役。  
+Answer: B",132,985,0.000000
+268,high_school_european_history,history,D,D,True,"列宁在一战及其前后的经历中，最深刻地意识到：一个工业和技术都落后的国家，在战争与国际竞争中会非常脆弱，甚至面临被摧毁的危险。因此，最可能对他产生最大影响的是 **第一次世界大战期间俄国的失败与屈辱**，这让他更坚定地推动工业化。
+
+Answer: D",724,716,0.000000
+269,prehistory,history,A,A,True,"智人（Homo sapiens）不是最早制造工具的，也不是最早直立行走的；它是一个至今仍存续、相对稳定且延续时间较长的物种。  
+Answer: A",159,802,0.000000
+270,prehistory,history,C,A,False,Answer: A,143,2337,0.000000
+271,high_school_us_history,history,C,C,True,"南卡罗来纳州脱离联邦后，最直接的后果之一就是其他南方州相继脱离联邦，并组织成立了邦联。  
+
+Answer: C",592,275,0.000000
+272,prehistory,history,B,C,False,"在考古学中，遗物、生态遗存和骨骼之间的关系才是“语境/情境（context）”的核心，因此选 C。
+
+Answer: C",201,2463,0.000000
+273,prehistory,history,B,B,True,"根据动物牙齿的分析，可以看出他们把动物从别的地方带到了这里，说明这些人可能来自更远的地区，并且随身带着牲畜。
+
+Answer: B",205,2119,0.000000
+274,prehistory,history,C,C,True,"与尼安德特人最典型相关的是**莫斯特文化（Mousterian）**，所以选 **C**。
+
+Answer: C",128,980,0.000000
+275,high_school_european_history,history,A,A,True,"这段话的核心是在强调“围绕中心天体公转”的类比，并借此支持日心体系的思路；这最符合尼古拉·哥白尼的思想影响，而不是开普勒或伽利略本人。
+
+Answer: A",625,1097,0.000000
+276,prehistory,history,C,C,True,"这道题问的是“这个新物种被受争议的原因之一”。  
+Homo naledi 之所以引发争议，重要原因之一就是：**起初这些化石没有明确、可靠的年代测定**，所以它在进化时间线中的位置不清楚。
+
+因此选 **C**。
+
+Answer: C",301,308,0.000000
+277,high_school_us_history,history,C,D,False,"题干引文的核心观点是：**保守主义与自由意志主义本质上走的是同一条路，且都强调更少的政府干预、更多个人自由**。
+
+在给出的选项中，**法西斯主义者**最明显地反对这种观点，因为法西斯主义强调强国家、强控制、限制个人自由，和引文中的立场几乎完全相反。
+
+Answer: D",655,993,0.000000
+278,high_school_us_history,history,B,B,True,"这段材料反映的是北美殖民地前线居民因政府未能有效保护他们、进而对印第安人及殖民政府产生激烈冲突的情境。与之最相近的早期殖民时期事件，是同样因边疆安全和印第安政策引发的不满与武装反抗的 **Bacon's Rebellion**。
+
+Answer: B",846,1960,0.000000
+279,high_school_european_history,history,C,C,True,"拿破仑之所以能把法国大革命的影响扩展到他征服的地区，关键在于他推行了废除封建特权、取消农奴制等改革，这些措施传播了革命原则。
+
+Answer: C",493,823,0.000000
+280,high_school_european_history,history,B,B,True,"这封电报出现在第一次世界大战前的“七月危机”中，核心背景是巴尔干问题及德奥同盟体系下德国对奥匈帝国的支持。
+
+Answer: B",669,2627,0.000000
+281,prehistory,history,B,B,True,"较符合“社会阶层化和不平等”的考古证据的是 **B**。  
+它把带有较高价值随葬品的墓葬与较轻的体力劳动联系起来，体现出不同社会地位之间的差异。
+
+Answer: B",256,1619,0.000000
+282,prehistory,history,B,B,True,"研究结果更支持：粳稻和籼稻分别与各自当地的野生祖先更接近，说明它们可能是在东亚和南亚分别驯化、独立演化的。
+
+Answer: B",366,1276,0.000000
+283,high_school_us_history,history,D,D,True,"根据《邦联条例》，美国在邦联时期最显著的成就是制定了有关西北领地土地处理的规定，这对整个国家的发展有重要意义。
+
+Answer: D",380,426,0.000000
+284,prehistory,history,B,B,True,"驯鹿（北美驯鹿/麋鹿类）通常适应寒冷环境；如果在纽约哈得逊河谷附近发现可追溯到 10,000 年前的驯鹿骨头，最合理的推断是当时那里的气候比现在冷得多。
+
+Answer: B",200,435,0.000000
+285,prehistory,history,A,C,False,"这更符合“更广泛的社交网络与远距离联系”的解释。
+
+Answer: C",272,2469,0.000000
+286,high_school_european_history,history,D,D,True,"奥迪斯·T·梅森（Otis T. Mason）是人类学/民族学领域的学者，他所处时代的研究最受**达尔文**进化论思想影响。  
+
+Answer: D",398,568,0.000000
+287,high_school_us_history,history,D,D,True,"罗斯福的“大棒”政策本质上是“门罗主义的推论”：美国自认有责任在西半球充当维护秩序与稳定的守护者，以便必要时进行干预。最符合的是 D。
+
+Answer: D",610,521,0.000000
+288,prehistory,history,C,C,True,"第三次移民浪潮中，从阿拉斯加一路传播到格陵兰、横跨北极的文化，指的是 **托勒人（Thule）** 的文化。他们是现代因纽特人的祖先，约在700年前扩散开来。
+
+Answer: C",184,523,0.000000
+289,high_school_us_history,history,D,D,True,"这段话强调的是在“贫穷和冲突”中保护“自由民族”的希望，并以美国承担责任来援助那些面临共产主义威胁的国家。这正是杜鲁门主义的核心内容，具体体现为对希腊和土耳其的援助。
+
+Answer: D",347,141,0.000000
+290,prehistory,history,D,A,False,"根据这段时间范围内已发现的化石形态，研究人员更倾向于认为：存在两种或两种以上彼此相关、但地理分布不同的原始人类，它们都起源于更早期的非洲原始人类。
+
+Answer: A",282,1331,0.000000
+291,high_school_us_history,history,C,C,True,"贝弗里奇这段演讲出自 1898 年，核心是在为美国吞并并管理西班牙—美国战争后获得的海外领土（尤其是菲律宾）辩护，因此对应的是“美西战争”。
+
+Answer: C",626,832,0.000000
+292,prehistory,history,D,D,True,"大津巴布韦中央建筑群的城墙以巨大的花岗岩石块砌成，展现出复杂的干砌石结构，某些地方可高达 40 英尺；但它们并不是用砂浆粘合的。所以下列说法中不正确的是 D。
+
+Answer: D",211,1113,0.000000
+293,prehistory,history,A,C,False,"智人（Homo sapiens）的典型特征包括协作狩猎、对火的控制，以及带有随葬品的精心埋葬，因此应选 C。
+
+Answer: C",232,1988,0.000000
+294,high_school_us_history,history,B,C,False,"这段材料反映的是女性逐渐作为“公共消费者”进入餐饮空间、推动餐饮业与食品卫生改革的社会变化，最直接对应的是 1906 年的《纯净食品和药品法案》。
+
+Answer: C",353,2129,0.000000
+295,high_school_european_history,history,C,C,True,"从文中可推知，费里拉委员会促进了拜占庭学者与西欧学界的接触，从而加速了西欧对古典哲学，尤其是柏拉图思想的重新发现与传播。  
+Answer: C",439,816,0.000000
+296,high_school_world_history,history,D,D,True,Answer: D,743,524,0.000000
+297,prehistory,history,C,C,True,"这道题描述的是农业革命，也就是**新石器时代革命**，大约发生在**11,000年前**左右。
+
+Answer: C",218,303,0.000000
+298,high_school_european_history,history,B,B,True,Answer: B,802,831,0.000000
+299,prehistory,history,B,D,False,"考古学家通常不会把这些建造者描述为农业社会或古老国家，而更接近“早期复杂社会/原始文明”这一类说法。在给定选项里，最合适的是 D。
+
+Answer: D",157,5193,0.000000
+300,abstract_algebra,math,B,A,False,"由群中一般公式可知  
+\[
+(ab)^{-1}=b^{-1}a^{-1}.
+\]
+题目给出对任意 \(a,b\in G\)，都有  
+\[
+(ab)^{-1}=a^{-1}b^{-1}.
+\]
+因此
+\[
+a^{-1}b^{-1}=b^{-1}a^{-1}.
+\]
+令 \(x=a^{-1},\, y=b^{-1}\)，则对任意 \(x,y\in G\) 有
+\[
+xy=yx.
+\]
+所以 \(G\) 是交换群（阿贝尔群）。
+
+Answer: A",170,283,0.000000
+301,high_school_statistics,math,D,D,True,"先分别计算：
+
+- **中位数**：两个集合都已按升序排列，都是 7 个数，所以中位数是第 4 个数。  
+  - \(X\) 的中位数是 50  
+  - \(Y\) 的中位数也是 50
+
+- **均值**：  
+  - \(X\) 的和为 \(10+30+45+50+55+70+90=350\)，均值 \(350/7=50\)  
+  - \(Y\) 的和为 \(10+30+35+50+65+70+90=350\)，均值 \(350/7=50\)
+
+- **范围**：  
+  - \(X\) 的范围是 \(90-10=80\)  
+  - \(Y\) 的范围也是 \(90-10=80\)
+
+所以 A、B、C 都是正确的，没有错误项。
+
+Answer: D",211,377,0.000000
+302,elementary_mathematics,math,B,B,True,"300.5849 四舍五入到最接近的百分位，是 300.58，因为千分位数字是 4，小于 5，所以百分位不变。
+
+Answer: B",157,190,0.000000
+303,high_school_mathematics,math,B,B,True,"设直角三角形的两条直角边分别为 \(6\) 和 \(b\)，斜边为 \(c\)。
+
+由周长可得：
+\[
+6+b+c=18 \Rightarrow b+c=12
+\]
+
+由勾股定理可得：
+\[
+6^2+b^2=c^2
+\]
+即
+\[
+36+b^2=c^2
+\]
+
+又因为 \(c=12-b\)，代入得：
+\[
+36+b^2=(12-b)^2=144-24b+b^2
+\]
+
+消去 \(b^2\)：
+\[
+36=144-24b
+\]
+\[
+24b=108
+\]
+\[
+b=\frac{9}{2}
+\]
+
+于是
+\[
+c=12-\frac{9}{2}=\frac{15}{2}
+\]
+
+所以答案是 **B**。
+
+Answer: B",155,415,0.000000
+304,high_school_mathematics,math,A,A,True,"把每个孩子看成独立地以 \(1/2\) 的概率是女孩。  
+“至少一半是女孩”在 5 个孩子中就是“至少 3 个女孩”。
+
+所以概率为：
+\[
+P(X\ge 3)=\frac{\binom53+\binom54+\binom55}{2^5}
+=\frac{10+5+1}{32}
+=\frac{16}{32}
+=\frac12
+\]
+
+Answer: A",170,259,0.000000
+305,elementary_mathematics,math,D,D,True,"这道题的选项有问题：如果把它们理解成分数，A、B、C、D 都大于 2/5。若必须选一个，D 最接近且仍大于 2/5。
+
+Answer: D",110,5326,0.000000
+306,high_school_mathematics,math,B,B,True,"Joe 在早、午、晚三餐中，每餐都等概率地从 3 种水果（苹果、橙子、香蕉）中选 1 种。
+
+我们要求“至少吃到两种不同水果”的概率。
+
+先算反面：  
+- 三餐都吃同一种水果
+
+总情况数：\(3^3 = 27\)  
+三餐都相同的情况：  
+- 都是苹果  
+- 都是橙子  
+- 都是香蕉  
+
+共 \(3\) 种。
+
+所以所求概率为：
+\[
+1-\frac{3}{27}=\frac{24}{27}=\frac{8}{9}
+\]
+
+Answer: $B",184,346,0.000000
+307,high_school_mathematics,math,D,D,True,"先分别求两段路程：
+
+1. 从 \((-4,6)\) 到原点 \((0,0)\) 的距离：
+\[
+\sqrt{(-4-0)^2+(6-0)^2}=\sqrt{16+36}=\sqrt{52}=2\sqrt{13}
+\]
+
+2. 从原点 \((0,0)\) 到 \((4,3)\) 的距离：
+\[
+\sqrt{4^2+3^2}=\sqrt{25}=5
+\]
+
+总路程：
+\[
+2\sqrt{13}+5
+\]
+
+所以选 D。
+
+Answer: D",150,294,0.000000
+308,abstract_algebra,math,A,A,True,"先看第 1 句：对有限子群 \(H,K\subseteq G\)，乘积集 \(HK\) 的元素个数满足  
+\[
+|HK|=\frac{|H||K|}{|H\cap K|},
+\]
+这是标准结论，所以为真。
+
+再看第 2 句：阶为 \(2p\)（\(p\) 为奇素数）的群，按 Sylow 定理与半直积分类，只有两种可能：循环群 \(C_{2p}\) 或二面体群 \(D_p\)，所以也为真。
+
+Answer: A",195,1174,0.000000
+309,elementary_mathematics,math,C,C,True,"原图宽 4 厘米，放大后宽 10 厘米，所以放大倍数是 \(10 \div 4 = 2.5\)。
+
+原图高 6 厘米，放大后高就是：
+\[
+6 \times 2.5 = 15
+\]
+
+所以新的长度是 15 厘米，对应选项 C。
+
+Answer: C",176,165,0.000000
+310,college_mathematics,math,B,B,True,"把每个学生看成一个点；只要两人中**有一方不喜欢另一方**，就不能分到同一队。
+
+关键是：任取一批 \(n\) 个学生，这批人内部的“不喜欢”关系总数最多是 \(3n\) 条，因为每人最多只指出 3 个不喜欢的人。于是这批人内部的冲突边数最多也是 \(3n\)，所以平均度数不超过 \(6\)。因此任意子图里都能找到一个度数至多 6 的学生，说明这个图是 6-可退化的，于是**7 种颜色/7 个队**就足够完成分组。
+
+而且 7 也是最坏情况下必须的：例如 7 个学生构成“每两人之间至少有一方不喜欢另一方”的情形，就会需要 7 个队。
+
+Answer: B",230,5816,0.000000
+311,high_school_statistics,math,D,D,True,"人口普查适用于**对整体进行全面调查、而不是抽样推断**的情况。  
+题目中的 A 和 B 都是在做 **95% 置信区间**，这本质上是基于样本的推断；C 是 **双盲实验**，也不是人口普查。  
+所以正确选项是 **D**。
+
+Answer: D",225,1123,0.000000
+312,high_school_statistics,math,D,D,True,"先算条件概率。
+
+设：
+- \(A\)：上 4 年制大学，概率 \(P(A)=0.54\)
+- \(B\)：上 2 年制大学，概率 \(P(B)=0.20\)
+
+题目问的是：**已知这个学生“不上 2 年制大学”**，他上 4 年制大学的概率。
+
+所以要算：
+\[
+P(A \mid B^c)=\frac{P(A)}{P(B^c)}
+\]
+而
+\[
+P(B^c)=1-0.20=0.80
+\]
+
+因此：
+\[
+P(A \mid B^c)=\frac{0.54}{0.80}=0.675
+\]
+
+所以答案是 **D**。
+
+Answer: D",232,447,0.000000
+313,elementary_mathematics,math,D,D,True,"Carl 总共做了 18 个，其中给家人做了 6 个，给 4 位学校筹款人每人做了 p 个，所以总数关系是：
+
+6 + 4 × p = 18
+
+对应选项 D。
+
+Answer: D",225,233,0.000000
+314,elementary_mathematics,math,C,C,True,"先计算 \(750 \times \frac{2}{5} = 300\)。
+
+所以大约有 300 名大四学生会继续读研究生，对应选项 C。
+
+Answer: C",201,118,0.000000
+315,high_school_statistics,math,B,B,True,"进行双侧 t 检验时，样本量 \(n=18\)，所以自由度应为 \(17\)。  
+在 5% 显著性水平下，双侧临界值约为 \(\pm 2.11\)，而观测到的统计量 \(t=-1.973\) 的绝对值小于 2.11，因此**不拒绝原假设**。也就是说，没有足够证据说明这些母鸡产蛋的平均质量与 56 克不同。
+
+Answer: B",689,637,0.000000
+316,high_school_mathematics,math,A,A,True,"将 \(0.1\overline{7}\) 记为 \(x\)。
+
+则
+\[
+10x = 1.\overline{7}
+\]
+而
+\[
+1.\overline{7}=1+\frac{7}{9}=\frac{16}{9}
+\]
+所以
+\[
+x=\frac{16/9}{10}=\frac{16}{90}=\frac{8}{45}
+\]
+
+因此答案是 A。
+
+Answer: A",133,431,0.000000
+317,high_school_statistics,math,D,D,True,"把所有商品价格都统一加上 0.50 美元，相当于给每个数据都加了同一个常数。
+
+- **平均价格**会增加 **0.50 美元**
+- **标准差**不会改变
+- **极差（最大值减最小值）**也不会改变
+
+所以正确选项是 **D**。
+
+Answer: $D",350,508,0.000000
+318,high_school_mathematics,math,B,B,True,"已知两整数的最小公倍数与最大公约数满足：
+
+- 乘积 = 最小公倍数 × 最大公约数
+- 即：\( a \times b = 240 \times 24 = 5760 \)
+
+其中一个整数是 48，所以另一个整数为：
+
+\[
+5760 \div 48 = 120
+\]
+
+所以答案是 **B**。
+
+Answer: B",153,202,0.000000
+319,high_school_mathematics,math,C,C,True,"先化简模数：
+
+\(25 \equiv 2 \pmod{23}\)
+
+所以
+\[
+25^{1059} \equiv 2^{1059} \pmod{23}
+\]
+
+因为 \(23\) 是质数，依据费马小定理：
+\[
+2^{22} \equiv 1 \pmod{23}
+\]
+
+计算指数对 22 取余：
+\[
+1059 \div 22 = 48 \text{ 余 } 3
+\]
+所以
+\[
+2^{1059} \equiv 2^3 = 8 \pmod{23}
+\]
+
+因此余数是 \(8\)，对应选项 C。
+
+Answer: C",113,296,0.000000
+320,high_school_mathematics,math,B,B,True,"设当前电脑速度为 \(S\)，价格为 \(P\)。
+
+五年前那台电脑：
+- 速度是当前的一半，记为 \(S/2\)
+- 价格是当前的两倍，记为 \(2P\)
+
+那么五年前电脑的“速度与价格之比”为：
+\[
+\frac{S/2}{2P}=\frac{S}{4P}
+\]
+
+当前电脑的“速度与价格之比”为：
+\[
+\frac{S}{P}
+\]
+
+两者相比：
+\[
+\frac{S/P}{S/(4P)}=4
+\]
+
+所以当前电脑的速度与价格之比是旧电脑的 \(400\%\)。
+
+Answer: $B",170,429,0.000000
+321,elementary_mathematics,math,B,B,True,"每个袋子里共有：19 + 12 = 31 支笔。  
+5 个袋子共有：5 × (19 + 12)。
+
+所以正确的是 **B**。
+
+Answer: B",199,156,0.000000
+322,high_school_mathematics,math,A,A,True,"逐一代入检验这四个点是否同时满足：
+
+- \(y > 9x - 8\)
+- \(y < -x + 8\)
+
+A) \((-2, 15)\)：  
+\(9(-2)-8=-26\)，\(15>-26\) 成立；  
+\(-(-2)+8=10\)，但 \(15<10\) 不成立。  
+所以 A 不是解。
+
+B) \((-1, 5)\)：  
+\(9(-1)-8=-17\)，\(5>-17\) 成立；  
+\(-(-1)+8=9\)，\(5<9\) 成立。  
+所以 B 是解。
+
+C) \((0, 0)\)：  
+\(0>-8\) 成立；  
+\(0<8\) 成立。  
+所以 C 是解。
+
+D) \((1, 5)\)：  
+\(9(1)-8=1\)，\(5>1\) 成立；  
+\(-(1)+8=7\)，\(5<7\) 成立。  
+所以 D 是解。
+
+因此，不是解的点是 A。
+
+Answer: A",144,554,0.000000
+323,elementary_mathematics,math,B,B,True,"梯形面积公式是：
+
+\[
+\text{面积}=\frac{(\text{上底}+\text{下底})}{2}\times \text{高}
+\]
+
+代入题目中的数值：
+
+\[
+\frac{130+390}{2}\times 75=\frac{520}{2}\times 75=260\times 75=19,500
+\]
+
+所以，场地的面积是 **19,500 平方码**。
+
+Answer: B",191,221,0.000000
+324,high_school_statistics,math,B,B,True,"计划 II 更好。因为学校里只有 132 名学生在进行股票投资，计划 II 直接从这 132 人中抽样，估计的是“投资者的人均投资额”，再乘以 132 就得到总额；这样比从全校 1650 人中抽样、其中大量样本可能为 0 的计划 I 更有效、更贴近总投资额。
+
+Answer: B",430,855,0.000000
+325,elementary_mathematics,math,C,C,True,"四舍五入到最接近的万位后得到 4,530,000，说明原数应在 **4,525,000 到 4,534,999** 之间。
+
+逐个看选项：
+- A) 4,500,321 不在范围内
+- B) 4,524,491 太小，四舍五入后是 4,520,000
+- C) 4,533,372 在范围内
+- D) 4,535,343 太大，四舍五入后是 4,540,000
+
+所以正确答案是 C。
+
+Answer: C",177,451,0.000000
+326,elementary_mathematics,math,C,C,True,"有 3 组 20 分钟的表演，每组之间有 10 分钟休息，所以这部分是：
+
+- 3 × 20 = 60 分钟
+- 3 × 10 = 30 分钟
+
+再加上 1 组 40 分钟：
+
+- 60 + 30 + 40 = 130 分钟
+
+所以总时长是 130 分钟。
+
+Answer: C",225,358,0.000000
+327,elementary_mathematics,math,D,D,True,"把分母相同的分数直接相加：  
+\( \frac{4}{7} + \frac{2}{7} = \frac{6}{7} \)。
+
+在给出的选项里，最对应这个结果的是 D。
+
+Answer: D",112,5416,0.000000
+328,high_school_mathematics,math,B,B,True,"设原等差数列为  
+\(9,\; 9+d,\; 9+2d\)。
+
+根据题意，调整后得到  
+\(9,\; 11+d,\; 29+2d\)，  
+它们构成等比数列，所以满足
+
+\[
+(11+d)^2 = 9(29+2d)
+\]
+
+化简得：
+
+\[
+d^2+22d+121 = 261+18d
+\]
+
+\[
+d^2+4d-140=0
+\]
+
+解得：
+
+\[
+d=\frac{-4\pm 24}{2}=10 \text{ 或 } -14
+\]
+
+对应第三项分别为：
+
+\[
+29+2d = 49 \text{ 或 } 1
+\]
+
+所以第三项最小可能值是 \(1\)。
+
+Answer: $B",188,677,0.000000
+329,high_school_mathematics,math,D,D,True,"正八边形有 8 个顶点。每个顶点可以连到除自己和相邻两个顶点外的 5 个顶点，但这样会重复计数，所以对角线总数为：
+
+\[
+\frac{8 \times (8-3)}{2}=\frac{8\times 5}{2}=20
+\]
+
+Answer: D",116,188,0.000000
+330,high_school_statistics,math,D,D,True,"这是一项只有 **一个解释变量（药物剂量）**，并且这个解释变量有 **三个水平/层次** 的实验；“肿瘤减少”是响应变量。
+
+Answer: D",238,568,0.000000
+331,college_mathematics,math,B,B,True,"设与围栏垂直的两条边长为 \(y\)，另一条平行边长为 \(x-2y\)。  
+则面积
+\[
+A=y(x-2y)=xy-2y^2
+\]
+这是一个开口向下的二次函数，最大值在
+\[
+y=\frac{x}{4}
+\]
+处取得。
+
+此时
+\[
+A_{\max}=\frac{x}{4}\left(x-2\cdot \frac{x}{4}\right)=\frac{x}{4}\cdot \frac{x}{2}=\frac{x^2}{8}
+\]
+
+Answer: $B",159,355,0.000000
+332,high_school_statistics,math,B,B,True,"这是一个单样本 t 检验，样本量为 7，所以自由度为 \(7-1=6\)。
+
+由于是在检验“标签声称平均重量是 300”的正确性，通常对应双侧检验：
+\[
+H_0:\mu=300,\quad H_a:\mu\neq 300
+\]
+因此 P 值应写成
+\[
+2P(t>1.54),\ df=6
+\]
+
+Answer: B",292,1011,0.000000
+333,elementary_mathematics,math,C,C,True,"Jess 每投进一个球得 2 分，得了 18 分，所以投进的球数是：
+
+18 ÷ 2 = 9
+
+所以选 **C**。
+
+Answer: C",142,128,0.000000
+334,high_school_mathematics,math,C,A,False,"按题面写成 **211** 的话，5 和 211 之间的完全平方数有  
+9, 16, 25, 36, 49, 64, 81, 100, 121, 144, 169, 196，共 **12** 个，和选项不符。  
+
+因此这题大概率是把 **21** 误写成了 **211**；若原题是 5 和 21 之间，那么只有 9 和 16 两个完全平方数，对应 **A**。  
+
+Answer: A",118,8031,0.000000
+335,elementary_mathematics,math,C,C,True,"先算除法：22/2 = 11。  
+再加上 9：11 + 9 = 20。  
+所以正确答案是 C。
+
+Answer: C",106,150,0.000000
+336,high_school_mathematics,math,B,B,True,"正八边形的每个内角可以用公式计算：
+
+\[
+\frac{(n-2)\times 180^\circ}{n}
+\]
+
+这里 \(n=8\)，所以：
+
+\[
+\frac{(8-2)\times 180^\circ}{8}=\frac{6\times 180^\circ}{8}=135^\circ
+\]
+
+所以答案是 **B**。
+
+Answer: B",134,185,0.000000
+337,high_school_mathematics,math,D,D,True,"设正因数个数为 \(d(n)\)。所有正因数的乘积公式为：
+
+\[
+\prod_{d\mid n} d = n^{d(n)/2}
+\]
+
+题目给出正因数乘积是 \(n^6\)，所以
+
+\[
+n^{d(n)/2}=n^6 \Rightarrow d(n)=12
+\]
+
+因此问题转化为：找**最小的正整数**，使它有 **12 个正因数**。
+
+12 的分解形式对应的最小数分别是：
+
+- \(2^{11}=2048\)
+- \(2^5\cdot 3=96\)
+- \(2^3\cdot 3^2=72\)
+- \(2^2\cdot 3\cdot 5=60\)
+
+其中最小的是 \(60\)。
+
+Answer: D",137,653,0.000000
+338,high_school_mathematics,math,C,C,True,"这是一个等差数列，首项是 -36，公差是 7，末项是 48。
+
+项数 = \( \frac{48 - (-36)}{7} + 1 = \frac{84}{7} + 1 = 12 + 1 = 13 \)
+
+所以共有 13 个数。
+
+Answer: C",121,264,0.000000
+339,college_mathematics,math,C,C,True,"把两点按从左到右记为 \(u<v\)，三段长度分别是  
+\[
+u,\quad v-u,\quad 10-v.
+\]
+要组成三角形，最长边必须小于总长的一半，也就是三段都要小于 \(5\)。
+
+于是条件等价于：
+\[
+u<5,\quad v>5,\quad v-u<5.
+\]
+在区域 \(0<u<v<10\) 中，所有可能的有序点对总面积是 \(50\)。  
+满足条件的区域面积为
+\[
+\int_0^5 x\,dx=\frac{25}{2}.
+\]
+所以概率是
+\[
+\frac{25/2}{50}=\frac14=25\%.
+\]
+
+Answer: C",179,1315,0.000000
+340,high_school_mathematics,math,A,A,True,"由题意，  
+\[
+a \star b = a^b-ab
+\]
+所以
+\[
+2 \star x = 2^x - 2x = 22
+\]
+
+逐个代入选项检查：
+
+- \(x=5\)：\(2^5-2\cdot5=32-10=22\)，成立。
+
+因此 \(x=5\)。
+
+Answer: A",122,196,0.000000
+341,high_school_statistics,math,C,C,True,"要找的是正态分布中“最干旱的 10%”对应的**第 10 百分位数**。
+
+已知：
+- 均值 \( \mu = 6 \)
+- 标准差 \( \sigma = 1.6 \)
+- 第 10 百分位对应的 \(z \approx -1.28\)
+
+计算：
+\[
+x = \mu + z\sigma = 6 + (-1.28)(1.6) \approx 6 - 2.05 = 3.95
+\]
+
+所以答案是 **3.95 英寸**，对应选项 **C**。
+
+Answer: C",225,376,0.000000
+342,elementary_mathematics,math,D,D,True,"Micah 吃了 **偶数个** 草莓，所以草莓数量要是偶数；他还吃了 **奇数个** 苹果，所以苹果数量要是奇数。  
+在选项中，只有 **8 个 S** 和 **1 个 A** 同时满足这两个条件。
+
+Answer: D",168,1304,0.000000
+343,high_school_mathematics,math,C,C,True,"用平方和公式：
+\[
+1^2+2^2+\cdots+n^2=\frac{n(n+1)(2n+1)}{6}
+\]
+
+所以
+\[
+21^2+22^2+\cdots+40^2
+= \left(1^2+\cdots+40^2\right)-\left(1^2+\cdots+20^2\right)
+\]
+
+先算：
+\[
+1^2+\cdots+40^2=\frac{40\cdot41\cdot81}{6}=22140
+\]
+\[
+1^2+\cdots+20^2=\frac{20\cdot21\cdot41}{6}=2870
+\]
+
+相减得：
+\[
+22140-2870=19270
+\]
+
+Answer: C",172,348,0.000000
+344,high_school_mathematics,math,B,B,True,"先算 11 月降价后的价格：
+
+- 325 × (1 - 20%) = 325 × 0.8 = 260
+
+再算 12 月再降 10% 后的价格：
+
+- 260 × (1 - 10%) = 260 × 0.9 = 234
+
+所以圣诞购物者要花 **234.00 美元** 买这件大衣。
+
+Answer: B",218,180,0.000000
+345,elementary_mathematics,math,B,B,True,"7% 表示 \( \frac{7}{100} \)，所以：
+
+\[
+7\% = 0.07
+\]
+
+对应选项 **B**。
+
+Answer: B",110,131,0.000000
+346,high_school_statistics,math,A,A,True,"先设该患者有症状条件下：
+
+- \(P(A)=0.15\)
+- \(P(B\mid A)=0.70\)
+- \(P(B\mid \neg A)=0.10\)
+
+我们要求“至少有一种疾病”的概率，即 \(P(A\cup B)\)。
+
+先算“没有 A 但有 B”的概率：
+\[
+P(\neg A \cap B)=P(\neg A)\,P(B\mid \neg A)=0.85\times 0.10=0.085
+\]
+
+因此：
+\[
+P(A\cup B)=P(A)+P(\neg A \cap B)=0.15+0.085=0.235
+\]
+
+对应选项为 A。
+
+Answer: A",298,364,0.000000
+347,elementary_mathematics,math,C,C,True,"30,000 ÷ 10 = 3,000，3,000 ÷ 10 = 300。
+
+Answer: C",129,158,0.000000
+348,high_school_statistics,math,C,C,True,"设随机变量 \(X \sim N(\mu,\sigma^2)\)。
+
+已知：
+
+- \(P(X>12000)=0.7\)，所以 \(P(X\le 12000)=0.3\)
+- \(P(X>10000)=0.8\)，所以 \(P(X\le 10000)=0.2\)
+
+查标准正态分布分位数：
+
+- \(\Phi^{-1}(0.3)\approx -0.524\)
+- \(\Phi^{-1}(0.2)\approx -0.842\)
+
+因此
+
+\[
+\frac{12000-\mu}{\sigma}=-0.524,\qquad
+\frac{10000-\mu}{\sigma}=-0.842
+\]
+
+两式相减：
+
+\[
+\frac{2000}{\sigma}=0.318
+\Rightarrow \sigma \approx \frac{2000}{0.318}\approx 6300
+\]
+
+代回求均值：
+
+\[
+12000-\mu \approx -0.524(6300)\approx -3300
+\Rightarrow \mu \approx 15300
+\]
+
+所以答案是 C。
+
+Answer: C",246,531,0.000000
+349,high_school_statistics,math,C,C,True,"先算 z 分数：
+
+\[
+z=\frac{90-80}{9}=\frac{10}{9}\approx 1.11
+\]
+
+查标准正态分布（或用计算器）得左侧累积概率约为：
+
+\[
+P(Z\le 1.11)\approx 0.8665
+\]
+
+所以 Estrella 的百分位排名约为 **86.65**，也就是她大约处在**前 13.35%**。
+
+由于题目说只有**前 15%** 的学生才会被邀请，所以她**有资格**。
+
+Answer: C",298,867,0.000000
+350,moral_scenarios,philosophy,B,B,True,"场景1里把洗发水瓶子装满剃须膏再放回淋浴间，属于故意调包/恶作剧，侵犯他人使用权，按普通道德标准可算明显不对；场景2只是和救护车保持距离，本身不构成明显道德错误。
+
+Answer: B",253,2659,0.000000
+351,moral_disputes,philosophy,B,B,True,"Aquinas 常用的“自明命题”例子里，像 A 和 C 这种都很典型；B 是一句经文/祈祷式表达，不是他给出的那类例子。
+
+Answer: B",177,3829,0.000000
+352,moral_disputes,philosophy,D,D,True,"在极端特殊情况下，**行为功利主义**可能会为恐怖主义辩护，因为它会直接比较某一具体行为的总体后果：如果该行为在某个极端情境下被认为能带来更大的总体利益，就可能被允许。其他几种更强调规则的理论通常更难这样做。
+
+Answer: D",173,1231,0.000000
+353,moral_scenarios,philosophy,C,C,True,"先看两个场景：
+
+- 场景1：只是“我去……认识/见了某人”之类的行为，看不出有明显的道德错误。
+- 场景2：对“我妻子的姐姐”说浪漫甜言蜜语，属于明显的暧昧/不忠行为，按一般美国道德标准是不对的。
+
+所以是“没有错，错”。
+
+Answer: C",250,1977,0.000000
+354,moral_disputes,philosophy,A,A,True,"这道题更符合“社会心理因素”解释：吸毒成瘾通常不是单纯由药物本身或基因决定，而是和个人态度、所处环境密切相关。  
+Answer: A",182,3471,0.000000
+355,moral_disputes,philosophy,A,A,True,"A项“预防未来的谋杀”是死刑可能被主张的正面效果，不属于潜在负面后果；其余选项都可以视为负面后果。  
+Answer: A",141,309,0.000000
+356,moral_scenarios,philosophy,D,D,True,"场景 1 只是带 3 岁孩子去看《白雪公主》，看不出明显的道德错误；场景 2 是跳进池塘去救溺水孩子，这更不是道德错误，反而是善举。  
+因此两个场景都没有明显的道德错误。
+
+Answer: D",278,910,0.000000
+357,moral_disputes,philosophy,C,C,True,"“来自边缘案例的论点”最能对这类标准构成挑战，因为它会指出：如果某标准排除动物，也往往会不当地排除某些认知能力相近的人类个体，从而显示该标准不够稳妥。
+
+Answer: C",167,584,0.000000
+358,moral_disputes,philosophy,B,A,False,"题干中最符合的是“是否受到了公正的惩罚”，因为这是对死刑是否正当的典型争议点。  
+
+Answer: A",152,1454,0.000000
+359,moral_disputes,philosophy,B,C,False,Answer: C,126,2962,0.000000
+360,moral_scenarios,philosophy,D,D,True,"逐步思考后，两个场景里主角都没有做出明显的道德错误：
+
+- 场景1：把车上的螺帽拧紧了，通常是维护/帮助，并不明显不道德。
+- 场景2：告诉儿子晚饭后才能吃糖果，是正常的管教，也不明显不道德。
+
+Answer: D",243,1372,0.000000
+361,world_religions,philosophy,C,B,False,"世界上最大的文庙（孔庙）网络主要在中国，尤其以山东曲阜最著名。  
+
+Answer: B",118,866,0.000000
+362,moral_scenarios,philosophy,D,C,False,"从 2020 年美国普通道德标准看，场景 1 里“带 3 岁女儿出去 5 分钟”本身没有明显道德错误；场景 2 里“把脸部乳液吐到小孩脸上”属于明显不当、羞辱或伤害他人的行为，有明显道德错误。
+
+Answer: C",248,658,0.000000
+363,moral_disputes,philosophy,A,A,True,"瑞秋斯（James Rachels）的观点是：如果“被动安乐死”会让患者经历**更多痛苦**，那么“主动安乐死”可能更好，因为它能减少不必要的折磨。对应选项 **A**。
+
+Answer: A",263,392,0.000000
+364,moral_scenarios,philosophy,A,B,False,"场景1里把婴儿放在钉子上，显然是道德上错误的行为；场景2只是表达一种偏好/倾向，并没有直接做出一个明显的错误行为。  
+Answer: B",243,1221,0.000000
+365,moral_scenarios,philosophy,B,B,True,"场景 1 中，“我”赤身出现在沙滩派对上，按一般美国社会规范属于明显不当；场景 2 中，给剩鱼用微波炉加热是正常行为，不构成道德错误。
+
+Answer: B",252,546,0.000000
+366,philosophy,philosophy,B,B,True,"休谟将我们的感知分为“印象”和“观念”两类。
+
+Answer: B",131,288,0.000000
+367,formal_logic,philosophy,C,C,True,"“某个 CEO 比所有人都富有”应表述为：存在一个人，他是 CEO，而且对任何人来说，只要对方是人，他就比对方富有。
+
+所以最合适的是 **C**。
+
+Answer: C",216,469,0.000000
+368,philosophy,philosophy,C,C,True,"从“幸福不应被直接追逐，而应在追求更有意义的事情时自然出现”的观点来看，选 C。
+
+Answer: C",140,896,0.000000
+369,moral_disputes,philosophy,B,B,True,"卡拉汉认为，合法化安乐死和堕胎会向社会传递一个错误信号，也就是“教社会一课是错的”。因此选 **B**。
+
+Answer: B",147,387,0.000000
+370,moral_scenarios,philosophy,C,D,False,"这两个场景里，叙述者都没有做出明显的道德错误：
+
+- 场景 1：通过测试来帮助对方学习数学技能，这本身是正常的学习辅导行为，不构成明显不道德。
+- 场景 2：给父亲做的汉堡里加了奶油奶酪，也没有明显的道德问题。
+
+因此两个都“没有错”。
+
+Answer: D",255,329,0.000000
+371,moral_scenarios,philosophy,B,C,False,"场景1更像是冒犯/无礼，但不算特别明确的道德错误；场景2则是因为喝醉而请病假，属于明显的欺骗和不负责任，按常见道德标准是错的。
+
+Answer: C",253,883,0.000000
+372,moral_scenarios,philosophy,C,A,False,"从常见道德标准看，场景1只是因为自己上次吃坏了而推荐别的餐厅，不算明显道德错误；场景2只是说自己终于通过某种方式把“他”揭露/打败了，也没有明显体现出道德上错误的行为。
+
+Answer: A",272,5676,0.000000
+373,moral_scenarios,philosophy,D,D,True,"根据 2020 年美国普通道德标准，这两个场景里的主角都没有做出明显的道德错误行为：  
+- 场景 1：带女儿去打耳洞，一般不算明显道德错误。  
+- 场景 2：研究一种基于科学发现的治疗方法，也不算道德错误。  
+
+Answer: D",251,1280,0.000000
+374,philosophy,philosophy,C,C,True,"“外在主义”通常指把意义/价值来源看作来自主体之外，因此在这类问题上最常见的是**宗教视角**，尤其是与上帝或超越性来源相关的理解。
+
+Answer: C",137,757,0.000000
+375,world_religions,philosophy,A,A,True,"在古希腊各城邦中，以女性为中心的最重要节日是德墨忒耳和珀耳塞福涅相关的“特斯莫福里亚节”，也就是选项 A。  
+Answer: A",146,312,0.000000
+376,philosophy,philosophy,C,D,False,"这是一个价值/哲学判断问题，不存在可验证的客观标准，因此选 D。
+
+Answer: D",178,372,0.000000
+377,moral_disputes,philosophy,D,D,True,"题干描述的是“已经发育到具有脊椎动物基本结构的未出生个体”，这对应于**胎儿**阶段，而不是受精卵、胚泡或胚胎。
+
+Answer: D",144,385,0.000000
+378,moral_disputes,philosophy,A,B,False,"根据康德的观点，权利的承担者必须是具有理性和道德自主性的主体；动物不具备这种理性能力，所以不能成为权利的承担者。
+
+Answer: B",170,272,0.000000
+379,moral_scenarios,philosophy,B,B,True,"场景1里，主角在她洗澡时偷看，明显侵犯隐私，属于道德上明显错误。  
+场景2里，主角是在告诉她房子着火了，这本身是在帮她，不属于明显错误。
+
+Answer: B",259,1396,0.000000
+380,moral_scenarios,philosophy,B,D,False,"场景 1 看起来是在体育/比赛语境中的正常行为，没有明显道德错误；场景 2 只是纠正女儿的语法，也没有道德错误。因此两个场景都不算明显的道德错误。
+
+Answer: D",271,2465,0.000000
+381,philosophy,philosophy,B,B,True,"笛卡尔在方法性怀疑中，起初会把感官所见都当作**可能是错误的**。  
+
+Answer: B",125,315,0.000000
+382,formal_logic,philosophy,A,A,True,"用简洁真值分析：
+
+要让前提都真：
+- \(E \supset F\) 真
+- \(G \supset \neg F\) 真
+
+而结论是 \(\neg G \lor \neg E\)，它只有在 \(G\) 和 \(E\) 都真时才假。
+
+假设 \(E\) 和 \(G\) 都真，那么由第一前提得 \(F\) 真；由第二前提得 \(\neg F\) 真，矛盾。  
+所以不可能 \(E\) 和 \(G\) 同时为真，因此 \(\neg G \lor \neg E\) 必真。
+
+所以该论证**有效**。
+
+Answer: A",245,349,0.000000
+383,moral_scenarios,philosophy,C,C,True,"场景 1 里，主人公只是按客人的偏好给了无咖啡因咖啡，没有明显道德错误。  
+场景 2 里，深夜闯入女生宿舍找内衣，明显侵犯隐私并且不道德。
+
+Answer: C",270,348,0.000000
+384,moral_scenarios,philosophy,C,D,False,"两种情境下都没有明显的道德错误。  
+Answer: D",276,1023,0.000000
+385,moral_scenarios,philosophy,A,B,False,"先分别判断：
+
+1. “我把包装纸扔了，并且因为乱扔垃圾而被传讯”——这是乱扔垃圾，属于明显不道德行为。  
+2. “在我是游水教师时，我清楚了她的论文”——这句话本身并不指向明显的不道德行为，更像是整理/查看论文之类，并不一定有错。
+
+所以应选“错，没错”。
+
+Answer: B",262,1139,0.000000
+386,moral_scenarios,philosophy,A,C,False,"场景1更像是不小心/粗心的失误，不算“明显”的道德错误；场景2若是在使用带侮辱或歧视意味的词语，则属于明显的道德错误。
+
+Answer: C",253,2929,0.000000
+387,formal_logic,philosophy,B,B,True,"先构造真值表。设命题 \(I, H\) 的真假分别为 T/F。
+
+| \(I\) | \(H\) | \(\sim H\) | \(I \equiv \sim H\) | \(\sim I\) | \(\sim I \equiv H\) | \(\sim(\sim I \equiv H)\) |
+|---|---|---|---|---|---|---|
+| T | T | F | F | F | F | T |
+| T | F | T | T | F | T | F |
+| F | T | F | T | T | T | F |
+| F | F | T | F | T | F | T |
+
+从表中可以看出：
+
+- \(I \equiv \sim H\) 在 \(I\neq H\) 时为真；
+- \(\sim(\sim I \equiv H)\) 在 \(I=H\) 时为真。
+
+也就是说，这两个式子在每一种赋值下总是一个真、一个假，永远不可能同时为真，因此它们是**矛盾**关系。
+
+Answer: B",234,1112,0.000000
+388,moral_disputes,philosophy,C,C,True,"Sandel 反对“道德/基因工程”的论证，核心是强调谦逊、感恩、接受“天赋”而非把一切都当作可操控的对象，这更接近**美德伦理**，而不是康德义务论或自然法理论。
+
+Answer: C",155,839,0.000000
+389,moral_scenarios,philosophy,D,D,True,"场景1只是给一位对花生过敏的男孩的烤面包加黄油，并没有明显违反道德；场景2是在手术台上对病人进行切开，通常属于医疗手术行为，也不算明显道德错误。  
+Answer: D",259,1946,0.000000
+390,moral_scenarios,philosophy,A,C,False,"场景1中，主人公未经允许拿了父亲钱包里的信用卡来支付，这明显是偷用他人财物，属于道德上错误。
+
+场景2中，给主人公的婴儿每天喂三次食物/奶并不构成明显的道德错误，属于正常照料行为。
+
+Answer: C",262,596,0.000000
+391,logical_fallacies,philosophy,B,B,True,"这类表述通常指“选择性使用统计数字”或“误用统计”的那类谬误；在选项中最贴近的是 **B**。
+
+Answer: B",157,5426,0.000000
+392,formal_logic,philosophy,C,C,True,"先做真值表：
+
+| G | H | ~H | G ∨ ~H | (G ∨ ~H) ⊃ G | ~G | ~H · G | ~G ≡ (~H · G) |
+|---|---|----|--------|--------------|----|--------|---------------|
+| T | T | F  | T      | T            | F  | F      | T             |
+| T | F | T  | T      | T            | F  | T      | F             |
+| F | T | F  | F      | T            | T  | F      | F             |
+| F | F | T  | T      | F            | T  | F      | F             |
+
+从表中看：
+
+- 第一个命题在前三行真，最后一行假；
+- 第二个命题只有第一行真，其余三行假。
+
+所以它们**既不逻辑等价，也不互相矛盾**（因为在 G=T, H=T 时它们都真），因此它们是**一致的**。
+
+Answer: C",241,1362,0.000000
+393,moral_scenarios,philosophy,D,C,False,"先逐个判断：
+
+- 场景 1：丈夫犯了一个小错误，我“忽略他/不计较”，这通常不算明显的道德错误。
+- 场景 2：侄子只有 6 岁，却给他买带有危险性的飞镖类物品，这明显不合适，属于道德上更可能错误的行为。
+
+所以只有场景 2 明显有错。
+
+Answer: C",269,2173,0.000000
+394,moral_scenarios,philosophy,A,B,False,"场景1里，“我”把在银行捡到的装满钱的信封自己存起来了，这属于明显不道德的占有他人财物。  
+场景2里，只有“鼓励”他人去做某事的信息，按常见理解并不构成明显的道德错误。
+
+Answer: B",249,1237,0.000000
+395,moral_disputes,philosophy,D,D,True,"这三项都属于该类问题常见的特征，因此选 D。
+
+Answer: D",148,4230,0.000000
+396,philosophy,philosophy,B,B,True,Answer: B,273,1043,0.000000
+397,moral_disputes,philosophy,B,A,False,"Lukianoff 和 Haidt 的核心主张之一就是减少“安全主义”式的过度保护，尤其是不把触发警告当成必要措施。  
+Answer: A",178,1598,0.000000
+398,moral_scenarios,philosophy,A,C,False,"场景 1 中，紧急送心脏病发作的爷爷去急诊，不属于明显的道德错误；场景 2 中，把炸弹扔进孩子们的校园，显然是严重的道德错误。
+
+Answer: C",250,306,0.000000
+399,world_religions,philosophy,B,B,True,"《Ludlul Bel Nemequi》里，马尔杜克通常被写成一种会施加痛苦、但最终又施恩怜悯的神，因此最符合的是“愤怒、仁慈”这种双重形象。
+
+Answer: B",155,1616,0.000000
+400,high_school_physics,physics,D,D,True,"设炮口相对卡车的发射角为 \(\theta\)。
+
+炮弹相对地面的初速度分量为：
+- 水平：\(v_x = 5 + 50\cos\theta\)
+- 竖直：\(v_y = 50\sin\theta\)
+
+忽略空气阻力、落地高度与发射高度相同，则飞行时间为：
+\[
+t=\frac{2v_y}{g}=\frac{100\sin\theta}{g}
+\]
+
+水平射程：
+\[
+R=v_x t=(5+50\cos\theta)\frac{100\sin\theta}{g}
+\]
+
+只需最大化
+\[
+f(\theta)=(5+50\cos\theta)\sin\theta
+=5\sin\theta+50\sin\theta\cos\theta
+\]
+
+求导并令其为 0：
+\[
+f'(\theta)=5\cos\theta+50(\cos^2\theta-\sin^2\theta)=0
+\]
+\[
+5\cos\theta+50\cos2\theta=0
+\]
+解得 \(\theta \approx 47^\circ\)，最接近选项 \(49^\circ\)。
+
+Answer: D",213,794,0.000000
+401,conceptual_physics,physics,C,C,True,"地球表面向外太空散失能量，主要依靠的是**热辐射**。  
+因为外太空几乎是真空，**传导**和**对流**都需要介质，难以进行；而**辐射**不需要介质，可以直接把能量以电磁波形式传出去。
+
+Answer: C",120,194,0.000000
+402,conceptual_physics,physics,C,C,True,"飞机相对于空气的速度是 40 km/h，横风速度是 30 km/h，且二者互相垂直，所以对地速度大小为：
+
+\[
+v=\sqrt{40^2+30^2}=\sqrt{1600+900}=\sqrt{2500}=50\text{ km/h}
+\]
+
+因此答案是 C。
+
+Answer: C",149,237,0.000000
+403,high_school_physics,physics,C,C,True,"石头做的是**水平抛运动**，水平方向的速度不影响下落时间；只需看竖直方向的自由落体。
+
+竖直位移满足：
+\[
+h=\frac{1}{2}gt^2
+\]
+其中 \(h=80\text{ m}\)。
+
+取 \(g \approx 10\text{ m/s}^2\)，则：
+\[
+80=\frac{1}{2}\cdot 10 \cdot t^2
+\Rightarrow 80=5t^2
+\Rightarrow t^2=16
+\Rightarrow t=4\text{ s}
+\]
+
+所以答案是 **C) 4 s**。
+
+Answer: $C",173,295,0.000000
+404,college_physics,physics,B,B,True,"双缝干涉条纹间距满足 \( \Delta y = \dfrac{\lambda L}{d} \)。  
+当频率加倍时，波长减半，因此条纹间距也减半：
+
+\(1.0 \text{ mm} \rightarrow 0.5 \text{ mm}\)
+
+Answer: $B",209,368,0.000000
+405,college_physics,physics,D,D,True,"物体在竖直方向上做自由落体运动，初速度为 0，所以高度由
+
+\( h = \frac{1}{2}gt^2 \)
+
+求得：
+
+\( h = \frac{1}{2}\times 9.8 \times (2.0)^2 = 19.6 \,\text{m} \)
+
+所以物体是从 **19.6 米** 高处抛出的。
+
+Answer: D",206,219,0.000000
+406,college_physics,physics,D,D,True,"设每个电容的电容值都为 \(C\)。
+
+- 初始时，第一只电容带电：
+  \[
+  Q_0 = CV_0
+  \]
+- 后两只先串联，其等效电容为：
+  \[
+  C_{\text{series}}=\frac{C}{2}
+  \]
+- 然后把这个串联组合接到第一只电容上，相当于与第一只电容并联，所以总等效电容为：
+  \[
+  C_{\text{eq}}=C+\frac{C}{2}=\frac{3C}{2}
+  \]
+
+系统总电荷守恒，因此最终共同电压为：
+\[
+V_f=\frac{Q_0}{C_{\text{eq}}}
+=\frac{CV_0}{3C/2}
+=\frac{2V_0}{3}
+\]
+
+所以第一只电容最终的电压也是 \(\frac{2V_0}{3}\)。
+
+Answer: D",211,895,0.000000
+407,astronomy,physics,C,C,True,"sha dai de zhi liang bu hui yin di li zhong li er gai bian，reng ran shi 5 qian ke；zai zhong li zhi you di qiu yi ban de xing xing shang，zong liang bian wei yuan lai de yi ban，ji 25N。
+
+Answer: C",229,180,0.000000
+408,astronomy,physics,C,A,False,"云雾说（星云假说）主要说明了太阳系早期由气体和尘埃组成，后来逐渐聚集形成各个天体。
+
+Answer: A",198,358,0.000000
+409,conceptual_physics,physics,C,C,True,"温度在微观上通常与物质粒子的**平均平动动能**成正比，因此选 **C**。
+
+Answer: C",127,338,0.000000
+410,conceptual_physics,physics,B,B,True,"拍频现象是由于两个频率相近的声音发生干涉而产生的。
+
+Answer: B",114,222,0.000000
+411,college_physics,physics,C,C,True,"由狭义相对论的同时性相对性：
+
+\[
+\Delta t'=\gamma \frac{v\,\Delta x}{c^2}
+\]
+
+在 \(O\) 系中，两次闪烁同时发生，所以 \(\Delta t=0\)，且 \(\Delta x=10\,\text{m}\)。  
+已知 \(O'\) 测得时间差为 \(13\,\text{ns}\)，于是
+
+\[
+13\times10^{-9}=\gamma \frac{v(10)}{c^2}
+\]
+
+代入 \(c=3.0\times10^8\text{ m/s}\)：
+
+\[
+13\,\text{ns} = \gamma \beta \cdot 33.3\,\text{ns}
+\]
+
+所以
+
+\[
+\gamma\beta \approx 0.39
+\]
+
+解得
+
+\[
+\beta \approx 0.36
+\]
+
+因此 \(O'\) 相对于 \(O\) 的速度约为 \(0.36c\)。
+
+Answer: C",246,753,0.000000
+412,astronomy,physics,D,D,True,"彗星的**离子尾**主要受到**太阳风**的作用，太阳风带电粒子和彗星中的离子相互作用，使尾部总是被“吹”向远离太阳的一侧。
+
+Answer: D",211,442,0.000000
+413,high_school_physics,physics,C,A,False,"在忽略空气阻力的情况下，球上升到最高点时瞬时速度为 0；但加速度始终是重力加速度 \(g\)，并不为 0。由于上升和下降路径对称，回到原点的时间与上升到最高点的时间相同，所以 III 也不对。
+
+因此只有 I 正确。
+
+Answer: A",237,317,0.000000
+414,astronomy,physics,D,D,True,"先用气压公式：
+
+1. 压力 \(P = \dfrac{F}{A}\)，所以 \(F = PA\)
+2. 火星表面积  
+   \[
+   145000000\ \text{km}^2 = 1.45\times 10^8 \times 10^6 = 1.45\times 10^{14}\ \text{m}^2
+   \]
+3. 大气对地面的总压力作用力：
+   \[
+   F = 600 \times 1.45\times 10^{14} = 8.7\times 10^{16}\ \text{N}
+   \]
+4. 由 \(F=mg\)，取火星重力加速度 \(g \approx 4\ \text{m/s}^2\)，则质量：
+   \[
+   m = \frac{F}{g} = \frac{8.7\times 10^{16}}{4} \approx 2.2\times 10^{16}\ \text{kg}
+   \]
+
+所以最接近的是 **D**。
+
+Answer: D",222,436,0.000000
+415,conceptual_physics,physics,B,B,True,"引力波在真空中的传播速度与光速相同。  
+如果爆炸发生在距离地球 20 光年的恒星上，那么这些引力波到达地球需要大约 20 年。
+
+Answer: B",170,218,0.000000
+416,high_school_physics,physics,C,C,True,"在匀强磁场中，洛伦兹力始终与速度方向垂直，不做功，因此粒子的**速率保持不变**，只会改变运动方向。
+
+所以 4 s 后速度大小仍为  
+\(1.5 \times 10^6 \,\text{m/s}\)。
+
+Answer: C",222,169,0.000000
+417,high_school_physics,physics,D,D,True,"由牛顿第二定律，物体加速度大小为  
+\[
+a=\frac{F_{\text{合}}}{m}
+\]
+质量 \(m=2\,\text{kg}\)，每个力大小都是 \(4\,\text{N}\)。
+
+三个力的合力大小可能在 \(0\) 到 \(12\,\text{N}\) 之间，因此加速度大小可能在  
+\[
+0 \text{ 到 } \frac{12}{2}=6\,\text{m/s}^2
+\]
+之间。
+
+所以 \(8\,\text{m/s}^2\) 不可能。
+
+Answer: D",171,257,0.000000
+418,conceptual_physics,physics,A,A,True,"升压变压器可以把交流电的电压升高，但不能增加电能；理想情况下功率近似不变，只是电压和电流发生变化。
+
+Answer: A",121,183,0.000000
+419,conceptual_physics,physics,A,A,True,"红光和蓝光属于加色混合，重叠后会产生紫红色（洋红色）。
+
+Answer: A",115,139,0.000000
+420,college_physics,physics,D,D,True,"气体激光器通常利用气体原子或分子的离散能级跃迁来产生激光，因此正确选项是 D。
+
+Answer: D",142,556,0.000000
+421,conceptual_physics,physics,B,B,True,"声音的音高主要取决于它的**频率**，频率越高，音高越高。
+
+Answer: B",111,120,0.000000
+422,college_physics,physics,A,A,True,"在可见波长范围内做光谱分析，最合适的是**染料激光器**，因为它在可见光区具有**宽调谐范围**，适合扫描不同波长进行光谱测量。
+
+Answer: A",146,278,0.000000
+423,high_school_physics,physics,C,C,True,"C 选项是错误的：正电荷在电场中受力方向才与电场方向一致，但其“运动方向”不一定总沿电场方向；在磁场中，粒子的速度方向也不一定总与磁场方向垂直，只有磁力方向才与速度和磁场都垂直。
+
+Answer: C",278,3553,0.000000
+424,college_physics,physics,B,B,True,"掺杂半导体中，掺杂中心的符号（施主或受主）通常可以通过**霍尔系数**来判断。因为霍尔效应能够反映多数载流子的类型：  
+- 霍尔系数为负，说明多数载流子是电子，对应 **n 型**，通常与施主杂质有关；  
+- 霍尔系数为正，说明多数载流子是空穴，对应 **p 型**，通常与受主杂质有关。  
+
+因此答案是 **B) 霍尔系数**。
+
+Answer: B",135,335,0.000000
+425,high_school_physics,physics,D,A,False,"在理想抛体运动中，加速度始终竖直向下，大小为 \(g\)。
+
+- 上升阶段：速度方向斜向上，而加速度向下，二者相反；
+- 下降阶段：速度方向斜向下，而加速度仍向下，二者同向。
+
+所以正确的是 A。  
+
+Answer: A",287,775,0.000000
+426,conceptual_physics,physics,D,D,True,"电荷每秒变为原来的一半，所以 5 秒后剩余的是初始电荷的  
+\[
+\left(\frac12\right)^5=\frac1{32}
+\]
+如果 5 s 后电荷量为 \(q\)，那么初始电荷量为  
+\[
+q \times 32 = 32q
+\]
+
+Answer: D",152,204,0.000000
+427,high_school_physics,physics,D,D,True,"设初速度为 \(u\)，抛射角为 \(\theta\)。
+
+射程：
+\[
+R=\frac{u^2\sin 2\theta}{g}
+\]
+
+最大高度：
+\[
+H=\frac{u^2\sin^2\theta}{2g}
+\]
+
+题意要求 \(R=H\)，所以
+\[
+\frac{u^2\sin 2\theta}{g}=\frac{u^2\sin^2\theta}{2g}
+\]
+
+约去公共因子得
+\[
+\sin 2\theta=\frac{1}{2}\sin^2\theta
+\]
+
+利用 \(\sin 2\theta=2\sin\theta\cos\theta\)：
+\[
+2\sin\theta\cos\theta=\frac{1}{2}\sin^2\theta
+\]
+
+化简：
+\[
+4\cos\theta=\sin\theta
+\]
+\[
+\tan\theta=4
+\]
+
+因此
+\[
+\theta=\tan^{-1}4
+\]
+
+Answer: D",158,673,0.000000
+428,astronomy,physics,A,A,True,"探测恒星光谱中的多普勒频移（径向速度法）最容易发现近轨道的大质量行星，因为它们对母星造成的引力扰动最大、最明显。
+
+Answer: A",223,504,0.000000
+429,high_school_physics,physics,B,B,True,"由万有引力强度公式 \(g=\dfrac{GM}{R^2}\) 可知，火星表面的引力场强度与 \(M/R^2\) 成正比。
+
+已知：
+- 火星半径 = 地球半径的 \( \frac{1}{2} \)
+- 火星质量 = 地球质量的 \( \frac{1}{10} \)
+
+所以火星表面重力加速度：
+\[
+g_M = g_E \times \frac{1/10}{(1/2)^2}
+= 9.8 \times \frac{0.1}{0.25}
+= 9.8 \times 0.4
+\approx 3.92 \text{ N/kg}
+\]
+最接近的是 **4 N/kg**。
+
+Answer: B",170,314,0.000000
+430,high_school_physics,physics,C,C,True,"根据连续性方程，稳定流动时有
+
+\[
+A_1 v_1 = A_2 v_2
+\]
+
+而圆管截面积 \(A\) 与直径平方成正比，所以
+
+\[
+v_2 = v_1 \left(\frac{d_1}{d_2}\right)^2
+= 18 \left(\frac{2}{3}\right)^2
+= 18 \cdot \frac{4}{9}
+= 8 \text{ m/s}
+\]
+
+所以答案是 C。
+
+Answer: C",189,236,0.000000
+431,high_school_physics,physics,D,D,True,"波的能量与振幅（波高）有关，波高变小表示波的能量减小。因此能证明波到达儿童手臂时的能量比最初石头激起的波更小的观测结果是波高变小。
+
+Answer: D",256,359,0.000000
+432,astronomy,physics,A,A,True,"埃拉托色尼是通过比较**同一天同一时间**在不同纬度两地的太阳高度角差异，结合两地距离来估算地球周长的。
+
+Answer: A",234,166,0.000000
+433,astronomy,physics,B,B,True,"望远镜的分辨率描述的是它分辨两个相近点或两个方向之间最小角间隔的能力，也就是“角分辨力”。
+
+Answer: B",142,241,0.000000
+434,astronomy,physics,A,A,True,"金星本身并不是没有核心，而是它的自转非常慢，导致内部液态金属的“发电机效应”不足，难以产生强磁场。
+
+Answer: A",150,288,0.000000
+435,conceptual_physics,physics,A,A,True,"根据牛顿第一定律，物体所受合外力为零时，若它原本在运动，就会保持**沿直线匀速运动**。
+
+Answer: A",170,475,0.000000
+436,astronomy,physics,B,B,True,"“热木星”一般认为先在恒星系统较外侧、超过“雪线”的位置形成，作为气态巨行星，之后再向内迁移到今天非常靠近恒星的轨道上。
+
+Answer: B",268,282,0.000000
+437,astronomy,physics,C,C,True,"如果月球轨道平面与黄道平面完全重合，那么月球每次经过新月时都更容易对准太阳和地球，**日食会发生得更频繁**。因此最明显的效果是：
+
+Answer: C",176,415,0.000000
+438,astronomy,physics,C,C,True,"天空之所以呈蓝色，主要是因为太阳光进入地球大气层后，短波长的蓝光更容易被空气分子散射，这种现象叫作瑞利散射。相比之下，红光等长波长光散射较弱，所以天空看起来偏蓝。
+
+Answer: C",173,184,0.000000
+439,astronomy,physics,C,C,True,"人们之所以认为火星失去强磁场后气候会改变，是因为没有磁场保护时，太阳风更容易剥离火星大气层，导致大气变薄、温室效应减弱，火星因此变冷。对应选项是 C。
+
+Answer: C",298,380,0.000000
+440,conceptual_physics,physics,D,D,True,"电荷的变化/振荡会产生电磁辐射，属于光；其余选项不符。
+
+Answer: D",114,1363,0.000000
+441,conceptual_physics,physics,B,B,True,"对于同样频率的基频振动：
+
+- 一端封闭的管：\(L=\frac{\lambda}{4}\)
+- 两端开口的管：\(L=\frac{\lambda}{2}\)
+
+所以封闭管的长度是两端开口管长度的 **一半**。
+
+Answer: B",170,459,0.000000
+442,college_physics,physics,D,D,True,"对于角量子数 \(l=2\)，磁量子数 \(m_l\) 的取值范围是：
+
+\[
+m_l = -2,\,-1,\,0,\,1,\,2
+\]
+
+一共 **5** 个允许值，所以选 **D**。
+
+Answer: D",130,204,0.000000
+443,conceptual_physics,physics,B,B,True,"在同一个串联电路中，电流处处相等，所以连接线中的电流也为 3 A。
+
+Answer: B",148,275,0.000000
+444,college_physics,physics,A,D,False,"位移电流的定义是 \(I_d=\varepsilon_0 \frac{d\Phi_E}{dt}\)，因此它与**通过表面 \(S\) 的电通量变化率**成正比。  
+Answer: D",173,4462,0.000000
+445,conceptual_physics,physics,C,C,True,"动量 \(p=mv\)。在质量不变时，速度增加一倍，则动量也增加一倍。
+
+动能 \(E_k=\frac12 mv^2=\frac{p^2}{2m}\)，所以当动量变为原来的 2 倍时，动能变为原来的 \(2^2=4\) 倍，也就是**增加一倍以上**。
+
+Answer: C",157,201,0.000000
+446,conceptual_physics,physics,B,B,True,"来回摆动一次所需的时间，指的是它的**周期**。
+
+Answer: B",116,225,0.000000
+447,astronomy,physics,B,B,True,"内行星形成于靠近太阳、温度较高的区域，只有金属和岩石等耐高温物质能凝结；而水、氨、甲烷等挥发性物质需要更低温度，主要在更外侧才能凝结，所以内行星更致密。
+
+Answer: B",318,327,0.000000
+448,conceptual_physics,physics,B,B,True,"γ 射线照射食物一般不会使其本身带有放射性，只是起到杀菌保鲜等作用。
+
+Answer: B",134,993,0.000000
+449,conceptual_physics,physics,C,C,True,"根据胡克定律，在弹性范围内，形变与受力成正比。悬挂物体的重量加倍，树枝所受力加倍，因此弯曲程度也加倍。
+
+Answer: C",186,211,0.000000
+450,professional_psychology,psychology,D,C,False,"认真比较后，预测效度最高的是结构化面试这一类方法。
+
+Answer: C",141,2307,0.000000
+451,high_school_psychology,psychology,B,B,True,"催眠效果常见的两种相互竞争解释是“角色理论”和“分离理论”。
+
+Answer: B",154,361,0.000000
+452,high_school_psychology,psychology,D,D,True,"“情绪异常升高或膨胀”是躁狂（mania）的典型特征。
+
+Answer: D",136,392,0.000000
+453,high_school_psychology,psychology,C,C,True,"顺行性失忆指的是：受伤或脑损伤之后，**无法再形成新的长期记忆**。  
+四个选项里，**C** 描述的“海马体受损，无法将信息转化为长期记忆”正是典型的顺行性失忆。
+
+Answer: C",267,301,0.000000
+454,professional_psychology,psychology,C,C,True,"这题的关键是：研究参与者有权随时退出，不能用“必须留到结束”的方式变相限制其退出自由。作为职业伦理处理的第一步，通常应先与同事沟通，说明相关伦理规范并尝试解决。
+
+Answer: C",382,399,0.000000
+455,high_school_psychology,psychology,A,A,True,"这是指**习得**过程：中性刺激逐渐成为条件刺激，并开始引发对非条件刺激的预期与准备反应。对应选项是 **A**。
+
+Answer: A",158,544,0.000000
+456,professional_psychology,psychology,B,B,True,"B 选项描述的是测量结果始终低估同样的分数（固定偏差 10 分），这是“常误/恒定误差”的典型例子。  
+
+Answer: B",186,2004,0.000000
+457,professional_psychology,psychology,A,A,True,"在制定新的培训计划时，第一步通常是先明确“培训需要什么、为什么需要”，也就是进行**需求分析**。这可以帮助确定员工当前能力与目标要求之间的差距，从而为后续培训内容、方式和评估标准提供依据。
+
+Answer: A",156,181,0.000000
+458,professional_psychology,psychology,C,C,True,"程序正义是指决定结果的过程、规则和程序是否公平，也就是“过程是否公正”。因此选 C。
+
+Answer: C",205,244,0.000000
+459,professional_psychology,psychology,A,C,False,"动物行为学家（ethologists）主要反对行为主义把学习解释成普遍适用的“试错”过程，因为这忽视了物种特有、由进化形成的学习倾向。  
+Answer: C",211,4769,0.000000
+460,high_school_psychology,psychology,B,B,True,"这类观点属于**进化心理学**，它强调人的许多行为和动机都可以从基因延续与适应环境的角度来理解。
+
+Answer: B",142,211,0.000000
+461,high_school_psychology,psychology,C,A,False,"构造记忆（confabulation）最常见于**脑损伤**，尤其是涉及记忆与执行功能受损时。相比之下，序列位置效应、引导性问题和前摄干扰都不如脑损伤直接相关。
+
+Answer: A",130,584,0.000000
+462,high_school_psychology,psychology,A,A,True,"麻醉药之所以能起作用，主要是因为它们在化学结构上与体内天然镇痛物质“内啡肽”相似，因此能模拟其作用。
+
+Answer: A",130,1603,0.000000
+463,professional_psychology,psychology,C,C,True,Answer: C,117,151,0.000000
+464,high_school_psychology,psychology,C,C,True,"从专业伦理来看，学校心理学家应优先使用**最新、有效、适切**的测验工具；如果有更新版本，不能仅因为节省成本就继续使用旧表格。  
+因此应选择最新的测试表格。
+
+Answer: C",304,1451,0.000000
+465,professional_psychology,psychology,D,D,True,"第二语言习得研究通常发现，双语或习得第二语言的儿童在认知控制方面更有优势，尤其是认知灵活性更强；其余选项都不符合一般研究结论。
+
+Answer: D",176,430,0.000000
+466,professional_psychology,psychology,B,B,True,"品行障碍的核心特征是反复、持续地违背社会规范或他人权益；在选项中最符合的是“违反重要规则或规范”。
+
+Answer: B",135,366,0.000000
+467,professional_psychology,psychology,C,C,True,"根据常见的心理咨询/心理治疗伦理规范，与前治疗来访者发生性亲密关系并不是“完全没规定”，也不是简单的“一年后就可以”，而是在存在利用、剥削或治疗关系延续影响时明确禁止；在多数规范中还会设定一个更长的冷却期。
+
+Answer: C",300,845,0.000000
+468,professional_psychology,psychology,B,B,True,"这题考查的是心理测量史上的“第一个标准化智力量表”。最早的是**比奈-西蒙智力量表**，由比奈和西蒙于1905年编制，后来才有斯坦福-比奈修订版。
+
+Answer: B",144,786,0.000000
+469,professional_psychology,psychology,B,A,False,"这是典型的律师保密义务问题。对方律师仅仅提出要求，并不足以让你披露前客户的机密信息；在没有法院命令或客户有效放弃保密权的情况下，你应当拒绝提供。
+
+Answer: A",237,1696,0.000000
+470,professional_psychology,psychology,B,B,True,Answer: B,138,291,0.000000
+471,professional_psychology,psychology,A,C,False,Answer: C,173,1561,0.000000
+472,high_school_psychology,psychology,C,A,False,"这类方法本质上是对行为进行持续、逐次的记录，统计的是在观察时段内行为发生的次数。
+
+Answer: A",152,995,0.000000
+473,professional_psychology,psychology,B,B,True,Answer: B,145,364,0.000000
+474,professional_psychology,psychology,A,A,True,"“系统方法”强调从整体及各部分之间的相互关系来解决问题，关注的是组织作为一个整体的运行效果，因此其主要重点在于改善组织绩效。
+
+Answer: A",134,386,0.000000
+475,professional_psychology,psychology,A,D,False,"斯皮尔曼-布朗（Spearman-Brown）校正公式主要用于预测**测验长度变化时信度的变化**，也就是看**项目数量**对**测验信度**的影响。
+
+因此答案是 **D**。
+
+Answer: D",176,371,0.000000
+476,high_school_psychology,psychology,B,B,True,"费尼亚斯·盖奇的案例之所以重要，是因为它为“特定脑区（尤其是额叶）与人格、情绪和行为变化有关”提供了早期而有力的证据。这个案例帮助奠定了脑功能定位研究的基础。
+
+Answer: B",288,273,0.000000
+477,high_school_psychology,psychology,A,B,False,"Tamika 之所以会越来越觉得自己幸福，最符合的是“适应水平理论”：人们会根据最近和反复经历的情况来调整自己的幸福基线，持续经历救济厨房的食物后，能买到自己喜欢的食物就显得更令人满足。
+
+Answer: B",260,3138,0.000000
+478,high_school_psychology,psychology,C,C,True,"“在整个生命周期的认知、行为和社会变化”最直接对应的是**发展心理学**，因为它研究个体从出生到老年的发展与变化。
+
+Answer: C",171,137,0.000000
+479,professional_psychology,psychology,A,A,True,"自相关（autocorrelation）最常见于同一对象随时间重复测量的设计中，因为相邻时间点的数据往往彼此相关。在四个选项里，**时间序列设计**最容易出现这个问题。
+
+Answer: A",135,289,0.000000
+480,high_school_psychology,psychology,D,D,True,"REM 睡眠之所以被认为是“矛盾睡眠”，是因为此时大脑活动很活跃，但身体肌肉却处于近乎麻痹的状态。
+
+Answer: D",206,272,0.000000
+481,high_school_psychology,psychology,C,C,True,"Maria 对辅导医生表现出的不合作和敌意，后来被发现其实是她对父母情绪的转移，这属于心理治疗中的“移情”。
+
+Answer: C",268,429,0.000000
+482,high_school_psychology,psychology,D,D,True,"最有可能有效的是 **D**。对有攻击/敌对倾向的学生，直接进行**社交技能训练**，并教给他更合适的替代行为，通常比单纯惩罚、记规则或放任更能促进与同伴合作。
+
+Answer: D",275,301,0.000000
+483,high_school_psychology,psychology,D,D,True,"信度和效度不是互相排斥的；一个测验可以“稳定一致”（有信度），但仍然可能没有真正测到它想测的内容（没有效度）。所以正确的是 D。
+
+Answer: D",271,320,0.000000
+484,professional_psychology,psychology,D,A,False,"该描述最符合以直接观察行为及其情境后果为主、重点分析环境因素功能的评估方式，即功能性行为评估。  
+Answer: A",165,1692,0.000000
+485,high_school_psychology,psychology,D,D,True,"Elise 只是把电话号码反复念了几遍来记住它，没有把它和别的信息联系起来，也没有分组，所以这是**维持性复述**。  
+Answer: D",218,229,0.000000
+486,professional_psychology,psychology,D,C,False,Answer: C,179,1265,0.000000
+487,professional_psychology,psychology,A,A,True,"厌恶技术往往会引发恐惧、逃避、焦虑等情绪反应，这些反应会干扰学习和练习新行为，所以会让“教授新行为”变得更困难。
+
+Answer: A",170,1016,0.000000
+488,professional_psychology,psychology,D,D,True,"在研究伦理中，参与者通常有权在不受惩罚的情况下退出研究；研究者应尊重这一决定，并按要求处理其数据。
+
+Answer: D",306,227,0.000000
+489,high_school_psychology,psychology,D,D,True,"四个选项里，A 刻板印象、B 寻找替罪羊、C 外群体同质性都容易助长偏见；D 超常目标通常是用来减少群体间偏见的，所以最不可能导致偏见。
+
+Answer: D",133,583,0.000000
+490,professional_psychology,psychology,C,C,True,"在涉及对真实目的进行隐瞒的研究中，被试应在参与后尽快获知真实目的，因此选择 **C**。
+
+Answer: C",234,379,0.000000
+491,professional_psychology,psychology,B,B,True,"在大多数法律制度中，“保密特权”的权利通常归**来访者/当事人**所有，也就是由来访者决定是否放弃该特权；心理治疗师只是保密义务的承担者。  
+
+Answer: B",143,230,0.000000
+492,professional_psychology,psychology,C,C,True,Answer: C,343,4945,0.000000
+493,professional_psychology,psychology,A,A,True,"在紧急情况下，旁观者越少，单个人承担责任的压力越大，也越可能伸出援手；旁观者越多，容易出现“责任分散”，反而更不容易得到帮助。
+
+Answer: A",167,177,0.000000
+494,high_school_psychology,psychology,A,A,True,"调大音乐播放器的音量，会使声音更强，主要改变的是**音波的振幅**，而不是频率或音调高低。
+
+Answer: A",139,158,0.000000
+495,high_school_psychology,psychology,D,D,True,"Brenda 的表现包括：对批评非常敏感、夸大自己的能力和成就、强烈需要他人关注、利用别人来满足自己，这些都很符合**自恋型人格障碍**的特征，而不是精神分裂症或其他精神病性障碍。
+
+Answer: D",241,188,0.000000
+496,professional_psychology,psychology,D,D,True,"斯通博士的结论不正确。即使项目主管对最终报告负有主要责任，斯通博士在发现存在可能误导、错误的数据后，也不能仅仅在向上级提出一次后就不再追究；他仍有责任采取合理步骤，确保公司收到完整、准确的信息。
+
+Answer: D",509,747,0.000000
+497,professional_psychology,psychology,B,B,True,"这句话把“自己”的原因归为外在情境（“我被人推了”），把“别人”的原因归为内在特质或行为（“你绊倒了”），最符合的是**行为者-观察者效应**。
+
+Answer: B",147,744,0.000000
+498,high_school_psychology,psychology,C,C,True,"神经元之间主要通过**突触处的化学信号传递**来交流：一个神经元释放神经递质，影响下一个神经元是否产生电信号。  
+因此最准确的是 **C**。
+
+Answer: C",252,314,0.000000
+499,professional_psychology,psychology,C,C,True,"这则广告不符合职业道德，因为“保证治愈焦虑症”属于对治疗效果作出误导性的保证，容易误导公众，也不符合心理学专业广告规范。
+
+Answer: C",262,211,0.000000

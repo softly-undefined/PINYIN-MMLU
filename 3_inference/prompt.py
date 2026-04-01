@@ -2,8 +2,9 @@
 import re
 
 
-# === PROMPT TEMPLATE ===
-QUERY_TEMPLATE = """
+# === PROMPT TEMPLATES (one per language) ===
+
+QUERY_TEMPLATE_EN = """
 Answer the following multiple choice question. The last line of your response should be of the following format: 'Answer: $LETTER' (without quotes) where LETTER is one of ABCD. Think step by step before answering.
 
 {Question}
@@ -13,6 +14,38 @@ B) {B}
 C) {C}
 D) {D}
 """.strip()
+
+QUERY_TEMPLATE_ZH = """
+回答以下选择题。你的回答的最后一行应采用以下格式：'Answer: $LETTER'（不含引号），其中 LETTER 是 ABCD 之一。请在回答之前逐步思考。
+
+{Question}
+
+A) {A}
+B) {B}
+C) {C}
+D) {D}
+""".strip()
+
+QUERY_TEMPLATE_PY = """
+hui da yi xia xuan ze ti 。 ni de hui da de zui hou yi hang ying cai yong yi xia ge shi ： 'Answer: $LETTER' （ bu han yin hao ）， qi zhong LETTER shi ABCD zhi yi 。 qing zai hui da zhi qian zhu bu si kao 。
+
+{Question}
+
+A) {A}
+B) {B}
+C) {C}
+D) {D}
+""".strip()
+
+PROMPT_TEMPLATES = {
+    "en": QUERY_TEMPLATE_EN,
+    "zh": QUERY_TEMPLATE_ZH,
+    "py": QUERY_TEMPLATE_PY,
+}
+
+# Keep backward compat alias
+QUERY_TEMPLATE = QUERY_TEMPLATE_EN
+
 
 # === EXTRACT ANSWER ===
 ANSWER_PATTERN = r"(?i)Answer[ \t]*:[ \t]*\$?([A-D])\$?"
