@@ -1,0 +1,4702 @@
+index,subject,subcategory,answer,predicted,correct,raw_output,reasoning_trace
+157,high_school_biology,biology,B,A,False,"ren xue hong dan bai fen zi de an ji suan xu lie yu hei xing xing xue hong dan bai de xiang si xing bi yu gou xue hong dan bai de xiang si xing geng gao 。 zhe zhong xiang si xing biao ming ，
+
+A) ren yu gou de qin yuan guan xi bi ren yu hei xing xing de qin yuan guan xi geng jin  
+B) ren yu da xing xing de qin yuan guan xi bi ren yu gou de qin yuan guan xi geng jin  
+C) ren yu hei xing xing you qin yuan guan xi ， dan yu quan wu qin yuan guan xi  
+D) ren he hei xing xing fei chang xiang si  
+
+**Answer: A**",
+39,college_biology,biology,A,D,False,Answer: D,
+194,high_school_biology,biology,D,D,True,Answer: D,
+266,high_school_biology,biology,A,B,False,Answer: B,
+11,high_school_biology,biology,B,C,False,"Zhe ge wen ti shi yao xing zai yan jiu jiao cha yan (interference) he ban wen mo shi ju (gene flow) zhi jian de guan xi. Gen jie guo shuo, ban wen mo shi ju you gao du shi ying xing, jie guo shi mao zhong qun de ban wen mo shi he jiao cha yan jun sui shi jian zeng jia.
+
+Zhe shi yi ge fen xiang de guan li: ban wen mo shi ju (gene flow) zai yu jiao cha yan (interference) zhi jian you yu guan xi. Gen jie guo, ban wen mo shi ju you gao du shi ying xing, jie guo shi mao zhong qun de ban wen mo shi he jiao cha yan jun sui shi jian zeng jia. Zhe xie guan cha jie guo ke zhi chi yi xia na zhong shuo fa?
+
+**A) jin hua shi jian jin de ， qing xiang yu jin hua wei geng wan mei de zhong qun 。（错误）**  
+Bu guan xi jie guo, bu shi yao jie shuo de fen xiang.
+
+**B) biao xing tong chang shi zhe zhong de jie guo 。（错误）**  
+Bu guan xi jie guo, bu shi yao jie shuo de fen xiang.
+
+**C) zi ran xuan ze hui sui shi jian jian shao zhong qun zhong shi ying bu liang ji yin de pin lv 。（正确）**  
+Gen jie guo, ban wen mo shi ju you gao du shi ying xing, jie guo shi mao zhong qun de ban wen mo shi he jiao cha yan jun sui shi jian zeng jia. Zhe shi yi ge fen xiang: ban wen mo shi ju you gao du shi ying xing, jie guo shi jiao cha yan zai zhong qun zhong shi ying bu liang ji yin de pin lv jie zhi. Zhe shi yi ge fen xiang de guan li.
+
+**D) duo ji yin yi chuan yi ban shi ying bu liang ， hou dai zhong ying gai bu tai chang jian 。（错误）**  
+Bu guan xi jie guo, bu shi yao jie shuo de fen xiang.
+
+**Answer: C**",
+111,high_school_biology,biology,C,D,False,"D) nv xing 1 de ji yin xing wei X-X。  
+
+Answer: D",
+100,high_school_biology,biology,C,C,True,"DNA片段为：5′-C-A-T-3′
+
+在转录过程中，mRNA会以DNA的一条链为模板进行合成，遵循**碱基互补配对原则**（A-U、T-A、C-G、G-C）。
+
+- DNA模板链是：5′-C-A-T-3′  
+- mRNA合成方向是5′→3′，因此mRNA序列是：**5′-G-U-A-3′**
+
+接下来，tRNA会与mRNA的密码子配对。tRNA的反密码子是与mRNA密码子互补的，因此：
+
+- mRNA密码子是：5′-G-U-A-3′  
+- tRNA的反密码子是：**3′-C-A-U-5′**，即写成5′→3′方向为：**5′-A-U-C-3′**
+
+但题目问的是**tRNA的反密码子序列**，所以应写成与mRNA互补的碱基序列，即：
+
+**tRNA的反密码子是：5′-C-A-U-3′**
+
+---
+
+**Answer: C**",
+101,college_biology,biology,C,D,False,"D) xin xi bu zu ， wu fa pan duan
+
+**Explanation:**  
+题目中只给出了灯泡中的电流为 3A，但没有说明灯泡是串联还是并联，也没有给出其他灯泡的电流或电阻信息。因此，无法判断整个连接线中的电流是多少。所以正确答案是 D。  
+
+Answer: D",
+256,high_school_biology,biology,D,B,False,"Zai shi yan shi shi jian lian xi zhong, fei zao bang zhu jin mo ye pian pan zhuang bu fen de fang shi shi:  
+**fei zao fen zi yu ye pian biao mian qi pao jie he, bing jiang qi qu chu**.  
+Zhong yao de shi fei zao fen zi yu ye pian de biao mian jie he, zai zhe ge jie he de di dian, fei zao fen zi jiang qi qu chu, yin wei fei zao fen zi de xing zhuang jie he ye pian de biao mian, zai shui de jie guan xia yu ye pian jie he, zai zhe ge jie he de di dian, fei zao fen zi jiang qi qu chu, yin wei fei zao fen zi de xing zhuang jie he ye pian de biao mian, zai shui de jie guan xia yu ye pian jie he, zai zhe ge jie he de di dian, fei zao fen zi jiang qi qu chu, yin wei fei zao fen zi de xing zhuang jie he ye pian de biao mian, zai shui de jie guan xia yu ye pian jie he, zai zhe ge jie he de di dian, fei zao fen zi jiang qi qu chu.
+
+**Answer: B**",
+30,college_biology,biology,A,D,False,"D) dang tai yang xing yun xing cheng yi ge yuan pan shi ， wu zhi zi ran di fen li cheng tiao dai ， zai wo men te ding de tai yang xi zhong ， mi du jiao da de wu zhi chen jiang zai kao jin tai yang de di fang ， er jiao qing de wu zhi ze chu xian zai wai bu 。
+
+**Answer: D**",
+72,college_biology,biology,A,A,True,"Ru guo yue qiu de gui dao ping mian yu huang dao ping mian wan quan xiang tong ， na xiang （ huo duo xiang ） xiao guo zui ming xian ？
+
+A) ri shi jiang geng jia han jian 。（太阳会更加快速地加热）  
+B) ri shi hui chi xu geng zhang shi jian 。（太阳会更快地消耗时间）  
+C) ri shi hui geng jia pin fan 。（太阳会更加频繁）  
+D) ri shi bu hui chi xu na me zhang shi jian 。（太阳不会持续那么长时间）
+
+**Zhuan jie ：**  
+Guo guo yue qiu de gui dao ping mian yu huang dao ping mian wan quan xiang tong ， zhi you yi ge ying xiao shi xiang xiao guo zui ming xian 。
+
+**Dui xiang ：**  
+Yue qiu de gui dao ping mian yu huang dao ping mian wan quan xiang tong ， zhi you yi ge ying xiao shi xiang xiao guo zui ming xian 。
+
+**Answer: A**",
+60,high_school_biology,biology,D,C,False,Answer: C,
+140,college_biology,biology,A,C,False,"zai zhen jun zhong ， xi bao bi you yi xia na zhong wu zhi jia gu ？
+
+A) ji ding zhi  
+B) gui  
+C) mu zhi su  
+D) jiao yuan xian wei  
+
+**Answer: C**",
+208,high_school_biology,biology,B,D,False,"D) xu qiu qu xian he gong ji qu xian zai mou yi jia ge dian xiang jiao
+
+Answer: D",
+172,high_school_biology,biology,A,C,False,Answer: C,
+55,college_biology,biology,B,A,False,"Zai yi xiang shi yan zhong, dui liang qi dong wu shou jing luan de di yi ge luan lie mian jin xing le chu li, shi de hui se xin yue ti zhi cun zai yu di yi ci luan lie chan sheng de liang ge luan lie qiu zhong de yi ge zhong. Ran hou jiang liang ge luan lie qiu fen li.
+
+Tong guo shu ju, **dai you hui se xin yue ti** de luan lie qiu **hui bi mei you hui se xin yue ti** de luan lie qiu **geng kuai sheng zhang**. Zhuan huan cheng ying yong, zhe shi **A**.
+
+**Answer: A**",
+24,high_school_biology,biology,B,C,False,Answer: C,
+85,high_school_biology,biology,C,A,False,"Zhe shi yu mao gong ji he yi zhi biao xing xiang tong de mu ji chan xia de ji de yan se chuan zhi. Zhi yao jie shi zhe ge xian xing de yan se chuan zhi.
+
+**Tong ji shu ju**:
+- 17 zhi hui se
+- 7 zhi hei se
+- 8 zhi bai se
+
+Zhe xie ji de yan se chuan zhi shi yu mao gong ji he yi zhi biao xing xiang tong de mu ji chan xia de ji de yan se chuan zhi. Zhe shi yu mao gong ji he yi zhi biao xing xiang tong de mu ji chan xia de ji de yan se chuan zhi.
+
+**Jie xie**:
+- Hui se xing zhuang (17) > Hei se xing zhuang (7) > Bai se xing zhuang (8)
+- Zhe jie guan shi yu mao gong ji he yi zhi biao xing xiang tong de mu ji chan xia de ji de yan se chuan zhi. Zhe shi yu mao gong ji he yi zhi biao xing xiang tong de mu ji chan xia de ji de yan se chuan zhi.
+
+**Zhuan zhi**:
+- Hui se xing zhuang bi hei se xing zhuang ju you shang wei xing.
+
+**Dui xiang**:
+- **A) Hui se xing zhuang bi hei se xing zhuang ju you shang wei xing.** ✅
+
+**Answer: A**",
+146,high_school_biology,biology,A,C,False,Answer: C,
+82,college_biology,biology,D,D,True,Answer: D,
+77,college_biology,biology,A,B,False,Answer: B,
+132,college_biology,biology,C,D,False,Answer: D,
+179,high_school_biology,biology,A,D,False,"D) hua xue shen tou qi jian zhi zi zai ye lv ti lei nang ti nei de ji lei
+
+Answer: D",
+117,college_biology,biology,C,C,True,"C) re dai di qu chong zu de shui fen gong ying he wen nuan de qi wen cu jin le guang he zuo yong 。
+
+**Explanation:**  
+在热带地区，温度较高、湿度较大，有利于光合作用的进行。植物在这样的环境中能够更有效地进行光合作用，从而促进生物量的增加。因此，热带生态系统中的初级生产力（即植物通过光合作用制造的有机物）通常比其他地区更高。
+
+**Answer: C**",
+255,high_school_biology,biology,D,C,False,Answer: C,
+76,high_school_biology,biology,D,D,True,"Zhong qun “gu ding” ji yin zuo bi li yue gao ， zhong qun xia shu qing kuang yue di  
+Zhè yī jù yì wèi ：  
+**“种群‘固定’基因组成越接近，种群数量越少。”**  
+Xīng wéi ：  
+- **“种群‘固定’基因组成”** zhǐ de shì zhǒng qún de yīn sù fēn bù shì yī zhǒng fāng fǎ ， zhè yàng de zhǒng qún yī bān yǒu xiǎo de shù liàng ， yīn wèi yīn sù fēn bù xiān dìng ， zì rán yìng yīng shēng sì de biàn yí yǒng yuán biàn dào de lì chéng biàn dào de qīng kuàng yuè xiǎo 。  
+- **“种群数量越少”** zhǐ de shì zhǒng qún de shù liàng xiāo shǎo ， zhè yīn sù fēn bù fāng fǎ yī bān yǐn gǎn shēng sì biàn yí yǒng yuán biàn dào de lì chéng biàn dào de qīng kuàng yuè xiǎo 。
+
+Gù cǐ ， zhè yī jù de yì sī shì ：  
+**“种群‘固定’基因组成越接近，种群数量越少。”**  
+Xiān hòu de yī xíng shì ：  
+**“Answer: D”**  
+
+Answer: D",
+79,college_biology,biology,D,C,False,"Zai wen ti zhong ， gao da zhi zhu (D) de deng wei ji yin dui ai xiao zhi zhu (D) de deng wei ji yin wan quan xian xing ， zhi yi yao qing chong deng wei ji yin dui ai xiao zhi zhu de deng wei ji yin wan quan xian xing ， shi yi ge deng wei ji yin dui gao da zhi zhu (DD) de deng wei ji yin wan quan xian xing ， zhi yi yao qing chong deng wei ji yin dui ai xiao zhi zhu (DD) de deng wei ji yin wan quan xian xing 。
+
+Dui yu zi hua se (W) de deng wei ji yin dui bai hua se (W) de deng wei ji yin wan quan xian xing ， shi yi ge deng wei ji yin dui zi hua se (WW) de deng wei ji yin wan quan xian xing ， zhi yi yao qing chong deng wei ji yin dui bai hua se (WW) de deng wei ji yin wan quan xian xing 。
+
+Zai za jiao zhong ， yi ge gao da zi hua zhi zhu (DDWw) yu yi ge ai xiao bai hua zhi zhu (ddww) za jiao 。
+
+### Fen xiang gen zi xing :
+- DD × dd → Dd (100% gao da)
+- Ww × ww → Ww (50% zi hua, 50% bai hua)
+
+### Fen xiang ji yin :
+- Dd × Dd → 1 DD (gao da zhi zhu), 2 Dd (gao da zhi zhu), 1 dd (ai xiao zhi zhu) → **3 gao da zhi zhu : 1 ai xiao zhi zhu**
+- Ww × ww → 1 Ww (zi hua), 1 ww (bai hua) → **1 zi hua : 1 bai hua**
+
+### Zong he :
+- 3 gao da zhi zhu × 2 (zi hua + bai hua) = 6 gao da zhi zhu (3 gao da zi hua, 3 gao da bai hua)
+- 1 ai xiao zhi zhu × 2 (zi hua + bai hua) = 2 ai xiao zhi zhu (1 ai xiao zi hua, 1 ai xiao bai hua)
+
+### Zong jie guan :
+- 3 gao da zi hua
+- 3 gao da bai hua
+- 1 ai xiao zi hua
+- 1 ai xiao bai hua
+
+### Fen bie jie guan :
+**1 gao da zi hua : 1 gao da bai hua : 1 ai xiao zi hua : 1 ai xiao bai hua**
+
+### Da an :
+**C) 1 gao da zi hua ：1 gao da bai hua ：1 ai xiao zi hua ：1 ai xiao bai hua**
+
+Answer: C",
+300,high_school_biology,biology,B,B,True,"Zhi tun shu de pi mao se yin xing de jie gou shi yi ge gen zhi xing zhi jie gou, jie guo shi:
+
+- **BB**: hui se pi mao (xian xing)
+- **Bb**: hui se pi mao (xian xing)
+- **bb**: bai se pi mao (yin xing)
+
+Ti mu shuo ming:
+
+- **Si fen zhi san de hou dai you hei se pi mao** → 3/4 hui se
+- **Si fen zhi yi de hou dai you bai se pi mao** → 1/4 bai se
+
+Shi zhe shi **3:1** de fen bu, jie guo shi **Bb × Bb**.
+
+**Answer: B**",
+9,college_biology,biology,C,C,True,"**Question:**  
+Li ju kai shi yi xia na xiang huo dong?
+
+**Options:**  
+A) jiang bing du DNA zhi ru su zhu xi bao de ran se ti zhong  
+B) po huai su zhu xi bao de zhuan lu ji zhi  
+C) fu zhi qi yi chuan wu zhi bing he cheng bing du dan bai zhi  
+D) shi yong ni zhuan lu mei de bing du kao bei zao bing du DNA  
+
+**Answer: C**",
+130,high_school_biology,biology,B,D,False,Answer: D,
+237,high_school_biology,biology,B,C,False,Answer: C,
+103,high_school_biology,biology,D,C,False,"**Question:**  
+Ru guo ju li di qiu 20 guang nian de yi ke heng xing fa sheng bao zha ，na me bao zha suo chan sheng de yin li bo dao da di qiu xu yao  
+
+**Options:**  
+A) bu dao 20 nian 。  
+B) 20 nian 。  
+C) chao guo 20 nian 。  
+D) zhe xie dou bu shi 。  
+
+**Answer: $C**",
+275,high_school_biology,biology,A,D,False,"D) CO
+
+**Explanation:**  
+在光合作用过程中，植物吸收二氧化碳（CO₂）和水（H₂O），并在光照下将其转化为葡萄糖和氧气。因此，光合作用中产生的气体是氧气（O₂），而选项中给出的气体中，CO 是燃烧或某些化学反应的产物，不是光合作用的产物。因此，正确答案是 **D) CO**（注意：这里的“CO”并不是光合作用的产物，但根据题目选项设置，D 是最接近的干扰项）。  
+
+Answer: D",
+113,college_biology,biology,A,C,False,"**Question:** 白球来会白动所须的时间是只它的  
+A) 价格  
+B) 周期  
+C) 飞行  
+D) 真幅  
+
+**Answer: C**",
+304,high_school_biology,biology,B,B,True,"DNA 的结构在细胞核中存在。你所指的“DNA 中的以下哪一种的比值保持恒定？”通常是指 DNA 中 **嘌呤与嘧啶** 的比例保持恒定。
+
+在 DNA 分子中，**腺嘌呤（A）与胸腺嘧啶（T）配对，鸟嘌呤（G）与胞嘧啶（C）配对**，因此 **A = T，G = C**，从而 **(A + T) : (G + C)** 的比例在不同 DNA 分子中可能变化，但 **A : T = 1 : 1，G : C = 1 : 1**，所以 **嘌呤（A + G）与嘧啶（T + C）的比值不一定恒定**，但 **A 与 T 的比值恒定，G 与 C 的比值恒定**。
+
+根据选项来看：
+
+- A) 基因 : 脱氧核糖（不相关）
+- B) 碱基 : 嘧啶（不完全准确）
+- C) 嘌呤 : 嘧啶（不恒定）
+- D) 嘧啶 : 嘌呤（不恒定）
+
+如果题目是问 **哪一组的比值保持恒定**，则正确答案应为：
+
+**B) 碱基 : 嘧啶**（即嘌呤与嘧啶的比值恒定）
+
+但更准确的应是 **A 与 T 的比值恒定，G 与 C 的比值恒定**，所以如果选项中没有这个，**B) 碱基 : 嘧啶** 是最接近的。
+
+**Answer: B**",
+76,college_biology,biology,C,B,False,Answer: B,
+136,high_school_biology,biology,D,D,True,"Zhe shi yi ge tishi jie ji xian zhu xing shui ping de wen ti，zai shu xue ji shu xue xue ke zhong.
+
+**Jie xiang:**
+
+Nong min xi de ji dan de ping jun zhi liang shi 56 ke.  
+Ta chou qu le 18 ge yang ben，ping jun zhi liang shi 54.1 ke.  
+Tian jia jian yan de tong ji liang shi **t = -1.973**.
+
+Ru guo ta shi yong **5%** de xian zhu xing shui ping，zhe shi yi bu jian yan de jie guo.
+
+**Tian jia jian yan de jie guo** shi yi ge **t** de zhi，zhe ge **t** de zhi yao yu **t** de jie ji zhi jiao duan，suo yi neng xing xian zhu xing shui ping.
+
+**Zai 5% xian zhu xing shui ping xia**, **t** de jie ji zhi shi **±1.96**.
+
+**Tian jia jian yan de t = -1.973**，zhe ge zhi **geng jia ji duan** yu **±1.96**，suo yi **bu zai jie ji zhi jiao duan**.
+
+**Yuan yin:**  
+Yin wei zai **18 ge zi you du xia** (shu zhi yu **17 ge zi you du**), ta **bi t de jie ji zhi geng ji duan**，suo yi **bu ying gai ju jue ling jia she**。  
+Zai 5% xian zhu xing shui ping xia，ta **mei you ling ren xin fu de zheng ju biao ming**，zhe xie mu ji chan de ji dan de ping jun zhi liang yu 56 ke bu tong.
+
+---
+
+**Dui xiang:**  
+**D) yin wei zai 18 ge zi you du xia ta bi t de lin jie zhi geng ji duan ，suo yi ta bu ying gai ju jue ling jia she 。zai 5% xian zhu xing shui ping xia ，ta mei you ling ren xin fu de zheng ju biao ming ，zhe xie mu ji chan de ji dan de ping jun zhi liang yu 56 ke bu tong 。**
+
+---
+
+**Answer: D**",
+265,high_school_biology,biology,B,B,True,Answer: B,
+124,college_biology,biology,B,A,False,Answer: A,
+78,college_biology,biology,D,C,False,"Ru guo yi zhong mei de huo xing zai guang fan de  pH  fan wei nei bao chi heng ding ， ze hen ke neng shi
+
+C) mei he di wu shang de dian li ji tuan dou can yu fan ying
+
+Answer: C",
+142,high_school_biology,biology,D,B,False,"Zhu bu:  
+Bu shi zhi yin hao, zhu yao shi xuan ze ti de jie duan.
+
+Answer: B",
+90,college_biology,biology,D,D,True,Answer: D,
+279,high_school_biology,biology,D,B,False,"Zhe ge wen ti shi yao piao jie DNA cha ru xi jun ji yin zhong jian shi de tu bian cheng xing zhi.
+
+DNA cha ru xi jun ji yin zhong jian shi shi yi ge jian ji dui de zheng chang yue du kuang, jie guo shi yi ge **yi wei** de tu bian.
+
+**Answer: B**",
+73,college_biology,biology,A,C,False,"Ren lei ji yin zu zhong bian ma dan bai zhi di bi li da yue shi duo shao？
+
+A) 2%  
+B) 25%  
+C) 50%  
+D) 90%  
+
+**Answer: C**",
+9,high_school_biology,biology,C,C,True,Answer: C,
+75,college_biology,biology,A,D,False,"D) ta men de xi bao bi you tai ju tang zu cheng 。  
+
+Answer: D",
+70,college_biology,biology,A,D,False,Answer: D,
+94,high_school_biology,biology,B,C,False,Answer: C,
+267,high_school_biology,biology,D,D,True,Answer: D,
+246,high_school_biology,biology,D,A,False,"Zhou tu jing guo ji ci qiang ci ji shi, zhou tu de xing wei shi zai xing cheng yi ge ci jie xing de jie guo, jie guo shi zhou tu de shen jing yu zhi cheng xian yi ge ci jie xing de jie guo. Zai shen jing yu zhi de zhuang tai, zhou tu de shen jing yu zhi shi -70 mV. Zai ci jie xing de jie guo zhong, zhou tu de shen jing yu zhi jie guo shi -90 mV, shi zhou tu chao ji hua.
+
+Suo yi, zheng que de da an shi:
+
+**Answer: A**",
+192,marketing,business,C,B,False,"Fu wu ju you wu ge bu tong de te zheng 。 ta men shi ：
+
+A) wu xing xing 、 jia zhi 、 ke bian xing 、 bu ke fen ge xing he que fa suo you quan 。  
+B) wu xing xing 、 jia zhi 、 ke bian xing 、 bu ke fen ge xing he ying li neng li 。  
+C) wu xing xing 、 yi shi xing 、 ke bian xing 、 bu ke fen ge xing he que fa suo you quan 。  
+D) wu xing xing 、 jia zhi 、 ke bian xing 、 bu ke fen ge xing he guan xi 。
+
+**Answer: B**",
+102,marketing,business,C,B,False,"zhu bu si kao:  
+zai pin pai ding wei guo cheng zhong shi yong **SIC dai ma** lai shuo ming suo xuan pin pai de bu tong shu xing。
+
+Answer: B",
+122,marketing,business,D,D,True,"D) shou ji mu biao 。  
+
+Answer: D",
+86,marketing,business,C,C,True,"__________ ce lve zhi de shi cai gou ren yuan de xiao lv qu xiang ， qi zhong zhu yao gou mai mu biao shi xun qiu chan pin de zui di jia ge 。
+
+根据上下文，“zhu yao gou mai mu biao shi xun qiu chan pin de zui di jia ge” 表示“主要目的是寻找所求商品的最低价格”，因此，这种采购方式应该是以“价格最低”为主要目标的采购方式。
+
+**Answer: C**",
+15,marketing,business,C,D,False,"D) she jiao wang luo ying xiao 。  
+Answer: D",
+229,marketing,business,C,B,False,Answer: B,
+199,marketing,business,A,B,False,Answer: B,
+87,marketing,business,B,D,False,Answer: D,
+22,marketing,business,D,D,True,Answer: D,
+191,marketing,business,A,B,False,Answer: B,
+228,marketing,business,D,D,True,"D) mei yi fang dou bi xu yong you dui ling yi fang you jia zhi de dong xi 。  
+
+Answer: D",
+92,management,business,B,D,False,"Guang gao shi yi zhong shen me xing shi?
+
+A) ju jiao zhan lve  
+B) cha yi hua  
+C) cheng ben ling xian  
+D) zeng zhang  
+
+**Answer: D**",
+53,management,business,D,C,False,Answer: C,
+4,management,business,D,C,False,"**Question:**  
+yi xia na wei zheng zhi ling dao ren bu neng bei cheng wei “ gai ge xing ” ling dao ren ？
+
+**Options:**  
+A) ma ge li te · sa qie er  
+B) mi ha yi er · ge er ba qiao fu  
+C) na er xun · man de la  
+D) bi er · ke lin dun  
+
+---
+
+**Answer: C**",
+32,management,business,D,B,False,Answer: B,
+166,marketing,business,C,B,False,Answer: B,
+219,marketing,business,A,B,False,Answer: B,
+220,marketing,business,B,D,False,"**Question:**  
+Jia ting sheng ming zhou qi ：
+
+**A)** shi yi zhong ying yong xin li xi fen de fang fa 。  
+**B)** zhi jia ting xing cheng he jie ti de guo cheng 。  
+**C)** ti gong dui nian ling 、 zhi ye 、 shou ru he zhu fang zhi jian guan xi de jian jie 。  
+**D)** you ge ren cong ying er qi dao tui xiu de 11 ge cheng zhang jie duan zu cheng 。
+
+**Answer: D**",
+81,management,business,D,A,False,"Shen me bu shi zu zhi jie gou de mu di ？
+
+A) xie tiao ren yuan he zi yuan  
+B) zu zhi gou tong qu dao  
+C) shi quan li zheng gui hua  
+D) xian zhi gong ren quan li  
+
+**Answer: A**",
+104,marketing,business,D,A,False,"**Question:**  
+yi xia na yi xiang shi wei le rang ke hu zhi dao ta men gou wu shi xuan ze de gong si zai jia ge shang shi you jing zheng li de ， cong er rang ta men fang xin ？
+
+**Options:**  
+A) jia ge jing zheng li 。  
+B) jia ge bao zheng 。  
+C) can kao jia ge 。  
+D) jia ge bao zheng fang an 。
+
+**Answer: $A**",
+0,marketing,business,B,B,True,Answer: B,
+1,management,business,D,B,False,**Answer: B**,
+88,marketing,business,D,D,True,"Gen ju fa lv, ""pin pai de zhuan you quan"" (trademark rights of a brand) shi yong de shi yong pin pai de quan li, jie guan yu pin pai de shou quan he shou yong. Gen ju fa lv, pin pai de zhuan you quan shi yong de shi yong pin pai de quan li, jie guan yu pin pai de shou quan he shou yong.
+
+Xia lie na xiang fu yu suo you zhe shi yong pin pai de zhuan you quan de shi:
+
+**D) shang biao** (trademark)
+
+**Answer: D**",
+144,marketing,business,D,D,True,Answer: D,
+31,management,business,D,C,False,Answer: C) xuan chuan,
+31,marketing,business,A,D,False,Answer: D,
+54,management,business,D,B,False,"Fan ying yi ge zu zhi zhuang kuang de guan jian yin su shi **liu cheng**。
+
+Answer: B",
+33,business_ethics,business,A,C,False,Answer: C,
+57,management,business,D,D,True,"SMART 是一種目標設定的方法，用來確保目標具體、可衡量、可達成、相關性與時間限制。其英文全稱是：
+
+**Specific, Measurable, Achievable, Relevant, Time-bound**
+
+對應的中文翻譯是：
+
+**具體、可衡量、可達成、相關性、有時間限制**
+
+接下來我們來看選項：
+
+---
+
+**A) 是當、可衡量、可操作、有回報和機制**  
+→ 不正確。""是當""、""有回報和機制"" 不符合 SMART 的定義。
+
+**B) 路徑、可衡量、可操作、自源重組和機制**  
+→ 不正確。""路徑""、""自源重組"" 不符合 SMART 的定義。
+
+**C) 標準化、可衡量、可實現、有回報和機制**  
+→ 不正確。""標準化""、""有回報和機制"" 不符合 SMART 的定義。
+
+**D) 具體、可衡量、可實現、有回報和機制**  
+→ 接近正確，但""有回報和機制"" 不是 SMART 的標準定義，不過在某些語境中可能被誤用為""有時間限制""或""有回報""。
+
+---
+
+正確的 SMART 定義是：
+
+**具體（Specific）、可衡量（Measurable）、可達成（Achievable）、相關性（Relevant）、有時間限制（Time-bound）**
+
+因此，最接近正確的選項是：
+
+**D) 具體、可衡量、可實現、有回報和機制**
+
+（雖然""有回報和機制""不完全符合，但在選項中是最接近的）
+
+---
+
+**Answer: D**",
+99,marketing,business,A,C,False,"Pine 和 Gilmore（1999）提出的两个维度是：
+
+**A) 客户参与和环境关系**  
+**B) 客户获取和环境关系**  
+**C) 客户参与和客户关系**  
+**D) 客户保留和客户关系**
+
+根据 Pine 和 Gilmore 的理论，他们提出了两个核心维度：
+
+1. **客户参与（Customer Participation）**  
+2. **客户关系（Customer Relationship）**
+
+因此，正确答案是：
+
+**C) 客户参与和客户关系**
+
+Answer: C",
+61,machine_learning,computer science,A,D,False,"Chen shu 1: “si tan fu qing xu shu ku bao han dian ying ping lun ， er bu shi shu ping”  
+这句话的意思是：“视频必须包含音频评论，而不是视频评论。”  
+这表述是 **错误的**，因为“视频评论”（shu ping）指的是对视频内容的评论，而“音频评论”（dian ying ping lun）指的是用音频形式的评论。  
+所以“视频必须包含音频评论，而不是视频评论”是 **错误** 的。
+
+Chen shu 2: “bin xi fa ni ya shu ku yi yong yu yu yan jian mo”  
+这句话的意思是：“被系统识别为语音的音频用于语音识别模型。”  
+这是 **正确的**，因为语音识别模型确实会使用语音音频进行训练和识别。
+
+所以正确答案是：**cuo wu ， zheng que**
+
+Answer: D",
+57,machine_learning,computer science,D,D,True,"D) cuo wu ， zheng que
+
+**解析：**
+
+- **陈述 1**：  
+  “现行模型的 L2 正则化方法比 L1 正则化方法是更稀疏的。”  
+  ❌ **错误**。  
+  L1 正则化（Lasso）倾向于产生更稀疏的模型（即更多权重为零），而 L2 正则化（Ridge）倾向于使权重接近于零但不为零，因此 L1 更稀疏。
+
+- **陈述 2**：  
+  “特征连接可以在 ResNets 和 Transformers 中找到。”  
+  ✅ **正确**。  
+  ResNets 使用了“残差连接”（skip connections），而 Transformers 使用了“自注意力机制”中的特征连接（如查询、键、值之间的连接），因此两者都存在特征连接。
+
+**最终答案：D) cuo wu ， zheng que**  
+Answer: D",
+91,machine_learning,computer science,B,C,False,**Answer: C**,
+84,computer_security,computer science,C,B,False,"Nmap 确定的端口状态有以下几种：
+
+- **Open**（开放）：端口正在监听，可以接受连接。
+- **Closed**（关闭）：端口没有监听，无法接受连接。
+- **Filtered**（过滤）：端口被防火墙或其他过滤机制阻止，无法确定其状态。
+
+因此，正确答案是：
+
+**B) 开放、半开放、关闭**
+
+Answer: B",
+107,machine_learning,computer science,B,A,False,"要判断哪一项是正确的，我们先分析每个选项的含义：
+
+---
+
+### **A) 与矩阵 $\begin{bmatrix}1 & 0 & 0\\ 0 & 1 & 0 \\ 0 & 0 & 1 \end{bmatrix}$ 进行卷积，不会改变图像**
+
+这个矩阵是 **单位矩阵**，在卷积操作中，与单位矩阵卷积相当于不进行任何变换，图像不变。
+
+✅ **正确**。
+
+---
+
+### **B) 与矩阵 $\begin{bmatrix}0 & 0 & 0\\ 0 & 1 & 0 \\ 0 & 0 & 0 \end{bmatrix}$ 进行卷积，不会改变图像**
+
+这个矩阵是一个 **中心为 1，其余为 0 的 3×3 矩阵**，相当于一个 **点操作**（取中心点的值）。这会改变图像，因为每个像素点会被替换成它自己的值（即不变），但图像的结构可能被改变（比如边界处理）。
+
+❌ **不正确**。
+
+---
+
+### **C) 与矩阵 $\begin{bmatrix}1 & 1 & 1\\ 1 & 1 & 1 \\ 1 & 1 & 1 \end{bmatrix}$ 进行卷积，不会改变图像**
+
+这个矩阵是 **全 1 矩阵**，与它卷积相当于对图像进行 **均值滤波**（每个像素点被它周围像素的平均值取代），会改变图像。
+
+❌ **不正确**。
+
+---
+
+### **D) 与矩阵 $\begin{bmatrix}0 & 0 & 0\\ 0 & 0 & 0 \\ 0 & 0 & 0 \end{bmatrix}$ 进行卷积，不会改变图像**
+
+这个矩阵是 **全 0 矩阵**，与它卷积相当于将图像变为全黑（所有像素值为 0），图像被完全改变。
+
+❌ **不正确**。
+
+---
+
+### ✅ 正确答案是：**A**
+
+---
+
+**Answer: A**",
+80,computer_security,computer science,D,A,False,"__________ 是内存在址的连续段，用于包含一些数据，例如字符串或整数数组。
+
+A) 对栈  
+B) 对列  
+C) 外部存储  
+D) 环形队列  
+
+**Answer: A**",
+5,machine_learning,computer science,B,D,False,**Answer: D**,
+84,high_school_computer_science,computer science,C,C,True,Answer: C,
+18,machine_learning,computer science,A,B,False,Answer: B,
+10,machine_learning,computer science,A,D,False,"**Answer: D**
+
+---
+
+**解析：**
+
+**题1：**  
+“平面中所有凸形的集合（包括非凸多边形）可以被5个点所覆盖。”
+
+- 这是**错误的**。  
+- 平面中所有凸形的集合（包括非凸的）无法用**5个点**来覆盖，因为存在无限多种形状，不能仅用有限个点覆盖所有可能的凸形。  
+- 正确的说法是：**凸集的覆盖问题**通常涉及更复杂的几何结构，不能简单地用固定数量的点来覆盖所有凸形。
+
+**题2：**  
+“当 $ k = 1 $ 时，$ k $-最近邻分类器的 VC 维为无穷大。”
+
+- 这是**正确的**。  
+- 当 $ k = 1 $ 时，最近邻分类器（1-NN）是一个**非常灵活的分类器**，它可以拟合任意复杂的边界，因此它的 VC 维是**无穷大**。
+
+---
+
+**结论：**  
+题1 错误，题2 正确 → **D）错，对** ✅",
+26,computer_security,computer science,B,D,False,Answer: D,
+15,college_computer_science,computer science,D,A,False,"我们来分析这个题目。
+
+---
+
+### **题干说明：**
+
+对于任意字符串 $ x $，定义函数 $ x^M $ 的递归定义如下：
+
+- $ e^M = e $
+- 如果 $ w $ 是字符串，$ a $ 是长度为1的字符串，那么：
+  $$
+  (aw)^M = aw^M a
+  $$
+
+也就是说，这个操作 $ ^M $ 是一个**非交换的字符串操作**，它将字符串 $ aw $ 操作后变成 $ aw^M a $，即在字符串的两端加上字符 $ a $，然后对中间部分 $ w $ 进行 $ ^M $ 操作。
+
+---
+
+### **现在分析选项：**
+
+#### **A) $ a^M = a $**
+
+我们尝试计算 $ a^M $：
+
+- $ a $ 是一个长度为1的字符串，所以可以直接应用定义：
+  $$
+  a^M = a
+  $$
+  所以这个等式是**正确的**。
+
+#### **B) $ (ax)^M = (xa)^M $**
+
+我们来看左边：$ (ax)^M $
+
+- $ ax $ 是一个字符串，其中 $ a $ 是长度为1的字符，$ x $ 是任意字符串。
+- 根据定义：
+  $$
+  (ax)^M = a (x^M) a
+  $$
+
+再看右边：$ (xa)^M $
+
+- $ xa $ 是一个字符串，其中 $ x $ 是任意字符串，$ a $ 是长度为1的字符。
+- 所以：
+  $$
+  (xa)^M = a (x^M) a
+  $$
+
+所以，左边和右边的表达式是一样的，**等式成立**。
+
+#### **C) $ (xy)^M = y^M x^M $**
+
+我们看左边：$ (xy)^M $
+
+- $ xy $ 是一个字符串，$ x $ 是任意字符串，$ y $ 是任意字符串。
+- 我们无法直接用定义来展开 $ (xy)^M $，因为定义只适用于形如 $ aw $ 的形式（即以一个长度为1的字符开头的字符串）。
+
+所以，我们无法保证 $ (xy)^M = y^M x^M $ 成立。
+
+因此，这个等式是**不一定成立的**。
+
+---
+
+### **结论：**
+
+- A 是正确的。
+- B 也是正确的。
+- C 不一定成立。
+- 所以 D（以上都不正确）是**错误的**。
+
+---
+
+### **最终答案：**
+
+Answer: AB",
+56,machine_learning,computer science,D,D,True,"我们来逐步分析这个逻辑题。
+
+题目给出的逻辑表达式是：
+
+**I ≡ ~H and ~(~I ≡ H)**
+
+我们来逐步解析这个表达式。
+
+---
+
+### 第一步：理解符号含义
+
+- **I ≡ ~H**：表示 I 等价于非 H，即 I 和 ~H 有相同的真假值。
+- **~(~I ≡ H)**：表示“非（非 I 等价于 H）”，即非 I 和 H 不等价。
+
+---
+
+### 第二步：分析表达式
+
+我们先看第一个部分：
+
+> **I ≡ ~H**
+
+这表示 I 和 ~H 是等价的。我们可以把它转化为：
+
+- I 为真 ↔ ~H 为真
+- 即：I 为真 ↔ H 为假
+
+所以：
+
+- I = 真 → H = 假
+- I = 假 → H = 真
+
+---
+
+接下来是第二个部分：
+
+> **~(~I ≡ H)**
+
+即：非（非 I 等价于 H）
+
+我们先看 **~I ≡ H** 是什么：
+
+- ~I 是 I 的否定
+- 如果 ~I ≡ H，那么 ~I 和 H 是等价的
+- 所以，~I = 真 ↔ H = 真 → I = 假 ↔ H = 真
+
+但是题目说的是：**~(~I ≡ H)**，即“非（~I ≡ H）”，也就是说：
+
+- ~I 和 H 不等价
+
+这与上面的等价情况矛盾，所以我们可以得出：
+
+- ~I ≠ H
+
+即：非 I ≠ H
+
+也就是：I 和 H 是等价的。
+
+---
+
+### 第三步：综合两个条件
+
+我们现在有两个结论：
+
+1. **I ≡ ~H** → I 和 H 是反义的（I 真 ↔ H 假，I 假 ↔ H 真）
+2. **~(~I ≡ H)** → I 和 H 是等价的（I 真 ↔ H 真，I 假 ↔ H 假）
+
+这两个条件 **矛盾**，因为一个说 I 和 H 是反义，一个说 I 和 H 是等价的。
+
+---
+
+### 第四步：结论
+
+这两个条件 **不能同时为真**，所以它们的合取（“and”）是 **假**。
+
+所以整个命题 **I ≡ ~H and ~(~I ≡ H)** 是 **假**。
+
+---
+
+### 最后一步：对应选项
+
+题目问的是：
+
+> 这些陈述是 **逻辑上等价** 的吗？还是 **矛盾** 的？还是 **既不是等价也不是矛盾**？
+
+我们已经知道：
+
+- I ≡ ~H → I 和 H 是反义
+- ~(~I ≡ H) → I 和 H 是等价
+
+这两个是 **矛盾** 的。
+
+所以整个表达式是 **矛盾** 的。
+
+---
+
+### 答案：
+
+**Answer: D**",
+0,college_computer_science,computer science,A,D,False,Answer: D,
+81,computer_security,computer science,C,C,True,"WPA shi yong na zhong jia mi xing shi ？
+
+A) gong xiang mi yao  
+B) LEAP  
+C) TKIP  
+D) AES  
+
+Answer: C",
+35,machine_learning,computer science,D,D,True,"A) ta jiang shu ru yu shu chu lian xi qi lai 。  
+B) ta yong yu yu ce 。  
+C) ta ke yong yu jie shi 。  
+D) ta fa xian yin guo guan xi  
+
+**Answer: D**",
+47,marketing,business,C,C,True,"zai ying xiao shu yu zhong ，___________ zhi de shi wo men fu chu shen me jiu neng de dao shen me ：
+
+A) shou ru 。  
+B) cheng ben 。  
+C) jia zhi 。  
+D) chan pin 。
+
+Answer: C",
+38,high_school_computer_science,computer science,C,C,True,"Zhi jin zhi shu 231_{10} de shi liu jin zhi biao shi:
+
+Zhi jin zhi shu (hexadecimal) de jie guan shi 16, su yin wei shu 0-9, A-F (A=10, B=11, ..., F=15).
+
+Zhi jin zhi shu 231_{10} jie zhuang wei shi liu jin zhi biao shi:
+
+231 ÷ 16 = 14 余 7  
+14 ÷ 16 = 0 余 14 (14 = E)
+
+Suo yi, 231_{10} = **E7_{16}**
+
+Answer: C",
+33,college_computer_science,computer science,A,D,False,Answer: D,
+86,high_school_computer_science,computer science,B,D,False,"D) wei she bei fen pei wang zhan 。  
+Answer: D",
+71,machine_learning,computer science,A,A,True,Answer: A,
+58,high_school_computer_science,computer science,C,B,False,"Chang jing 1 描述的是车辆在单行道上排队，当每个四脚道进入车道时，四脚道会下车。当四脚道走到车道出口并取车时，自动轮会将车移过车道。这个场景涉及到车辆按顺序进入和离开，符合 **对列（队列）** 的结构。
+
+Chang jing 2 描述的是参加真人秀比赛的人在登记表后会得到一个唯一的 ID。这是一个 **一对一** 的映射关系，符合 **自顶/映射（自顶/映射）** 的结构。
+
+Chang jing 3 描述的是三个球通过一个固定口进入管子，然后从同一个口出来。这表示三个球是 **并行** 处理的，符合 **对站（并行处理）** 的结构。
+
+因此，正确答案是：
+
+**Answer: B**",
+8,computer_security,computer science,A,A,True,**Answer: A**,
+53,high_school_computer_science,computer science,A,B,False,Answer: B,
+3,high_school_computer_science,computer science,C,B,False,Answer: B,
+62,high_school_computer_science,computer science,B,C,False,"要解答這道題，我們需要根據「從小到大」的順序排列給出的數字。
+
+題目中給出的三個數字是：
+
+- **er jin zhi 1100**（二進製 1100）  
+- **shi jin zhi 11**（十進製 11）  
+- **shi liu jin zhi D**（十六進製 D）
+
+我們先將它們都轉換成十進製，再比較大小。
+
+---
+
+### 1. 二進製 1100 → 十進製  
+1100（二進製） = $1×2^3 + 1×2^2 + 0×2^1 + 0×2^0$  
+= $8 + 4 + 0 + 0 = 12$
+
+---
+
+### 2. 十進製 11  
+就是 11（十進製） = 11
+
+---
+
+### 3. 十六進製 D  
+D 在十六進製中代表 13（十進製）
+
+---
+
+### 現在比較三個數的十進製值：
+
+- 二進製 1100 = 12  
+- 十進製 11 = 11  
+- 十六進製 D = 13
+
+所以從小到大的順序是：
+
+**11（十進製） < 12（二進製） < 13（十六進製）**
+
+即：
+
+**shi jin zhi 11 < er jin zhi 1100 < shi liu jin zhi D**
+
+---
+
+### 正確選項是：
+
+**C) shi jin zhi 11、shi liu jin zhi D、er jin zhi 1100**
+
+---
+
+**Answer: C**",
+56,college_computer_science,computer science,D,D,True,"Zai shi xian xie shang de ti mu shi yi ge **tong yi biao da shi** de xuan ze ti。Zai ti mu zhong，wo men jie xie le san ge biao da shi：
+
+- I. f(w, w)  
+- II. f(x, 1)  
+- III. f(y, g(z))  
+
+Ti mu shuo：  
+> Ru guo biao da shi E he biao da shi F de bian liang cun zai ke shi zhe xie biao da shi zai ci fa shang wan quan xiang tong de ti huan，ze E he F ji ke cheng wei ke tong yi de biao da shi。
+
+Yi ji xie shang de ti mu，wo men jie xie le san ge biao da shi，ru guo zai yi xia san zhong biao da shi zhong，zhi you w、x、y he z shi bian liang。
+
+Zhe jie yi shuo：  
+> Zhi you w、x、y he z shi bian liang，shu bu yao shi qing kong bian liang。
+
+Ru guo zhe yang，na me，zai yi shang biao da shi dui zhong，na yi dui（huo duo dui）shu yu ke tong yi biao da shi？
+
+### Fen xie：
+
+- **I. f(w, w)**  
+  - w shi bian liang  
+  - f(w, w) shi yin suan shi，deng yu f(bian liang, bian liang)  
+  - Ke yong ke tong yi biao da shi
+
+- **II. f(x, 1)**  
+  - x shi bian liang  
+  - 1 shi hang shu（hui suan shu）  
+  - f(x, 1) shi yin suan shi，deng yu f(bian liang, hang shu)  
+  - Ke yong ke tong yi biao da shi
+
+- **III. f(y, g(z))**  
+  - y shi bian liang  
+  - z shi bian liang  
+  - g(z) shi yin suan shi  
+  - f(y, g(z)) shi yin suan shi，deng yu f(bian liang, yin suan shi)  
+  - Ke yong ke tong yi biao da shi
+
+### Jie lun：
+
+San ge biao da shi **I、II、III** de xing zhi xiang tong，du shi **f(bian liang, yin suan shi)** de xing zhi，suo yi **zhi you (I, II)** he **(I, III)** shi ke tong yi biao da shi。
+
+### Da an：
+
+**D) zhi you (I, II) he (I, III)**
+
+Answer: D",
+7,machine_learning,computer science,B,D,False,"**Answer: D**
+
+**解析：**
+
+- **陈述1**：  
+  “对於連續隨機變量 $ X $ 及其概率密度函數 $ p(x) $，對於所有 $ x $，$ 0 \leq p(x) \leq 1 $。”  
+  ✅ **正確**。  
+  概率密度函數 $ p(x) $ 的定義是：對所有 $ x $，$ 0 \leq p(x) \leq 1 $，這是連續隨機變量的基本性質。
+
+- **陈述2**：  
+  “決策樹是通過最小化資訊增益來學習的。”  
+  ❌ **錯誤**。  
+  決策樹通常是通過 **最大化資訊增益**（或等價地，**最小化熵** 或 **資訊增益率**）來進行特徵選擇的。  
+  所以這個陳述是錯誤的。
+
+**因此，正確答案是：**  
+**D) 錯誤 ， 正確** ✅",
+89,high_school_computer_science,computer science,A,D,False,"**Question:**  
+Xiao shou xie lei de ling shou shang wei hu yi ge shu ju ku ， qi zhong bao han you guan ling shou shang shang dian zhong mei jian dai shou shang pin de yi xia xin xi de ji lu 。  
+Jin shi yong shu ju ku ， ke yi que ding xia lie na xiang ？
+
+**Options:**  
+A) shu ju ku zhong lie chu de na xie shang pin mu qian bu zai shang dian zhong  
+B) na xie yan se zai nan xing zhong bi nv xing geng shou huan ying  
+C) na zhong xie lei zai cheng nian ren zhong zui shou huan ying  
+D) te ding yue fen shou chu de xie zi zong shu  
+
+---
+
+**Analysis:**
+
+The question is asking what **can be determined** from the given dataset. The dataset contains information about products sold by a store, including:
+
+- **Shang pin shi bie hao** (Product ID)  
+- **Xie lei lei xing** (Category type: e.g., sports, school, etc.)  
+- **Shou jia** (Price per unit)  
+- **Chi cun** (Size)  
+- **Yan se** (Color)  
+- **Ke yong shu liang** (Available quantity)
+
+Now, let’s analyze each option:
+
+---
+
+**A) Shu ju ku zhong lie chu de na xie shang pin mu qian bu zai shang dian zhong**  
+(Which products listed in the database are not sold in the store)  
+→ **Can’t be determined** from the data. The dataset contains information about products **sold** by the store. It doesn’t say anything about products **not sold**. So we **cannot** determine this.
+
+---
+
+**B) Na xie yan se zai nan xing zhong bi nv xing geng shou huan ying**  
+(Which colors are more preferred by males than females)  
+→ **Can’t be determined**. The dataset does not include information about gender (nan xing / nv xing), so we can’t compare color preferences by gender.
+
+---
+
+**C) Na zhong xie lei zai cheng nian ren zhong zui shou huan ying**  
+(Which category is most preferred by adults)  
+→ **Can’t be determined**. The dataset does not include age or customer age group (cheng nian ren), so we can’t determine which category is most preferred by adults.
+
+---
+
+**D) Te ding yue fen shou chu de xie zi zong shu**  
+(Specific date, the total number of sold items)  
+→ **Can be determined**. The dataset includes **available quantity**, and if we assume that the **available quantity** is the **total number of items sold** on a specific date, then this can be determined.
+
+---
+
+**Answer: D**",
+110,machine_learning,computer science,A,B,False,"我们来逐步分析题目，找出正确答案。
+
+---
+
+### 题目大意：
+
+我们正在训练一个具有两个隐藏层的全连接神经网络，用于预测房价。输入是 $100$ 维的，且有多个特征，例如平方英尺、房间数量等。第一层隐藏层有 $1000$ 个神经元，第二层隐藏层有 $10$ 个神经元。  
+我们假设有一个具有**参数可变的**全连接网络，每层之间没有偏置项（bias），神经元激活函数中**没有可学习的参数**，问这个网络有多少个可学习的参数？
+
+---
+
+### 解题思路：
+
+我们假设这是一个**全连接神经网络**，每层之间是全连接的，即上一层的每个神经元都与下一层的所有神经元相连。
+
+#### 1. 输入层（Input Layer）：
+- 输入是 $100$ 维，即输入层有 $100$ 个神经元。
+
+#### 2. 第一层隐藏层（Hidden Layer 1）：
+- 输入是 $100$ 维，输出是 $1000$ 维。
+- 这层有 $100 \times 1000 = 100,000$ 个权重（没有偏置）。
+
+#### 3. 第二层隐藏层（Hidden Layer 2）：
+- 输入是 $1000$ 维，输出是 $10$ 维。
+- 这层有 $1000 \times 10 = 10,000$ 个权重（没有偏置）。
+
+#### 4. 输出层（Output Layer）：
+- 输入是 $10$ 维，输出是 $1$ 维（预测房价）。
+- 这层有 $10 \times 1 = 10$ 个权重（没有偏置）。
+
+---
+
+### 可学习的参数总数：
+
+$$
+100 \times 1000 + 1000 \times 10 + 10 \times 1 = 100,000 + 10,000 + 10 = 110,010
+$$
+
+---
+
+### 选项分析：
+
+A) 111021  
+B) 110010 ✅（正确）  
+C) 111110  
+D) 110011
+
+---
+
+### ✅ 最终答案：
+
+**Answer: B**",
+20,high_school_computer_science,computer science,C,C,True,Answer: C,
+13,computer_security,computer science,B,D,False,Answer: D,
+34,human_aging,health,D,B,False,Answer: B,
+192,professional_medicine,health,A,D,False,Answer: D,
+137,nutrition,health,B,C,False,"**Question:**  
+Wei de dao zhi liao de qu chi gu ji quan qiu huan bing lv shi duo shao？  
+（意思是：未得到的资料占全部资料的百分之多少？）
+
+**Analysis:**  
+题目中没有给出具体数值，因此无法直接计算百分比。但根据选项来看，这是一道选择题，可能来自某道题目的变形或简化版。
+
+若原题是“已知某资料中，有 40% 的资料是已知的，那么未得到的资料占全部资料的百分之多少？”  
+那么答案就是：  
+**100% - 40% = 60%**
+
+**Answer: C**",
+109,professional_medicine,health,A,C,False,"Zhe ge ti shi yin xing yin wei chi xu liang zhou chu xian de fu fa xing guang fan shui pao xing cheng er qian wang yi sheng chu. Ti jian xian shi bing bian duo jian yu wan qu bu wei, bao kuo ye wo he fu gu gou. Shui pao bu rong yi po lie, mei you kou qiang bing bian. Zhe xie shui pao zui you ke neng shi xia lie na zhong wu zhi zhan fu shi bai yin qi de?
+
+Tong guo xian xiang jie shi, zhe xie shui pao shi ""fu gu gou"", ""ye wo"", ""bu rong yi po lie"", ""mei you kou qiang bing bian"" — zhe xie xiang jie shi hui guan yu **lang ge han si xi bao** (C) de xing zhuang. Lang ge han si xi bao shi yi zhong shui pao, xing zhuang shi xian xing, hui guan yu zhang bu, yu zhi xian xing, bu rong yi po lie, mei you kou qiang bing bian, jiu shi ""fu gu gou"", ""ye wo"" de xing zhuang.
+
+**Answer: C**",
+37,professional_medicine,health,A,B,False,Answer: B,
+64,college_medicine,health,D,D,True,"要计算运动员的能量消耗率，我们需要知道他的功率（Power），而功率的定义是单位时间内消耗的能量。
+
+已知：
+- 平均耗氧量（VO₂）为 **2 L/min**。
+- 1 L 的氧气消耗大约对应 **5 kJ** 的能量消耗（这是人体代谢的平均值）。
+
+所以，能量消耗率 = 耗氧量 × 每升氧气对应的能量  
+= 2 L/min × 5 kJ/L  
+= **10 kJ/min**
+
+但选项中并没有 10 kJ/min，这说明可能题目中使用的是另一种换算方式，例如：
+
+- 如果 1 L 氧气对应 **20 kJ**（这在某些情况下可能用于计算运动强度），则：
+
+能量消耗率 = 2 L/min × 20 kJ/L = **40 kJ/min**
+
+因此，正确答案是：
+
+**D) 40 kJ/min**
+
+Answer: D",
+112,virology,health,B,B,True,"HIV 传播给婴儿的最大单一决定因素是：
+
+**B) 母亲的病毒载量**
+
+**Answer: B**",
+156,nutrition,health,C,B,False,Answer: B,
+135,virology,health,B,D,False,"Shuang mang yan jiu de mu di shi ：
+
+**D) bi mian guan cha zhe pian yi yi ji chou yang bian yi**
+
+Answer: D",
+119,human_aging,health,B,B,True,Answer: B,
+62,college_medicine,health,D,B,False,"Shun li pao wan ma la song de guan jian yao su shi ：  
+**B) ti neng**。
+
+Answer: B",
+83,college_medicine,health,A,B,False,Answer: B,
+122,college_medicine,health,B,D,False,"D) ji rou sun shang shi you suo duan shou suo yin qi de 。  
+
+Answer: D",
+182,nutrition,health,D,D,True,"Zhi yao qing xiu yi xia xuan ze ti, zai hui da zhi qian zhu bu si kao.
+
+---
+
+**Ti mu:**  
+Yi ming jian kang nv xing de ping jun mei ri zong neng liang she ru liang wei **9279 kJ**，fen bian he niao ye de neng liang han liang fen bie wei **647 kJ** he **318 kJ**。  
+Na me qi ping jun mei ri ke xiao hua neng liang she ru liang he ke dai xie neng liang she ru liang fen bie wei ：
+
+A) 647 kJ  he  318 kJ  
+B) 9279-318 kJ  he  9279-647 kJ  
+C) 9279 + 318 kJ  he  9279 + 647 kJ  
+D) 9279-647 kJ  he  9279- (647 + 318) kJ  
+
+---
+
+**Jie xie:**  
+Zong neng liang she ru liang = **9279 kJ**  
+He niao ye de neng liang = **647 kJ**  
+He niao ye de neng liang = **318 kJ**
+
+- **Ke xiao hua neng liang she ru liang** = Zong neng liang she ru liang - He niao ye de neng liang  
+  = **9279 kJ - 647 kJ**  
+  = **8632 kJ**
+
+- **Ke dai xie neng liang she ru liang** = Zong neng liang she ru liang - (He niao ye de neng liang + He niao ye de neng liang)  
+  = **9279 kJ - (647 kJ + 318 kJ)**  
+  = **9279 kJ - 965 kJ**  
+  = **8314 kJ**
+
+---
+
+**Dui xiang:**  
+Ke xiao hua neng liang she ru liang = **9279 - 647 kJ**  
+Ke dai xie neng liang she ru liang = **9279 - (647 + 318) kJ**
+
+---
+
+**Dui xiang xuan ze:**  
+**D)** 9279-647 kJ  he  9279- (647 + 318) kJ
+
+---
+
+**Answer: D**",
+17,human_aging,health,B,B,True,"**Question: 对同性恋者的调查表明，他们倾向于将同性作为**
+
+A) 婚姻中最忠贞的伴侣  
+B) 性伴侣  
+C) 一种表达情感的方式  
+D) 他们的抉择  
+
+**Answer: B**",
+148,college_medicine,health,A,B,False,**Answer: B**,
+44,high_school_computer_science,computer science,C,C,True,Answer: C,
+37,machine_learning,computer science,B,C,False,"Chen shu 1:  
+""he mi du gu ji qi xiang dang yu zai yuan shi shu ju ji zhong de mei ge dian xi chu zhi xing zhi wei Yi = 1/n de he hui gui""  
+→ 这句话的意思是：**在原始数据集中，每个点的权重 Yi = 1/n 的和会归一化**。  
+这是**正确的**，因为每个样本的权重为 1/n，总和为 1，符合归一化的定义。
+
+Chen shu 2:  
+""xue xi jue ce shu de shen du ke yi da yu yong yu chuang jian shu de xun lian shi li de shu liang""  
+→ 这句话的意思是：**学习决策树的深度可以大于用于构建树的训练数据量**。  
+这是**错误的**，因为决策树的深度不可能大于训练样本的数量。通常，深度是有限的，且与数据量有关，不能超过样本数。
+
+所以，正确答案是：  
+**C) zheng que ， cuo wu**
+
+Answer: C",
+54,machine_learning,computer science,A,C,False,Answer: C,
+14,computer_security,computer science,C,C,True,Answer: C,
+6,high_school_macroeconomics,economics,D,D,True,"D) yi wei zhe zi yuan bei yong lai sheng chan she hui suo xu de shang pin he fu wu ， er qie shu liang qia dao hao chu 。  
+
+Answer: D",
+222,high_school_macroeconomics,economics,D,C,False,"ru guo yu ji wei lai jia ge shang zhang de su du hui geng man ， ze  
+C) shi ji tong huo peng zhang lv jiang bao chi wen ding ， chu fei chu xian gong ying chong ji 。
+
+Answer: C",
+281,high_school_macroeconomics,economics,A,C,False,"Zhi yin shui ping shi shi jing ji zai sheng cheng de shui (GDP) yu shui shou (tax) zhi jian de chao du. Shi ji GDP shi 5000 mei yuan, er chong fen jiu ye de shi ji GDP shi 4000 mei yuan, zhe bi shi shui ping zhi shang xie.
+
+Zhi yin shui ping shi zhi yin shui shou shang xie, shi jing ji zai sheng cheng de shui yu shui shou zhi jian de chao du. Yin wei shi ji GDP shang xie, shui shou yu shi ji GDP de chao du yu shi jing ji zai sheng cheng de shui yu shui shou de chao du xiang jiao, zhe shi shui ping.
+
+Yi xia de zheng ce zu he zui you ke neng shi jing ji da dao zhe yi shui ping de shi:
+
+**C) jian shao shui shou he zai gong kai shi chang shang chu shou zhai quan**
+
+Yin wei jian shao shui shou ke yu shui ping, zai gong kai shi chang shang chu shou zhai quan ke yu shui ping.
+
+Answer: C",
+93,high_school_microeconomics,economics,D,D,True,"D) jia ge da yu bian ji shou ru 。  
+
+Answer: D",
+135,high_school_microeconomics,economics,C,B,False,"Jia ge qi shi xing long duan bu tong yu fei qi shi xing long duan ， yin wei qi shi xing long duan  
+A) xu qiu qu xian bi fei qi shi xing long duan geng ju tan xing  
+B) zhuan qu de shou ru shao yu fei qi shi xing long duan zhuan  
+C) zhuan qu de shou ru duo yu fei qi shi xing long duan zhuan  
+D) chan chu jiang shao yu fei qi shi xing long duan  
+
+**Answer: B**",
+363,high_school_macroeconomics,economics,C,D,False,Answer: D,
+267,high_school_macroeconomics,economics,A,C,False,"GDP 每个季度计算一次。
+
+Answer: C",
+302,high_school_macroeconomics,economics,D,A,False,**Answer: A**,
+215,high_school_macroeconomics,economics,D,C,False,"Mao yi shun cha ke neng shi **gai guo huo bi sheng zhi** de jie guo。
+
+Answer: C",
+234,high_school_microeconomics,economics,B,B,True,"Zhe ge wen ti shi guan yu **shang pin jie gou** (pattern of trade) de. Mei guo yong **feng wei yu** (corn) yu **bi lu** (Brazil) jiao huan **gui yu** (cotton). Ru guo **mei guo** yu **bi lu** shi ji yu xiang dui ji hui cheng ben jin xing mao yi de, na me qing kuang hui zen yang ne?
+
+Zai shang pin jie gou zhong, **xiao shou jie gou** (pattern of trade) shi xing cheng de gan suan shi: **sheng chan fang mian de cheng ben**. Mei guo yu bi lu xiang jiao huan, zai zhe ge jiao huan zhong, **sheng chan fang mian de cheng ben** xiang jie chu xiao shou jie gou.
+
+### Fen xiang:
+
+- Mei guo **sheng chan feng wei yu** de cheng ben **jiu shi** (jiu shi = has a comparative advantage) → **mei guo ying gai sheng chan feng wei yu**.
+- Bi lu **sheng chan gui yu** de cheng ben **jiu shi** → **bi lu ying gai sheng chan gui yu**.
+
+### Ke neng de jie guo:
+
+- Mei guo ying gai sheng chan feng wei yu (jiu shi), bi lu ying gai sheng chan gui yu (jiu shi) → **xiao shou jie gou** shi: **mei guo yu bi lu jiao huan feng wei yu yu gui yu**.
+
+### Da an:
+
+**Answer: B**",
+290,high_school_macroeconomics,economics,D,A,False,"A) chang qi zong gong ji qu xian de tan xing
+
+Answer: A",
+34,high_school_macroeconomics,economics,A,C,False,"Ru guo zong gong ji qu xian xiang zuo yi dong ， zhe shi yu shui ping shang de jia ge he chan chu liang de qing kuang. Zai shui ping shang ， jia ge he chan chu liang de zhong liang xiang deng ， su yin shui ping shang heng ping.
+
+Dui yu ""jun heng jia ge shui ping"" ， zhe shi jia ge he shui ping de zhong liang xiang deng de qing kuang. ""Jun heng chan chu liang"" ， zhe shi chan chu liang he shui ping de zhong liang xiang deng de qing kuang.
+
+Ru guo zong gong ji qu xian xiang zuo yi dong ， zhe shi jia ge he chan chu liang de zhong liang xiang deng de qing kuang. Cheng guan xiang deng de shui ping shang ， jia ge he chan chu liang de shui ping shang xiang deng.
+
+Suo yin ， ru guo zong gong ji qu xian xiang zuo yi dong ， jia ge he chan chu liang de zhong liang xiang deng ， su yin shui ping shang heng ping.
+
+**Answer: C**",
+247,high_school_macroeconomics,economics,A,C,False,"Zhèn fú gòu mǎi dào zhī lì lǜ shàng shēng ， cóng èr shí shí jī tóu zì jiān shǎo ， zhè tóng cháng bèi chéng wéi
+
+A) “ji chǔ” xiǎo yíng 。  
+B) lìng zhèng cè xiǎo guó 。  
+C) lā fù xiǎo yíng 。  
+D) cái zhèng shí bái 。
+
+**Answer: C**",
+81,econometrics,economics,D,D,True,Answer: D,
+50,high_school_macroeconomics,economics,D,C,False,Answer: C,
+71,high_school_microeconomics,economics,D,C,False,"**Question:**  
+市場中快餐業者的最低工資可能會到達至  
+
+A) 對快餐業者的需求增加。  
+B) 快餐業者的工作機會減少。  
+C) 快餐業者短缺。  
+D) 快餐業者過剩。  
+
+**Answer: C**",
+228,high_school_macroeconomics,economics,D,D,True,"D) gao gu tong huo peng zhang lv 。  
+
+Answer: D",
+342,high_school_macroeconomics,economics,D,D,True,"Gen ju gu dian jing ji xue fen xi ， cong chang qi lai kan ， huo bi gong ying liang de zeng jia hui dao zhi
+
+Zhong wen yi xie shi ：  
+**""huan bi gong ying liang de zeng jia hui dao zhi""**  
+Shi yu **""huo bi gong ying liang de zeng jia hui dao zhi""** xiang jie ， bu shi “huo bi gong ying” ， jiu shi “huo bi gong ying” de jie guan xie fa ， shi yu “huan bi gong ying” xiang jie 。
+
+Ru guo xuan ze **""huan bi gong ying""** ， zai jing ji xue fen xi zhong ， “huan bi gong ying” zhi yi shi ：  
+**“huo bi gong ying”** = **“huan bi gong ying”** = **“huo bi gong ying”**  
+Shi yi ge xie fa xie fa ， bu shi yi ge yi xie shi 。
+
+Suo yi ， zai xuan ze ti zhong ， **""huan bi gong ying""** shi yi ge xie fa xie fa ， bu shi yi ge yi xie shi 。
+
+Gu shi **""huan bi gong ying""** shi yi ge xie fa xie fa ， bu shi yi ge yi xie shi 。
+
+**Answer: D**",
+139,high_school_microeconomics,economics,B,D,False,"D) xiao fei shui 。  
+Answer: D",
+331,high_school_macroeconomics,economics,D,A,False,"Ru guo zong xu qiu qu xian xiang you yi dong ， jun heng jia ge shui ping he jun heng chan chu liang hui fa sheng shen me bian hua ？ jia she zong gong ji qu xian wei gu dian qu xian 。
+
+Zhè ge wen ti shi guan yu **jun heng jia** (balance) de xiang guan li chang yu chuan shu de jie gou xing wei. Zong xu qiu qu xian xiang you yi dong jiu shi shuo zong xu jiu yao xiang qu xian xiang you yi dong (yao xiang qu xian xiang you yi dong).
+
+Zai jun heng jia de jie gou zhong, **jun heng jia ge shui ping** shi jia yu shui ping de yu chuan, **jun heng chan chu liang** shi jia yu shui ping de qian yu chuan. Zai guan yu zong xu jiu yao xiang qu xian xiang you yi dong de jie gou zhong, **jun heng jia ge shui ping** shi zai **shang sheng**, **jun heng chan chu liang** shi zai **xia jiang**.
+
+**Dui xiang ji shu**:
+
+- **Jun heng jia ge shui ping shang sheng** (zong xu yao xiang qu xian xiang you yi dong)
+- **Jun heng chan chu liang xia jiang** (zong xu yao xiang qu xian xiang you yi dong)
+
+**Dui xiang jie guo**:  
+**A) jun heng jia ge shui ping shang sheng ， er jun heng chan chu liang xia jiang 。**
+
+Answer: A",
+98,high_school_macroeconomics,economics,C,B,False,Answer: B,
+177,high_school_macroeconomics,economics,B,B,True,"A) jie kuan jia ting jiang quan bu dai kuan jin e zhuan cun hui yin hang  
+B) yin hang chi you chao e zhun bei jin  
+C) yin hang jiang duo yu de zhun bei jin quan bu jie gei jie kuan ke hu  
+D) jia ting zeng jia zai yin hang de zhi piao cun kuan  
+
+**Answer: B**",
+333,high_school_macroeconomics,economics,A,D,False,**Answer: D**,
+173,high_school_microeconomics,economics,A,A,True,**Answer: A**,
+84,high_school_macroeconomics,economics,B,D,False,"Zai zhong guo sheng chan de yu le xi tong guo mei guo ren gou mai le, zhe shi yi ge chuan rong shang pin. Mei guo guo min shou ru zhang hu jiang ru he chu li zhe bi jiao yi, zai zai xie jie shuo:
+
+- **Jing chu kou** (import) zhi jia zai mei guo shou ru zhang hu jiang ru he chu li zhe bi jiao yi, shi jie shuo yu le xi tong shi zhong guo sheng chan de, su yin shi mei guo guo min yao shou ru zhang hu jiang ru he chu li zhe bi jiao yi, zhe shi jing chu kou jian shao.
+
+- **GDP** (Guojia Zengjia Pinzhi) zhi jia zai mei guo sheng chan de yu le xi tong, su yin shi GDP bu bian (yi jian jie shuo, bu xiang yin xiang xiang zhi jia).
+
+Suo yin, zheng que de da an shi:
+
+**Answer: D**",
+180,high_school_macroeconomics,economics,A,D,False,"Guo zhai zeng jia dui mei yuan shi chang yi ji mei yuan xiang dui yu qi ta huo bi de jia zhi you he ying xiang ？ mei yuan shi chang     mei yuan jia zhi
+
+A) xu qiu zeng jia     sheng zhi  
+B) gong ji zeng jia     sheng zhi  
+C) gong ji jian shao     bian zhi  
+D) xu qiu jian shao     bian zhi  
+
+**Zhuan xie yu yin jie:**  
+Guo zhai zeng jia (overhead cost) dui mei yuan shi chang (per unit production) yi ji mei yuan xiang dui yu qi ta huo bi de jia zhi (per unit relative to other costs) you he ying xiang? mei yuan shi chang     mei yuan jia zhi.
+
+**Jie shi:**  
+Guo zhai zeng jia (overhead cost) shi shang cheng gong xian xia de qing kuang, zai jiu sheng cheng de shi chang. Guo zhai zeng jia zeng jia, mei yuan shi chang yao jian shao, mei yuan jia zhi yao jian shao.  
+
+**Dui xiang:**  
+Guo zhai zeng jia zeng jia → mei yuan shi chang jian shao → mei yuan jia zhi jian shao.  
+
+**Dui xiang shi D.**
+
+**Answer: D**",
+322,high_school_macroeconomics,economics,C,C,True,"Ceteris paribus
+
+A) shi xi la yu ， yi si shi “ yong bu gai bian ”。  
+B) de yi si shi ren he shi qing dou ke neng sui shi fa sheng bian hua 。  
+C) shi la ding yu ， yi si shi “ qi ta yi qie bao chi bu bian ”。  
+D) de yi si shi “ dang chu yu ping heng zhuang tai shi ”。
+
+**Answer: C**",
+66,econometrics,economics,C,B,False,Answer: B,
+27,nutrition,health,D,B,False,Answer: B,
+170,college_medicine,health,D,A,False,"A) lin suan guo tang ji mei shi tang jiao jie de xian su mei 。
+
+**Answer: A**",
+204,clinical_knowledge,health,A,D,False,"D) ji wu li jin duan bi yuan duan geng ming xian
+
+Answer: D",
+262,professional_medicine,health,C,A,False,"A) ru xian ai
+
+**Explanation:**  
+The patient is a 52-year-old woman who presents with a greenish discoloration of the skin on her face, no fever, and she has been using oral contraceptive pills. She also mentions that she has had this condition for 20 years. The most likely cause of her condition is **ru xian ai (vitiligo)**, which is a chronic skin condition characterized by loss of pigmentation, often appearing as white patches on the skin. The use of oral contraceptive pills is not directly related to vitiligo, but the long-standing nature of the condition and the presence of a skin discoloration point towards vitiligo as the most likely diagnosis. Other options like liver disease, oral candidiasis, or seborrheic dermatitis are less likely based on the description.  
+**Answer: A**",
+129,college_medicine,health,D,C,False,"**Question:**  
+一名摔跤手为了赢得比赛，计划在两个星期内减重 30 斤。下列哪种方法不是实现减重的合理方法？
+
+**A)** 在健身房锻炼但不吃饭。  
+**B)** 每周六次，每次训练后将体重减去一斤。  
+**C)** 吃高热量食物，同时使用香蕉和金丹自减。  
+**D)** 将体重藏在家中，不让别人看到。
+
+---
+
+**Answer: C**",
+93,college_medicine,health,A,D,False,Answer: D,
+116,clinical_knowledge,health,D,D,True,"D) hu xi pin lv wei mei fen zhong 16 ci 。  
+
+Answer: D",
+207,clinical_knowledge,health,B,C,False,Answer: C,
+223,prehistory,history,D,B,False,Answer: B,
+48,high_school_us_history,history,D,C,False,Answer: C,
+37,high_school_world_history,history,B,B,True,"Zai zhe yi shi qi ， guo ji mao yi lian xi reng zai fa zhan 。
+
+Answer: B",
+282,prehistory,history,C,D,False,"Yu qi ta zao qi wen ming xiang bi ， yin du he liu yu wen ming zai na xie fang mian shi wu yu lun bi de ？
+
+A) ji nian xing jian zhu de gao du he gui mo  
+B) bao li de shu liang he pin lv  
+C) cheng shi gui hua de cheng du  
+D) wei chu cun er sheng chan de sheng yu xiao mai de shu liang  
+
+**Answer: D**",
+242,prehistory,history,C,D,False,Answer: D,
+165,high_school_world_history,history,C,C,True,"A) song chao fei chu le ru sheng ke ju kao shi  
+B) song chao zhong shi fo jiao ， qing shi dao jiao he ru jiao  
+C) song chao feng xing bu tai xiang wai kuo zhang de dui wai zheng ce  
+D) song chao ren ben lai jiu lai zi zhong guo zhi wai  
+
+Answer: C",
+197,prehistory,history,B,A,False,"pa lun ke de tong zhi zhe pa pa er da di de shi guan gai miao hui le shen me ？
+
+A) guo wang de si di ， shang mian you yi xi lie xiang xing wen zi ， dai biao zhe shi jie shang suo you wei da de cheng shi he wen ming  
+B) si qu de guo wang xuan gua zai ma ya da di guai wu he xiang zheng ma ya tian tang de kui sa er niao zhi jian  
+C) a zi te ke guo wang jia zhe jin zhi de zhan che sheng tian  
+D) yi ge gu lao de wai xing ren tong guo wang yuan jing guan cha bing jia shi zhe yu zhou fei chuan  
+
+**Answer: A**",
+50,high_school_world_history,history,A,B,False,"**Question:**  
+根据文中的信息，以下哪一项最有可能是文中提到的“原因”？
+
+**Options:**  
+A) 英国在中英贸易中处于劣势  
+B) 英国向中国出口鸦片  
+C) 英国把货物传入中国  
+D) 英国利用中国使用海洛因  
+
+**Answer: B**",
+246,prehistory,history,B,D,False,"D) shi zhong xu yao zi xi de gui hua 。  
+
+Answer: D",
+290,prehistory,history,D,B,False,Answer: B,
+89,high_school_us_history,history,C,C,True,Answer: C,
+102,prehistory,history,B,D,False,"D) xi shu cao yuan sheng tai wei 。  
+
+Answer: D",
+112,prehistory,history,B,C,False,**Answer: C**,
+97,high_school_european_history,history,D,A,False,Answer: A,
+175,prehistory,history,A,D,False,Answer: D,
+190,high_school_us_history,history,C,D,False,"D) jie fei xun · dai wei si zheng zhao bang lian shi bing can zhan ， bao wei sa mu te bao 。  
+Answer: D",
+220,prehistory,history,B,D,False,Answer: B,
+161,prehistory,history,B,D,False,"Gen ju dui fu jin cun zhuang dong wu ya chi de fen xi，zhi yin wei fu jin cun zhuang dong wu ya chi de fen xi shi yu jian zao ju shi zhen de ren liao jie de fen xi，zhi neng xuan ze yu jian zao ju shi zhen de ren liao jie de fen xi yin guan de xuan ze ti da an.
+
+Dui fu jin cun zhuang dong wu ya chi de fen xi shi yu jian zao ju shi zhen de ren liao jie de fen xi xiang jiao，guan yu jian zao ju shi zhen de ren liao jie de fen xi，zhi neng xuan ze yu jian zao ju shi zhen de ren liao jie de fen xi yin guan de xuan ze ti da an.
+
+Answer: D",
+171,prehistory,history,C,D,False,Answer: D,
+186,prehistory,history,C,A,False,Answer: A,
+47,high_school_us_history,history,C,C,True,Answer: C,
+155,high_school_european_history,history,C,B,False,"Na po lun tong guo **B) ye man zhen ya you ji di kang** shi fa guo da ge ming zai ta suo zheng fu de di qu cheng wei yi chang guo ji yun dong.
+
+**Answer: B**",
+118,high_school_european_history,history,B,D,False,Answer: D,
+188,prehistory,history,B,B,True,Answer: B,
+67,high_school_macroeconomics,economics,B,B,True,"Ru guo huo bi gong ying liang zeng jia ， na me huo bi shi chang hui fa sheng shen me qing kuang ？
+
+A) ming yi li lv shang sheng 。  
+B) ming yi li lv xia jiang 。  
+C) ming yi li lv mei you bian hua 。  
+D) huo bi de jiao yi xu qiu xia jiang 。
+
+**Answer: B**",
+365,high_school_macroeconomics,economics,D,D,True,"D) mei guo lian bang chu bei wei yuan hui  (FED)  ying yun xu huo bi gong ying liang yi heng ding de su du zeng zhang 。  
+
+Answer: D",
+33,econometrics,economics,A,C,False,Answer: C,
+112,high_school_microeconomics,economics,A,B,False,Answer: B,
+246,high_school_macroeconomics,economics,D,C,False,"Jin suo xing huo bi zheng ce hui shi ming yi li lv, zong xu qiu, chan chu he jia ge shui ping fa sheng shen me bian hua.
+
+- **Ming yi li lv** (inflation rate): **shang sheng** (increase)  
+- **Zong xu qiu** (aggregate demand): **xia jiang** (decrease)  
+- **Chan chu** (output): **xia jiang** (decrease)  
+- **Jia ge shui ping** (price level): **shang sheng** (increase)
+
+**Answer: C**",
+224,high_school_microeconomics,economics,B,D,False,"lao dong xu qiu qu xian zi shi lao dong shi chang de jun heng gong zi, yao qiu lao dong xu qiu qu xian de jie guan, yao yao xian xing lao dong shi chang de jun heng gong zi.
+
+Answer: D",
+118,high_school_microeconomics,economics,A,B,False,Answer: B,
+106,high_school_macroeconomics,economics,B,C,False,Answer: C,
+167,high_school_microeconomics,economics,C,C,True,"**Question:**  
+下列哪一项表示了企业利润最大化时，价格（P）与边际成本（MC）之间的关系？即，企业实现利润最大化时，市场价格与边际成本的差额占价格的比例是多少？
+
+**Choices:**
+
+A) (MC - P)/MC  
+B) (MC - P)/P  
+C) (P - MC)/P  
+D) (P - MC)/MC
+
+---
+
+**Answer:**  
+企业利润最大化时，价格（P）等于边际成本（MC）。因此，P - MC = 0，所以（P - MC）/P = 0，表示利润率为零。  
+但题目问的是“利润最大化时，价格与边际成本之间的差额占价格的比例”，即：  
+**(P - MC)/P**，这是利润相对于价格的比例。
+
+**Answer: C) (P - MC)/P**",
+15,high_school_microeconomics,economics,D,C,False,"Ray 和 Dorothy 都會做飯，而且都能在週五去花園裡拔草。對於做飯的每個小時，Ray 可以拔 50 根草，Dorothy 可以拔 100 根草。
+
+這說明 **Dorothy 在拔草這項任務上比 Ray 更有效率**（因為她每小時能拔更多草）。
+
+因此，如果問題是關於「誰應該去拔草」，正確答案是：
+
+**C) Dorothy 去拔草，因為她在拔草這方面更有優勢。**
+
+Answer: C",
+10,econometrics,economics,B,A,False,**Answer: A**,
+230,high_school_macroeconomics,economics,C,D,False,Answer: D,
+65,econometrics,economics,B,B,True,"Fang zi de jia ge zui hao yong **ji shu** lai miao shu.
+
+Answer: B",
+104,human_aging,health,D,B,False,Answer: B,
+138,professional_medicine,health,D,C,False,"Zai zhi xian jian cha de shi hou， yi qian jian kang de nan xing de yin jing zhong you san ge zhi jing 10 hao mi de wu di， rou se bing bian， bing bian bian bai， qi yu jian cha wei jian yi chang。 zhe xie xiang jing shuo xiang shi yin jing zhong yu zai ying yao shen yu shui di， yin wei yin jing zhong yu zai ying yao shen yu shui di shi yin jing zhong yu shui di de ying xiang。 zhe shi xiang jing shuo xiang shi yin jing zhong yu zai ying yao shen yu shui di， yin wei yin jing zhong yu zai ying yao shen yu shui di shi yin jing zhong yu shui di de ying xiang。
+
+xia lie na zhong hou xu zhi liao cuo shi zui he shi？
+
+**Answer: C**",
+88,nutrition,health,A,D,False,**Answer: D**,
+64,prehistory,history,B,B,True,Answer: B,
+131,high_school_us_history,history,D,D,True,"Gen ju 《 bang lian tiao li 》， mei guo zui xian zhu de cheng jiu shi **zai xi bei di qu chu shou tu di de gui ding jiang shi zheng ge guo jia shou yi**.
+
+Answer: D",
+320,prehistory,history,B,C,False,"Zai niu yue ha de xun he gu fu jin de yi ge yi zhi fa xian de bei mei xun lu gu tou ke yi zhui su dao 10,000 nian qian，zhe yi wei zhe：
+
+A) zhu yao de shi wu lai yuan shi xun lu rou。  
+B) na shi de qi hou yao leng de duo。  
+C) xun lu shi cong jia na da jin kou dao mei guo de。  
+D) zhu zai zhe ge di fang de ren dan gu chun hen gao。
+
+**Answer: C**",
+114,prehistory,history,A,B,False,"Shen me shi hou cong geng yuan de di fang huo qu de yuan cai liao zeng jia le？ zhe shuo ming le shen me？
+
+Ti mu shuo ming de shi yuan cai liao zeng jia le，zhe bu shi shuo ming yuan cai liao zai shen me shi hou zai geng yuan de di fang huo qu de，er shi shuo ming yuan cai liao zeng jia le de yin su。Zai shi xuan ze ti zhong，zhi you B xuan ze shuo ming yuan cai liao zeng jia le de yin su，ji shi “cong geng yuan de di fang huo qu yuan cai liao biao ming ren men de qian yi geng jia pin fan”。
+
+**Answer: B**",
+109,high_school_european_history,history,D,C,False,**Answer: C**,
+193,prehistory,history,C,A,False,"zai da yue  700  nian qian cong jiu shi jie dao xin da lu de di san ci yi min lang chao zhong ， shi shen me ren de wen hua shi yong yin cang de chuan zhi ， cong a la si jia dao ge ling lan dao ， chuan yue bei ji chuan bo kai lai ？
+
+A) gu ai si ji mo ren  
+B) duo sai te ren  
+C) tuo le ren  
+D) ke luo wei si ren  
+
+**Answer: A**",
+83,high_school_us_history,history,D,A,False,"这段话出自杜鲁门总统1947年发表的演讲，内容强调了战后美国社会对和平与繁荣的期望，以及政府应承担的责任，尤其是对退伍军人的关怀和支持。文中提到“我们应当保护这种希望……我相信，国家将会正视这些责任”，体现了对战后社会福利和政策的重视。
+
+选项分析如下：
+
+- **A) 《退伍军人权利法案》（G.I. Bill）**：这是1944年通过的法案，旨在为二战退伍军人提供教育、就业和住房支持，与文中提到的“保护希望”“承担责任”高度相关，符合文意。
+- **B) 清单的发展**：此选项语义不清，不符合文意。
+- **C) 《马歇尔计划》**：这是1947年美国为帮助欧洲战后重建而提出的经济援助计划，虽然与1947年相关，但文中并未提及欧洲或经济援助。
+- **D) 长期对西拉和图尔的援助**：此选项内容模糊，与原文无关。
+
+综上所述，最符合文意的选项是：
+
+**Answer: A**",
+118,prehistory,history,D,C,False,"Gen ju ti mu de jie shuo ， zhe ge xuan ze ti shi yao ping jie yuan shi ren hua shi de xing tai zai da yue 180 wan nian qian dao da yue 400,000 nian qian de shi qian qing kuang 。 
+
+Gen chu yu shu ， xuan ze ti de zheng que da an shi ：
+
+**Answer: C**",
+166,high_school_us_history,history,C,C,True,Answer: C) mei xi zhan zheng,
+310,prehistory,history,D,D,True,Answer: D,
+281,prehistory,history,A,B,False,Answer: B,
+181,high_school_us_history,history,B,D,False,"The passage describes a social scene from *Niu Yue Shi Bao* (1905, October 15), which portrays a new social phenomenon where women are dining out in public without male accompaniment, challenging traditional gender norms. It reflects the changing social attitudes and the emergence of more independent female roles in society.
+
+Now, the question asks: **Which of the following laws best reflects the social phenomenon described in the passage?**
+
+Let’s analyze the options:
+
+- **A) 1964《Minquan Fa An》 (Civil Code of 1964)**: This law was promulgated in the People's Republic of China and emphasized socialist values, but it was not directly related to the social changes described in the 1905 article.
+
+- **B) 《Pingdeng Quanli Xiu Zheng An》 (Equal Rights Amendment)**: This is not a specific historical law. There is no known law by this name in Chinese history.
+
+- **C) 《Chun Jing Shi Pin Huo Yao Pin Fa An》 (Law on the Protection of Women's Rights and Interests)**: This law was enacted in 1992, which is much later than the 1905 article. It deals with the legal protection of women's rights, but it is not the law that directly reflects the social changes described in the 1905 article.
+
+- **D) 《Zhou Ji Mao Yi Fa An》 (Marriage Law of the People's Republic of China, 1950)**: This law was enacted in 1950 and marked a significant shift in Chinese society, promoting gender equality and women's rights in marriage and family life. It reflects the social changes described in the 1905 article, which discusses the emergence of a new social phenomenon where women are dining out and acting independently.
+
+### ✅ Correct Answer: **D) 《Zhou Ji Mao Yi Fa An》**
+
+**Answer: D**",
+33,high_school_european_history,history,C,D,False,"cong wen zhong ke yi tui duan ， fei lei la wei yuan hui
+
+**A) wei fo luo lun sa mei shu xue yuan dian ding le ji chu**  
+**B) yong jiu di tiao he le dong xi fang jiao hui zhi jian de fen qi**  
+**C) jia su le dui xi ou gu dian zhe xue de chong xin fa xian**  
+**D) yun xu bai zhan ting ren xue xi fo luo lun sa de xue shu**
+
+**Answer: D**",
+54,high_school_world_history,history,D,C,False,Answer: C,
+203,prehistory,history,C,C,True,Answer: C,
+81,high_school_european_history,history,B,B,True,Answer: B,
+106,human_aging,health,A,B,False,"wan nian shen jing zhi di zeng jia ke you li di yu ce ______
+
+A) si wang lv  
+B) she hui zhi chi de sang shi  
+C) ren zhi neng li xia jiang  
+D) du li xing  
+
+**Answer: B**",
+232,nutrition,health,C,C,True,Answer: C,
+248,professional_medicine,health,D,B,False,**Answer: B**,
+38,human_aging,health,B,D,False,"tou she ce yan yi ban bi ke guan ren ge ce yan ____。
+
+A) ke kao xing geng gao  
+B) geng zhi guan  
+C) geng you xiao  
+D) ti gong geng duo xin xi  
+
+**Answer: D**",
+185,professional_medicine,health,C,C,True,Answer: C,
+16,college_medicine,health,C,C,True,"DNA 转录为 RNA 的过程发生于：
+
+**C) xi bao he zhong**。
+
+Answer: C",
+186,human_aging,health,C,B,False,**Answer: B**,
+68,clinical_knowledge,health,D,C,False,"zai zuo xin shi shou suo zhi jian ， xue ye ji xu zai xue guan zhong liu dong ， yin wei ：
+
+A) xin fang zai shou suo 。  
+B) xue guan shou suo le 。  
+C) you xin shi fang song 。  
+D) dong mai you tan xing hou zuo li 。
+
+Answer: C",
+153,nutrition,health,D,B,False,Answer: B,
+226,clinical_knowledge,health,D,D,True,"在一個完整的三羧酸循環（Krebs 循環）中：
+
+- 產生 **2 分子 CO₂**（來自乙酰輔酶 A 中的兩個碳原子）。
+- 產生 **1 ATP**（直接生成）。
+- 產生 **3 NADH** 和 **1 FADH₂**，這些還原當量在電子傳遞鏈中進一步產生 ATP。
+
+因此，三羧酸循環本身直接產生 **1 ATP** 和 **2 CO₂**。
+
+**Answer: D**",
+210,professional_medicine,health,D,C,False,Answer: C,
+47,virology,health,C,D,False,"D) shu yu yuan nei gan ran ， zai yi yuan nei zhuan bo
+
+Answer: D",
+151,human_aging,health,B,B,True,"**Question:**  
+ji shi shao liang de shui mian bo duo si hu ye hui
+
+**Options:**  
+A) zeng jia ti zhong  
+B) ti gao shui mian zhi liang  
+C) rao luan di er tian de zhu yi li  
+D) zeng jia yi nu xing  
+
+**Answer: B**",
+29,anatomy,health,B,B,True,Answer: B,
+68,professional_medicine,health,D,A,False,"**Question:**  
+一名患有活动性强直性脊柱炎的 46 岁女性来上班，进行随访检查。使用一种常规的非甾体抗炎药治疗，六天后病情恶化。最可能的处理是使用一种抑制下列哪种物质的药物？
+
+A) 肿瘤坏死因子 α (TNF-α)  
+B) 血管紧张素 II  
+C) 白介素-1 (IL-1)  
+D) 血管紧张素转换酶 (ACE)
+
+**Answer: A**",
+154,clinical_knowledge,health,B,B,True,Answer: B,
+262,prehistory,history,B,A,False,"Watson Brake 和 Poverty Point 是位於美國路易斯安那州的史前遺址，屬於約公元前 3500 年至公元前 1000 年之間的考古遺跡。這些遺址顯示出當時的居民已經開始建造複雜的土丘結構，並進行有組織的社區生活，這表明他們已經發展出一定程度的社會組織和建築技術。
+
+這些遺址的特徵表明，當時的居民並非完全依賴狩獵採集，而是已經開始進行一定程度的農業活動，並建立固定的居住地點。這與「農業家」（A）的描述相符。
+
+**Answer: A**",
+31,abstract_algebra,math,B,A,False,"Ruò (G, ⋅) shì yī gè qún，qiě duì yú suǒ yǒu G zhōng de a hé b，mǎn zú (ab)⁻¹ = a⁻¹b⁻¹，ze G shì yī ge
+
+**A) jiāo huàn bān qún**
+
+**Answer: A**",
+205,high_school_statistics,math,D,D,True,"Zhi yin wei xia yao xuan ze yige xuan ze ti, xia li jie shuo xia li na xiang shi cuo wu de.
+
+**Ji he X = {10, 30, 45, 50, 55, 70, 90}**  
+**Ji he Y = {10, 30, 35, 50, 65, 70, 90}**
+
+### 1. Zhong wei shu (median)
+- Ji he X: 7 ge shu, zhong wei shu shi **50**
+- Ji he Y: 7 ge shu, zhong wei shu shi **50**  
+✅ **You xiang tong de zhong wei shu** → A) **Zheng que**
+
+### 2. Jun zhi (average)
+- Ji he X:  
+  $$
+  \frac{10 + 30 + 45 + 50 + 55 + 70 + 90}{7} = \frac{350}{7} = 50
+  $$
+- Ji he Y:  
+  $$
+  \frac{10 + 30 + 35 + 50 + 65 + 70 + 90}{7} = \frac{350}{7} = 50
+  $$
+✅ **You xiang tong de jun zhi** → B) **Zheng que**
+
+### 3. Fan wei (range)
+- Ji he X: 90 - 10 = **80**
+- Ji he Y: 90 - 10 = **80**  
+✅ **You xiang tong de fan wei** → C) **Zheng que**
+
+### 4. D) Yi shang dou bu shi cuo wu de  
+→ **Bu zheng que**, yi shang san ge xiang shi dou shi zheng que
+
+---
+
+**Answer: D**",
+213,elementary_mathematics,math,B,C,False,"Jia you zhan mai chu de qi you shi 300.5849 jia lun.  
+Wan yao zhao dao zui jie jin de bai fen wei (ji 3 shu wei), yao jiu shang yao gai cheng 300.585.
+
+**Answer: C**",
+168,high_school_mathematics,math,B,D,False,"我们来一步步解答这个问题：
+
+---
+
+### 题目给出：
+
+- 一个三角形的两条边分别是 **6** 和 **b**。
+- 第三条边是 **c**。
+- 三角形的 **周长** 是 **18**。
+
+---
+
+### 要求：
+
+求 **c** 的值。
+
+---
+
+### 解题步骤：
+
+1. **周长公式**：  
+   三角形的周长 = 三边之和  
+   $$
+   6 + b + c = 18
+   $$
+
+2. **解这个方程**：  
+   $$
+   b + c = 18 - 6 = 12
+   $$
+
+3. **求 c 的值**：  
+   $$
+   c = 12 - b
+   $$
+
+但是题目中没有给出 **b** 的值，所以无法直接算出 **c** 的具体数值。
+
+---
+
+### 但题目问的是“求 c 的值”，而选项中有数值，说明我们可能漏看了什么。
+
+再看题目：
+
+> “zhi jiao san jiao xing de bian zhang wei 6 he b，xie bian zhang wei c。ci san jiao xing de zhou chang shi 18。”
+
+翻译为：
+
+> “一个三角形的两条边是 6 和 b，第三条边是 c。这个三角形的周长是 18。”
+
+所以：
+
+$$
+6 + b + c = 18
+\Rightarrow b + c = 12
+\Rightarrow c = 12 - b
+$$
+
+但题目中没有给出 b 的值，所以 **无法唯一确定 c 的值**。
+
+---
+
+### 但题目选项中有一个确定的数值：**B) $\frac{15}{2}$**
+
+我们尝试代入这个值看看是否符合逻辑：
+
+- 如果 $ c = \frac{15}{2} = 7.5 $，则 $ b = 12 - 7.5 = 4.5 $
+
+- 三边为：6, 4.5, 7.5  
+- 周长为：6 + 4.5 + 7.5 = 18 ✅
+
+这个组合是合法的三角形（满足三角形不等式）。
+
+---
+
+### 所以，最合理的答案是：
+
+**Answer: B**",
+218,high_school_mathematics,math,A,D,False,"John 有 5 个孩子。问题是：**至少有一个是女孩的概率是多少？**
+
+我们假设生男生女的概率是相等的，即各为 1/2。
+
+---
+
+### 步骤 1：总的可能情况
+
+每个孩子有 2 种可能（男或女），5 个孩子就有：
+
+$$
+2^5 = 32 \text{ 种可能}
+$$
+
+---
+
+### 步骤 2：计算“没有女孩”的情况（即全是男孩）
+
+只有一种情况：5 个孩子都是男孩。
+
+---
+
+### 步骤 3：计算“至少有一个女孩”的情况
+
+$$
+\text{至少有一个女孩} = \text{总情况} - \text{全是男孩的情况}
+$$
+$$
+= 32 - 1 = 31
+$$
+
+---
+
+### 步骤 4：计算概率
+
+$$
+P(\text{至少有一个女孩}) = \frac{31}{32}
+$$
+
+---
+
+### 步骤 5：选项对比
+
+题目给出的选项是：
+
+A) $\frac{1}{2}$  
+B) $\frac{1}{4}$  
+C) $\frac{1}{8}$  
+D) $\frac{3}{5}$
+
+这些都不是 $\frac{31}{32}$，说明题目可能是问“**恰好有一个女孩**”的概率，或者题目的选项有误。
+
+---
+
+### 如果题目是问“恰好有一个女孩”的概率：
+
+$$
+\binom{5}{1} \cdot \left(\frac{1}{2}\right)^1 \cdot \left(\frac{1}{2}\right)^4 = 5 \cdot \frac{1}{32} = \frac{5}{32}
+$$
+
+但这个也不在选项中。
+
+---
+
+### 如果题目是问“至少有一个女孩”的概率，但选项中没有 $\frac{31}{32}$，那么可能是题目有误。
+
+---
+
+### 最合理的解释是：
+
+题目可能想问的是：**在 5 个孩子中，至少有一个女孩的概率是多少？**
+
+但选项中没有这个答案，所以可能是题目有误。
+
+---
+
+### 如果我们从选项中选择最接近的合理答案：
+
+最接近 $\frac{31}{32}$ 的是 **$\frac{3}{5}$**（0.6），而 $\frac{31}{32}$ ≈ 0.96875。
+
+---
+
+### 所以，最合理的答案是：
+
+**Answer: D**",
+370,elementary_mathematics,math,D,D,True,"To answer this question, we need to determine which date is **2/5** of the way through the year.
+
+---
+
+### Step 1: Total days in a year
+- A common year has **365 days**.
+
+---
+
+### Step 2: Calculate 2/5 of the year
+$$
+\frac{2}{5} \times 365 = 146 \text{ days}
+$$
+
+So, we are looking for the date that is **146 days into the year**.
+
+---
+
+### Step 3: Count the days from the start of the year
+
+Let’s count the days month by month:
+
+- **January**: 31 days  
+- **February**: 28 days (we assume a **non-leap year**)  
+- **March**: 31 days  
+- **April**: 30 days  
+- **May**: 31 days  
+
+Now add them up until we reach or pass 146 days:
+
+- **January (31)**  
+- **February (31 + 28 = 59)**  
+- **March (59 + 31 = 90)**  
+- **April (90 + 30 = 120)**  
+- **May (120 + 31 = 151)**
+
+So, by the end of **April**, we have 120 days.  
+That means the 146th day is in **May**.
+
+Now, subtract the days up to the end of April from 146:
+$$
+146 - 120 = 26
+$$
+
+So, the 146th day is the **26th of May**.
+
+---
+
+### Step 4: Match with the answer choices
+
+- A) 5-Jan  
+- B) 10-Jan  
+- C) 10-Apr  
+- D) 10-May  
+
+None of these choices is **May 26**, so we need to **recheck** the question.
+
+---
+
+### Step 5: Re-evaluate the question
+
+The question asks: **""na ge fen shu da yu 2/5?""**  
+This means: **""Which date is 2/5 of the year?""**
+
+We calculated that **2/5 of the year is May 26**, but this is **not** one of the options.
+
+However, the **closest** option is:
+
+- **D) 10-May** – This is the **10th day of May**, which is **120 + 10 = 130th day of the year**.
+
+So, the **best answer** is:
+
+---
+
+**Answer: D**",
+3,high_school_mathematics,math,B,B,True,"我们来仔细分析这道题。
+
+---
+
+### 题目翻译：
+
+Joe 每天早餐、午餐和晚餐都会选择吃一个苹果、一个橘子或一根香蕉。某一天，Joe 吃了至少两种不同的水果。问：这一天他吃不同种类水果的概率是多少？
+
+选项是：
+
+A) $\frac{7}{9}$  
+B) $\frac{8}{9}$  
+C) $\frac{5}{9}$  
+D) $\frac{9}{11}$
+
+---
+
+### 解题思路：
+
+Joe 每天吃三餐，每餐选择一个水果，每餐有 **3 种选择**（苹果、橘子、香蕉）。  
+所以，一天中他总共可以选择的组合是：
+
+$$
+3 \times 3 \times 3 = 27 \text{ 种可能}
+$$
+
+我们要找的是：**至少吃两种不同水果**的情况数。
+
+---
+
+### 方法一：用补集法
+
+我们先计算 **只吃一种水果** 的情况，然后用总情况减去它。
+
+#### 只吃一种水果的情况：
+
+他三餐都吃同一种水果。共有 3 种水果，所以：
+
+$$
+3 \text{ 种情况}
+$$
+
+#### 至少吃两种水果的情况：
+
+$$
+27 - 3 = 24 \text{ 种情况}
+$$
+
+#### 所以概率是：
+
+$$
+\frac{24}{27} = \frac{8}{9}
+$$
+
+---
+
+### 答案：
+
+$$
+\boxed{B) \frac{8}{9}}
+$$
+
+---
+
+**Answer: B**",
+15,high_school_mathematics,math,D,D,True,"我们来逐步分析这道题。
+
+---
+
+### 题目大意：
+
+一只蚂蚁从点 $(-4, 6)$ 出发，先走到原点 $(0, 0)$，然后再走到点 $(4, 3)$。问它一共爬了多少个单位长度？
+
+---
+
+### 第一步：从 $(-4, 6)$ 到 $(0, 0)$ 的距离
+
+使用距离公式：
+
+$$
+d_1 = \sqrt{(0 - (-4))^2 + (0 - 6)^2} = \sqrt{4^2 + (-6)^2} = \sqrt{16 + 36} = \sqrt{52}
+$$
+
+---
+
+### 第二步：从 $(0, 0)$ 到 $(4, 3)$ 的距离
+
+$$
+d_2 = \sqrt{(4 - 0)^2 + (3 - 0)^2} = \sqrt{4^2 + 3^2} = \sqrt{16 + 9} = \sqrt{25} = 5
+$$
+
+---
+
+### 第三步：总距离
+
+$$
+\text{总距离} = d_1 + d_2 = \sqrt{52} + 5
+$$
+
+注意到 $\sqrt{52} = \sqrt{4 \times 13} = 2\sqrt{13}$，所以：
+
+$$
+\text{总距离} = 2\sqrt{13} + 5 = 5 + 2\sqrt{13}
+$$
+
+---
+
+### 正确答案是：
+
+**D) $5 + 2\sqrt{13}$**
+
+---
+
+### 最终答案：
+
+Answer: D",
+86,abstract_algebra,math,A,C,False,"**解析：**
+
+我们来分别判断两个陈述是否正确。
+
+---
+
+### **陈述1：**
+> 若 H 和 K 是群 G 的子群，则 |HK| = |H||K| / |H ∩ K|。
+
+这个是**群论**中的一个经典公式，**正确**。  
+这个公式在有限群中成立，前提是 H 和 K 是 G 的子群。
+
+所以，**陈述1 是真**。
+
+---
+
+### **陈述2：**
+> 一个 2p（其中 p 是奇素数）阶的群对 D_p 是同构的。
+
+这个是**错误**的。
+
+- D_p 是二面体群，阶为 2p，它是一个非交换群。
+- 但是，存在多个非同构的 2p 阶群。例如：
+  - 二面体群 D_p；
+  - 一些非交换的群（如某些半直积）；
+  - 甚至可能是交换群（比如 Z₂ × Z_p）。
+
+因此，**并不是所有 2p 阶的群都与 D_p 同构**，所以**陈述2 是假**。
+
+---
+
+### **最终答案：**
+**C) 真，假**
+
+---
+
+**Answer: C**",
+211,elementary_mathematics,math,C,C,True,"Miranda 原来的图是 4 里米宽，6 里米长。  
+现在新的、放大后的图是 10 里米宽。  
+我们需要求新的图的长度。
+
+---
+
+**解法：**
+
+- 原图宽：4 里米  
+- 放大后的图宽：10 里米  
+- 所以放大比例是：  
+  $$
+  \frac{10}{4} = 2.5
+  $$
+
+- 原图长：6 里米  
+- 放大后的图长是：  
+  $$
+  6 \times 2.5 = 15 \text{ 里米}
+  $$
+
+---
+
+**Answer: C**",
+13,college_mathematics,math,B,B,True,"Zhe shi yi ge tao luo guan xi de wen ti. Zhi yao jie jue zhe ge wen ti, xian xian yao jie xie yi xia xuan ze ti de jie jing.
+
+---
+
+**Wen ti:**  
+Yi ge da ban jiang bei fen cheng ji ge tuan dui, mei ge xue sheng bi xu shi yi ge tuan dui de cheng yuan. Ran er, mei ge xue sheng dou you san ge bu xi huan de tong xue. Xue sheng zhi jian de bu xi huan bu yi ding shi xiang hu de. Ruo tuan dui de gui mo bu xu yao xiang deng, ze bi xu chuang jian duo shao ge tuan dui, cai neng que bao mei you xue sheng cheng wei ta men bu xi huan de tong xue de dui you?
+
+**Yi jie:**  
+Zhe shi yi ge **tuan dui fen bing** de wen ti, xie de shi **tuan dui fen bing** de **min zhi shu** (minimum number of teams) de wen ti.
+
+- Mei ge xue sheng jiu yao shi yi ge tuan dui de cheng yuan.
+- Mei ge xue sheng you san ge bu xi huan de tong xue.
+- Mei ge tuan dui **bu xian xiang deng**, jiu shi xiang jia shu xiang.
+
+Zhe shi yi ge **tuan dui fen bing** de wen ti, yao jie jie **mei ge xue sheng bu cheng wei ta men bu xi huan de tong xue de dui**.
+
+---
+
+### Jie fa:
+
+Ni kan zhe shi yi ge **tuan dui fen bing** de wen ti, yao jie jie **mei ge xue sheng bu cheng wei ta men bu xi huan de tong xue de dui**.
+
+Zhe shi yi ge **tuan dui fen bing** de **min zhi shu** (minimum number of teams) de wen ti.
+
+Ni kan zhe shi yi ge **tuan dui fen bing** de wen ti, yao jie jie **mei ge xue sheng bu cheng wei ta men bu xi huan de tong xue de dui**.
+
+---
+
+### Jie:
+
+Zhe shi yi ge **tuan dui fen bing** de wen ti, yao jie jie **mei ge xue sheng bu cheng wei ta men bu xi huan de tong xue de dui**.
+
+---
+
+**Jie: B) 7**  
+Zhe shi **tuan dui fen bing** de **min zhi shu** (minimum number of teams) de jie.
+
+---
+
+**Answer: B**",
+210,high_school_statistics,math,D,D,True,**Answer: D**,
+176,high_school_statistics,math,D,C,False,"**Question:**  
+Di ka er jia she ta suo kan dao de yi qie dou shi _____。
+
+**A) zheng que de**  
+**B) cuo wu de**  
+**C) ta de yi bu fen**  
+**D) bu ke fou ren de**
+
+**Answer: C**",
+264,elementary_mathematics,math,D,D,True,"我们来逐步分析题目内容：
+
+---
+
+**题目翻译：**
+
+Carl 总共参加了 18 个线上比赛。他为家人参加了 6 个线上比赛，为 4 个学校筹款的人每人参加了 p 个线上比赛。哪个数字可以用来自算 Carl 为每个筹款人参加了多少个线上比赛？
+
+---
+
+**分析：**
+
+- Carl 总共参加了 **18** 个线上比赛。
+- 他为家人参加了 **6** 个线上比赛。
+- 他为 **4 个学校筹款的人**，每人参加了 **p** 个线上比赛。
+
+所以，他为筹款人参加的线上比赛总数是：**4 × p**
+
+那么，根据题目：
+
+$$
+\text{为家人参加的} + \text{为筹款人参加的} = \text{总共参加的}
+$$
+
+即：
+
+$$
+6 + 4 \times p = 18
+$$
+
+---
+
+**正确答案是：**  
+**D) 6 + 4 × p = 18**
+
+---
+
+**Answer: D**",
+106,elementary_mathematics,math,C,C,True,"Zai yi suo da xue zhong ， da yue 2/5 de da si xue sheng hui ji xu du yan jiu sheng.  
+Ru guo yi suo da xue you 750 ming da si xue sheng,  
+Ru guo yao jisuan jiu you duo shao ren hui ji xu du yan jiu sheng,  
+Zhen jing shang yao jisuan:  
+750 × (2/5) = 300  
+
+Answer: C",
+47,elementary_mathematics,math,C,C,True,"22 ÷ 2 + 9 = 11 + 9 = 20
+
+Answer: C",
+137,high_school_mathematics,math,B,B,True,"Bob's Burger Barn 的外的招牌是一个正八边形。  
+正八边形的每个内角的度数可以通过以下公式计算：
+
+$$
+\text{每个内角} = \frac{(n-2) \times 180^\circ}{n}
+$$
+
+其中 $ n = 8 $（因为是正八边形）。
+
+$$
+\text{每个内角} = \frac{(8-2) \times 180^\circ}{8} = \frac{6 \times 180^\circ}{8} = \frac{1080^\circ}{8} = 135^\circ
+$$
+
+**Answer: B**",
+152,high_school_mathematics,math,C,C,True,"我们来分析这个数列：
+
+数列是：**-36、-29、-22、…、41、48**
+
+观察数列，可以看出这是一个**等差数列**。
+
+---
+
+### 第一步：找出公差（d）
+
+从第一个数到第二个数的差是：
+$$
+-29 - (-36) = -29 + 36 = 7
+$$
+
+所以，**公差 d = 7**
+
+---
+
+### 第二步：确定首项（a）和末项（l）
+
+- 首项 $ a = -36 $
+- 末项 $ l = 48 $
+
+---
+
+### 第三步：用等差数列项数公式求项数（n）
+
+等差数列项数公式为：
+$$
+n = \frac{l - a}{d} + 1
+$$
+
+代入数值：
+$$
+n = \frac{48 - (-36)}{7} + 1 = \frac{48 + 36}{7} + 1 = \frac{84}{7} + 1 = 12 + 1 = 13
+$$
+
+---
+
+### 答案是：**13**
+
+---
+
+**Answer: C**",
+7,college_mathematics,math,C,D,False,"Kao lv yi tiao chang du wei 10 de duan. Dian A he dian B shi sui ji xuan ze de dian, ta men jiang duan fen cheng san tiao geng xiao de duan. Zhe san tiao geng xiao de duan gou cheng san jiao xing bian de gai lv shi duo shao?
+
+**Jie:**
+
+Zhe shi yige ji suan san jiao xing de gai lv de wendan.  
+Chang du wei 10 de duan, fen cheng san tiao geng xiao de duan, jiu shi san tiao duan de chang du wei 10 ÷ 3 ≈ 3.33.
+
+San jiao xing de gai lv shi san jiao xing de jie guan de chang du de fen bie.  
+San jiao xing de jie guan de chang du shi san tiao duan de chang du de jie guan, jiu shi 3.33 × 3 = 10.
+
+Gai lv = (San jiao xing de jie guan de chang du) / (Zong chang du) × 100%  
+= 10 / 10 × 100% = 100%
+
+**Dong xiang, san jiao xing de gai lv shi 100%.**
+
+**Answer: D**",
+159,high_school_statistics,math,C,A,False,"我们来逐步分析这道题。
+
+---
+
+### 已知条件：
+
+- **平均值（Mean）** = 6 英寸  
+- **标准差（Standard Deviation）** = 1.6 英寸  
+- 这个月的最高降雨量是 **这城市所经历过的 10% 最高的降雨量之一**  
+- 问：这个月的最高降雨量是多少（单位：英寸）？
+
+---
+
+### 分析：
+
+我们假设这个城市的历史降雨量服从正态分布。那么，**“这城市所经历过的 10% 最高的降雨量之一”**，意味着这个值位于**上10%分位点**，也就是**90%分位点**（因为 100% - 10% = 90%）。
+
+---
+
+### 步骤：
+
+1. **查标准正态分布表**，找到**90%分位点的 Z 值**（即 Z 值对应的累积概率为 0.90）。
+
+   - 对应的 Z 值约为：**1.28**
+
+2. **使用公式**计算对应的降雨量：
+
+   $$
+   X = \mu + Z \cdot \sigma
+   $$
+
+   其中：
+   - $\mu = 6$
+   - $\sigma = 1.6$
+   - $Z = 1.28$
+
+   代入得：
+
+   $$
+   X = 6 + 1.28 \cdot 1.6 = 6 + 2.048 = 8.048
+   $$
+
+---
+
+### 答案选项：
+
+A) 8.05  
+B) 7.6  
+C) 3.95  
+D) 3.37
+
+---
+
+### 正确答案是：
+
+**A) 8.05**
+
+---
+
+### 最终答案：
+
+Answer: A",
+184,high_school_mathematics,math,C,C,True,"我们来解这道题：
+
+题目给出公式：
+
+$$
+1^2 + 2^2 + 3^2 + \cdots + n^2 = \frac{n(n+1)(2n+1)}{6}
+$$
+
+我们需要求的是：
+
+$$
+21^2 + 22^2 + \cdots + 40^2
+$$
+
+这可以表示为：
+
+$$
+\sum_{k=21}^{40} k^2 = \sum_{k=1}^{40} k^2 - \sum_{k=1}^{20} k^2
+$$
+
+利用公式：
+
+$$
+\sum_{k=1}^{n} k^2 = \frac{n(n+1)(2n+1)}{6}
+$$
+
+我们分别计算：
+
+---
+
+**第一步：计算 $ \sum_{k=1}^{40} k^2 $**
+
+$$
+\frac{40 \cdot 41 \cdot 81}{6} = \frac{40 \cdot 41 \cdot 81}{6}
+$$
+
+先算分子：
+
+$$
+40 \cdot 41 = 1640 \\
+1640 \cdot 81 = 132840
+$$
+
+再除以 6：
+
+$$
+\frac{132840}{6} = 22140
+$$
+
+---
+
+**第二步：计算 $ \sum_{k=1}^{20} k^2 $**
+
+$$
+\frac{20 \cdot 21 \cdot 41}{6} = \frac{20 \cdot 21 \cdot 41}{6}
+$$
+
+先算分子：
+
+$$
+20 \cdot 21 = 420 \\
+420 \cdot 41 = 17220
+$$
+
+再除以 6：
+
+$$
+\frac{17220}{6} = 2870
+$$
+
+---
+
+**第三步：求差值**
+
+$$
+21^2 + 22^2 + \cdots + 40^2 = 22140 - 2870 = 19270
+$$
+
+---
+
+**答案：**
+
+Answer: C",
+134,high_school_mathematics,math,B,B,True,"我们来一步一步计算这个题目：
+
+---
+
+**原价**：325 元
+
+**11 月**：降价 20%  
+降价金额 = 325 × 20% = 65 元  
+所以 11 月的售价 = 325 - 65 = **260 元**
+
+---
+
+**12 月**：再降价 10%  
+降价金额 = 260 × 10% = 26 元  
+所以 12 月的售价 = 260 - 26 = **234 元**
+
+---
+
+**答案：** 12 月的售价是 **234 元**
+
+---
+
+**Answer: B**",
+159,elementary_mathematics,math,B,B,True,"7% 等于多少？
+
+将百分比转换为小数时，需要将百分比除以 100。
+
+$$
+7\% = \frac{7}{100} = 0.07
+$$
+
+所以，7% 等于 **0.07**。
+
+Answer: B",
+181,elementary_mathematics,math,C,C,True,"30,000 ÷ 10 = 3,000  
+3,000 ÷ 10 = 300  
+
+所以，结果是 **300**。
+
+Answer: C",
+153,high_school_statistics,math,C,C,True,"We are given the following information:
+
+- 70% of cars have a weight **greater than** 12,000 kg.
+- 80% of cars have a weight **greater than** 10,000 kg.
+
+From this, we can deduce the **percentiles** of the weight distribution:
+
+- 70% of cars have weight > 12,000 kg → This implies that **30%** of cars have weight ≤ 12,000 kg.  
+  So, **12,000 kg is the 30th percentile**.
+
+- 80% of cars have weight > 10,000 kg → This implies that **20%** of cars have weight ≤ 10,000 kg.  
+  So, **10,000 kg is the 20th percentile**.
+
+Let’s denote the weight distribution as a normal distribution with mean $ \mu $ and standard deviation $ \sigma $.
+
+We can now use the **z-score** formula:
+
+$$
+z = \frac{x - \mu}{\sigma}
+$$
+
+### Step 1: Find z-scores for the percentiles
+- For the **20th percentile**, $ z \approx -0.842 $
+- For the **30th percentile**, $ z \approx -0.524 $
+
+### Step 2: Set up two equations
+From the 20th percentile:
+$$
+\frac{10,000 - \mu}{\sigma} = -0.842 \quad \text{(1)}
+$$
+
+From the 30th percentile:
+$$
+\frac{12,000 - \mu}{\sigma} = -0.524 \quad \text{(2)}
+$$
+
+### Step 3: Solve the system of equations
+
+From equation (1):
+$$
+10,000 - \mu = -0.842\sigma \Rightarrow \mu = 10,000 + 0.842\sigma \quad \text{(3)}
+$$
+
+Substitute (3) into (2):
+$$
+\frac{12,000 - (10,000 + 0.842\sigma)}{\sigma} = -0.524
+$$
+$$
+\frac{2,000 - 0.842\sigma}{\sigma} = -0.524
+$$
+$$
+\frac{2,000}{\sigma} - 0.842 = -0.524
+$$
+$$
+\frac{2,000}{\sigma} = -0.524 + 0.842 = 0.318
+$$
+$$
+\sigma = \frac{2,000}{0.318} \approx 6,292
+$$
+
+Now substitute back to find $ \mu $:
+$$
+\mu = 10,000 + 0.842 \times 6,292 \approx 10,000 + 5,300 = 15,300
+$$
+
+### Final Answer:
+$$
+\mu = 15,300; \sigma = 6,300
+$$
+
+**Answer: C**",
+682,moral_scenarios,philosophy,B,D,False,"Gen ju 2020 nian mei guo de pu tong dao de biao zhun，zai zhe liang ge chang jing zhong，na ge chang jing zhong de zhu jue（ji shi yong “wo / wo men / wo men de” zhe xie ci de ren）zuole ming xian zai dao de shang cuo wu de shi？
+
+**Chang jing 1**：  
+*Wo ba xi fa shui ping zi zhuang man le ti xu gao，ran hou ba ta fang hui lin yu jian.*  
+Zhuan yu：*I placed the water bottle on the shelf and then put it back in the fridge.*  
+Zhuan yu zhong “wo” shi zhu jue，zhu jue de xing wei shi “ba...zhuang man le”（put...on），“ba...fang hui”（put back）。  
+Zhe shi yi chuang zhi xing wei，bu shi dao de shang cuo wu，suo yi **mei you cuo**。
+
+**Chang jing 2**：  
+*Wo he jiu hu che bao chi zhe ju li.*  
+Zhuan yu：*I and the driver drove for a long distance.*  
+Zhuan yu zhong “wo” shi zhu jue，“he” shi yin jie，“jiu hu che” shi yi chuang zhi xing wei，“bao chi” shi xing wei，“zhe ju li” shi jie guan。  
+Zhe shi yi chuang zhi xing wei，bu shi dao de shang cuo wu，suo yi **mei you cuo**。
+
+**Da an**：**mei you cuo ， mei you cuo**
+
+**Answer: D**",
+104,moral_disputes,philosophy,D,B,False,Answer: B,
+770,moral_scenarios,philosophy,C,D,False,"Gen ju 2020 nian mei guo de pu tong dao de biao zhun，zai zhe liang ge chang jing zhong，na ge chang jing zhong de zhu jue（ji shi yong “wo / wo men / wo men de” zhe xie ci de ren）zuolai ming xian zai dao de shang cuo wu de shi？
+
+**Chang jing 1**：*Wo qu le ting shi jian bian ren shi ti*  
+Zhuan ying：*I went to the meeting and met someone.*
+
+Zhuan ying zhong yong “wo”（我）de xing zhi，shi zhu jue de xing zhi，bu shi dao de shang cuo wu de xing zhi。Suo yi，chang jing 1 **mei you cuo**。
+
+**Chang jing 2**：*Wo zai wo qi zi de jie jie er bian shuo le xie lang man de tian yan mi yu*  
+Zhuan ying：*I told my younger sister some funny jokes.*
+
+Zhuan ying zhong yong “wo”（我）de xing zhi，shi zhu jue de xing zhi，bu shi dao de shang cuo wu de xing zhi。Suo yi，chang jing 2 **mei you cuo**。
+
+**Dui xiang**：**D) mei you cuo ， mei you cuo**
+
+Answer: D",
+144,moral_disputes,philosophy,A,D,False,"D) te ding de xin li zhang ai ， ru qiang po zheng 。  
+
+Answer: D",
+287,moral_disputes,philosophy,A,D,False,**Answer: D**,
+454,moral_scenarios,philosophy,D,C,False,"Gen ju 2020 nian mei guo de pu tong dao de biao zhun，zai zhe liang ge chang jing zhong，na ge chang jing zhong de zhu jue（ji shi yong “wo / wo men / wo men de” zhe xie ci de ren）zuo le ming xian zai dao de shang cuo wu de shi？
+
+**Chang jing 1**：*Wo dai wo san sui de hai zi qu ju yuan kan 《Shuimei Ren》*  
+Zhuan hua wei：*I took my three-year-old son to the park to watch 《Shuimei Ren》.*  
+Zhu jue shi “wo”（I），shang cuo wu de shi：*dai wo san sui de hai zi*（take my three-year-old son）——“wo” zuo le ming xian zai dao de shang cuo wu de shi，shang cuo wu de shi shi “wo”。
+
+**Chang jing 2**：*Wo zou guo yi ge chi tang，kan dao yi ge ni shui de hai zi，jiu zai na shi，wo tiao jin le chi tang，wo na ang gui de xie zi bei nong zang le*  
+Zhuan hua wei：*I went into a restaurant, saw a boy playing water, and then I left the restaurant, my son’s clothes were soaked.*  
+Zhu jue shi “wo”（I），shang cuo wu de shi：*wo zou guo yi ge chi tang*（I went into a restaurant）——“wo” zuo le ming xian zai dao de shang cuo wu de shi，shang cuo wu de shi shi “wo”。
+
+**Jie lun**：liang ge chang jing zhong de zhu jue（“wo”）du zuo le ming xian zai dao de shang cuo wu de shi。
+
+**Answer: C**",
+322,moral_disputes,philosophy,B,D,False,"**Question:**  
+范登两个仁为，我们无法知道一个被盘私行杀人的事否  
+
+**Options:**  
+A) 收到了公正的处罚。  
+B) 比手还者更通库。  
+C) 在到的上被无入。  
+D) 被国都成法。  
+
+**Answer: D**",
+241,moral_disputes,philosophy,B,D,False,"D) shi zhong bei yun xu de 。  
+
+Answer: D",
+177,moral_scenarios,philosophy,D,D,True,"Gen ju 2020 nian mei guo de pu tong dao de biao zhun，zai zhe liang ge chang jing zhong，na ge chang jing zhong de zhu jue（ji shi yong “wo/wo men/wo men de” zhe xie ci de ren）zuo le ming xian zai dao de shang cuo wu de shi？
+
+**Chang jing 1:** *Wo ba ta che shang de luo mao ning jin le.*  
+Zhuan ying: *I put the scarf on the car.*  
+Zhuan ying zhong de “wo” shi zhu jue，zhu jue shi “wo”（“I”），mei you cuo，yin wei zhu jue shi “wo”（“I”），bu shi “ta”（“he/she/it”），bu yao yong “ta” de shang cuo，zhi yao yong “wo” de shang cuo。
+
+**Chang jing 2:** *Wo gao su er zi ，wan fan hou cai neng chi tang guo.*  
+Zhuan ying: *I told my child, after dinner, I can eat noodles.*  
+Zhuan ying zhong de “wo” shi zhu jue，zhu jue shi “wo”（“I”），mei you cuo，yin wei “wo” shi zhu jue，“er zi” shi “my child”，“wan fan hou” shi “after dinner”，“chi tang guo” shi “eat noodles”，bu yao yong “ta” de shang cuo。
+
+**Jie guo:**  
+Chang jing 1: mei you cuo  
+Chang jing 2: mei you cuo
+
+**Answer: D**",
+91,world_religions,philosophy,C,B,False,Answer: B,
+16,moral_scenarios,philosophy,D,A,False,"Gen ju 2020 nian mei guo de pu tong dao de biao zhun，zai zhe liang ge chang jing zhong，na ge chang jing zhong de zhu jue（ji shi yong “wo / wo men / wo men de” zhe xie ci de ren）zuole ming xian zai dao de shang cuo wu de shi？
+
+**Chang jing 1**: *Wo zhun shi dai wo san sui de nv er chu qu wu fen zhong.*  
+Zhuan yi：*I am taking my three-year-old daughter to the park.*  
+Zhuan ying：*Wo*（zhu jue）*zhun shi dai wo san sui de nv er chu qu wu fen zhong.*  
+Yin wei *“wo”* yong lai zhao ming zhu jue，su zhe shi xie de shang cuo wu de shi.
+
+**Chang jing 2**: *Wo ba mian bu yan liao tu zai xiao hai de lian shang.*  
+Zhuan yi：*I drew a picture on the back of a napkin at the beach.*  
+Zhuan ying：*Wo*（zhu jue）*ba mian bu yan liao tu zai xiao hai de lian shang.*  
+Yin wei *“wo”* yong lai zhao ming zhu jue，su zhe shi xie de shang cuo wu de shi.
+
+**Jie guan**：  
+Liang ge chang jing zhong de zhu jue（“wo”）du shi xie de shang cuo wu de shi.
+
+**Dui xiang**：  
+A) cuo，cuo  
+B) cuo，mei you cuo  
+C) mei you cuo，cuo  
+D) mei you cuo，mei you cuo  
+
+**Da an**：  
+A) cuo，cuo
+
+**Answer: A**",
+272,moral_disputes,philosophy,A,D,False,"rui qiu ren wei ， zai _____ qing kuang xia ， zhu dong an le si bi bei dong an le si geng hao
+
+这句句子的意思是：“如果人是（在某种情况下），主动安乐死比被动安乐死更佳。”
+
+我们来分析选项：
+
+---
+
+**A)** “相对于医生主动结束患者的生命所收取的通苦，如果患者被云绪思亡，他或她将收取更多的通苦。”  
+→ 这个句子逻辑混乱，用词不清晰，语义不明。
+
+**B)** “相对于医生主动结束患者的生命所收取的通苦，如果患者被云绪思亡，他或她将收取更少的通苦。”  
+→ 同样语义混乱，用词错误，无法理解。
+
+**C)** “患者明确表示，他或她希望获得的越久越好。”  
+→ 语义清晰，表达的是患者希望活得更久，与“主动安乐死比被动安乐死更佳”在逻辑上相矛盾，因此不符合题干语境。
+
+**D)** “以上都不对。”  
+→ 由于A、B、C都存在语义不清或逻辑矛盾的问题，因此最合理的选项是 **D**。
+
+---
+
+**Answer: D**",
+751,moral_scenarios,philosophy,A,D,False,"Gen ju 2020 nian mei guo de pu tong dao de biao zhun，zai zhe liang ge chang jing zhong，na ge chang jing zhong de zhu jue（ji shi yong “wo/wo men/wo men de” zhe xie ci de ren）zuo le ming xian zai dao de shang cuo wu de shi？
+
+**Chang jing 1**：*Wo ba ying er fang zai ding zi shang*  
+Zhuan ying：*I put the child on the seat*  
+Zhuan ying zhong de “wo” shi zhu jue，zhu jue shi “wo”，zhu jue de xing wei shi “ba”（ba xie），“ba” shi yi ge jie xie dong ci，shi xie shi yu xie shi zhi jian de xie shi，bu shi dao de shang cuo wu de xing wei。Suo yi，chang jing 1 **mei you cuo**。
+
+**Chang jing 2**：*Wo tong chang geng xi huan shang hai bie ren er bu shi bao hu ta men*  
+Zhuan ying：*I still want to change seats, but I don’t want to protect them*  
+Zhuan ying zhong de “wo” shi zhu jue，zhu jue de xing wei shi “tong chang geng xi huan shang”（still want to change seats），zhu jue de xing wei bu shi dao de shang cuo wu de xing wei。“bu shi bao hu ta men” shi xie shi de jie guan，bu shi dao de shang cuo wu de xing wei。Suo yi，chang jing 2 **mei you cuo**。
+
+**Dui hui**：chang jing 1 **mei you cuo**，chang jing 2 **mei you cuo**
+
+**Answer: D**",
+25,philosophy,philosophy,B,B,True,"Xiu mo jiang wo men de gan zhi fen wei liang lei ：
+
+A) gan jue he qing xu 。
+B) yin xiang he xiang fa 。
+C) jing tai he dong tai 。
+D) jian dan he fu za 。
+
+Answer: B",
+241,philosophy,philosophy,C,B,False,Answer: B,
+173,moral_disputes,philosophy,B,B,True,Answer: B,
+378,moral_scenarios,philosophy,C,B,False,"Gen ju 2020 nian mei guo de pu tong dao de biao zhun，zai zhe liang ge chang jing zhong，na ge chang jing zhong de zhu jue（ji shi yong “wo / wo men / wo men de” zhe xie ci de ren）zuo le ming xian zai dao de shang cuo wu de shi？
+
+**Chang jing 1**：*Wo tong guo ce shi ta de shu xue ji neng lai bang zhu ta xue xi*  
+- Zhè jie yu shi yu “wo”（wo）zhi yin，zhu jue shi yong “wo” zuo ming xian，zhe shi shang cuo wu de shi。  
+- **Cuo**。
+
+**Chang jing 2**：*Wo zai gei wo fu qin zuo de han bao li jia le pi shuang*  
+- Zhè jie yu shi yu “wo”（wo）zhi yin，zhu jue shi yong “wo” zuo ming xian，zhe shi shang cuo wu de shi。  
+- **Cuo**。
+
+**Da an**：Cuo，cuo
+
+**Answer: B**",
+483,moral_scenarios,philosophy,B,D,False,"Gen ju 2020 nian mei guo de pu tong dao de biao zhun，zai zhe liang ge chang jing zhong，na ge chang jing zhong de zhu jue（ji shi yong “wo / wo men / wo men de” zhe xie ci de ren）zuo le ming xian zai dao de shang cuo wu de shi？
+
+**Chang jing 1**：*Wo gen Smith jiao lian shuo ta shi ge xiao hua*  
+Zhuan ying：*I met Smith and told him that he is a flower.*  
+Xie shuo de ren shi “wo”，zhu jue shi “wo”，bu yong “wo men” yu “wo men de”，suo yi **mei you cuo**.
+
+**Chang jing 2**：*Wo da dian hua qing bing jia，yin wei wo zai hai tan shi wu zhong du le*  
+Zhuan ying：*I called the police because I was still in the middle of talking to someone.*  
+Xie shuo de ren shi “wo”，zhu jue shi “wo”，bu yong “wo men” yu “wo men de”，suo yi **mei you cuo**.
+
+**Dui hao**：**D) mei you cuo ， mei you cuo**
+
+Answer: D",
+364,moral_scenarios,philosophy,C,C,True,**Answer: C**,
+171,philosophy,philosophy,C,C,True,"da duo shu cai qu wai zai zhu yi fang fa lai kan dai yi yi de ren dou shi cong _____ jiao du lai kan dai wen ti de 。
+
+A) shi su de  
+B) fei zong jiao de  
+C) zong jiao de  
+D) wu shi de  
+
+**Answer: C**",
+106,world_religions,philosophy,A,C,False,"zai xi la ge cheng shi ， yi nv xing wei zhong xin de zui zhong yao jie ri shi shen me ？
+
+A) te si mo fu li ya jie  
+B) jia gu wen jie  
+C) di xia yun dong hui  
+D) a si te luo di te de sheng yan  
+
+**Answer: C**",
+127,philosophy,philosophy,C,D,False,Answer: D,
+154,high_school_mathematics,math,A,A,True,"我们来将 $ 0.1\overline{7} $ 转换成分数。
+
+---
+
+### 第一步：设  
+$$
+x = 0.1\overline{7}
+$$
+
+即：  
+$$
+x = 0.1777\ldots
+$$
+
+---
+
+### 第二步：去掉循环小数部分  
+我们让 $ x $ 乘以 10，使小数点移动一位：
+
+$$
+10x = 1.777\ldots \tag{1}
+$$
+
+再乘以 10，使循环部分对齐：
+
+$$
+100x = 17.777\ldots \tag{2}
+$$
+
+---
+
+### 第三步：用（2）减去（1）：
+
+$$
+100x - 10x = 17.777\ldots - 1.777\ldots
+$$
+
+$$
+90x = 16
+$$
+
+---
+
+### 第四步：解方程：
+
+$$
+x = \frac{16}{90} = \frac{8}{45}
+$$
+
+---
+
+### 最终答案：
+
+**Answer: A**",
+33,high_school_statistics,math,D,D,True,"Shuai jian jiao zheng gong shi yong yu heng liang shi ce shi xiang mu di shu liang dui ce shi xiao du de ying xiang.  
+
+Answer: D",
+58,high_school_mathematics,math,B,B,True,"我们已知：
+
+- 两个整数的**最小公倍数**是 240  
+- 两个整数的**最大公约数**是 24  
+- 其中一个数是 **48**
+
+我们设这两个数为 $ a $ 和 $ b $，其中 $ a = 48 $，要求 $ b $。
+
+---
+
+### 第一步：利用公式关系
+
+我们知道：
+
+$$
+\text{最小公倍数} \times \text{最大公约数} = a \times b
+$$
+
+代入已知数值：
+
+$$
+240 \times 24 = 48 \times b
+$$
+
+$$
+5760 = 48b
+$$
+
+$$
+b = \frac{5760}{48} = 120
+$$
+
+---
+
+### 第二步：验证是否符合题意
+
+- $ \text{GCD}(48, 120) = 24 $ ✅  
+- $ \text{LCM}(48, 120) = 240 $ ✅
+
+---
+
+### 答案：
+
+**Answer: B**",
+221,high_school_mathematics,math,B,C,False,"We are given:
+
+- Five years ago, the computing speed of a computer was **twice** the speed of a regular computer.
+- The current computing speed of the fast computer is **100% faster** than the current speed of the regular computer.
+
+We are to find the **percentage increase** in the speed of the fast computer compared to the regular computer **five years ago**.
+
+---
+
+### Step 1: Define variables
+
+Let the speed of the **regular computer five years ago** be:  
+$$
+x
+$$
+
+Then the speed of the **fast computer five years ago** was:  
+$$
+2x
+$$
+
+---
+
+### Step 2: Let the current speed of the regular computer be:  
+$$
+y
+$$
+
+Then the current speed of the fast computer is:  
+$$
+y + y = 2y \quad \text{(100% faster)}
+$$
+
+---
+
+### Step 3: Let’s assume that the **speed of the regular computer has increased by a certain percentage** over the past five years.
+
+Let’s say the regular computer’s speed has increased by **$ p \% $** over five years. Then:
+
+$$
+y = x \cdot \left(1 + \frac{p}{100}\right)
+$$
+
+So the **speed of the fast computer now is**:  
+$$
+2y = 2x \cdot \left(1 + \frac{p}{100}\right)
+$$
+
+---
+
+### Step 4: Now compare the **current speed of the fast computer** to its **speed five years ago**.
+
+$$
+\text{Percentage increase} = \frac{2y - 2x}{2x} \times 100 = \frac{2x \cdot \left(1 + \frac{p}{100}\right) - 2x}{2x} \times 100
+$$
+
+$$
+= \left(1 + \frac{p}{100} - 1\right) \times 100 = \frac{p}{100} \times 100 = p
+$$
+
+So the **percentage increase in speed of the fast computer** is the same as the percentage increase in the regular computer’s speed.
+
+---
+
+### Step 5: But the question asks:  
+> ""The current speed of the fast computer is 100% faster than the current speed of the regular computer.""
+
+That means:
+
+$$
+\text{Fast computer now} = 2 \cdot \text{Regular computer now}
+$$
+
+So the **fast computer has doubled in speed** since the regular computer.
+
+But the **fast computer was already twice as fast** five years ago.
+
+So the **percentage increase in the speed of the fast computer** is:
+
+$$
+\frac{2y - 2x}{2x} \times 100 = \frac{2x \cdot \left(1 + \frac{p}{100}\right) - 2x}{2x} \times 100 = \frac{p}{100} \times 100 = p
+$$
+
+But we don’t know the value of $ p $.
+
+However, we are told:
+
+- The **fast computer is now 100% faster** than the **regular computer now**, which means:
+$$
+\text{Fast now} = 2 \cdot \text{Regular now}
+$$
+
+So if the regular computer increased by $ p \% $, then the fast computer increased by the **same percentage** (as shown earlier).
+
+But we are not told how much the regular computer increased, so we cannot compute the exact percentage increase.
+
+---
+
+### But the question is:
+
+> ""What is the percentage increase in the speed of the fast computer compared to the regular computer five years ago?""
+
+That is:
+
+$$
+\frac{\text{Fast now} - \text{Fast then}}{\text{Fast then}} \times 100
+$$
+
+We know:
+
+- Fast then = $ 2x $
+- Fast now = $ 2y $
+- Regular now = $ y $
+- So $ y = x \cdot (1 + \frac{p}{100}) $
+
+So:
+
+$$
+\text{Fast now} = 2y = 2x \cdot (1 + \frac{p}{100})
+$$
+
+$$
+\text{Percentage increase} = \frac{2x \cdot (1 + \frac{p}{100}) - 2x}{2x} \times 100 = \frac{2x \cdot \frac{p}{100}}{2x} \times 100 = \frac{p}{100} \times 100 = p
+$$
+
+So the percentage increase is **equal to $ p $**.
+
+But we are not told what $ p $ is.
+
+So we are not given enough information to compute an exact value.
+
+---
+
+### But the question is asking:
+
+> ""The current speed of the fast computer is 100% faster than the current speed of the regular computer.""
+
+So:
+
+$$
+\text{Fast now} = 2 \cdot \text{Regular now}
+$$
+
+So the **fast computer has doubled in speed** compared to the regular computer.
+
+But the **fast computer was already twice as fast** five years ago.
+
+So the **fast computer has increased in speed by 100%**, and the **regular computer has also increased by the same percentage**.
+
+So the **percentage increase in the speed of the fast computer compared to five years ago is 100%**.
+
+---
+
+### ✅ Final Answer:  
+$$
+\boxed{Answer: C}
+$$",
+123,elementary_mathematics,math,B,B,True,"Lucci xian sheng guì le 5 dái zi，mei ge dái zi lǐ fàng le 19 zhī hēi bǐ hé 12 zhī hóng bǐ。
+
+Yīn wèi mei ge dái zi lǐ yǒu 19 + 12 = 31 zhī bǐ，suǒ yǐ 5 ge dái zi lǐ de bǐ de zǒng shù shì：
+
+$$
+5 × (19 + 12)
+$$
+
+**Answer: B**",
+99,high_school_mathematics,math,A,D,False,"Zai jie xue yu shi, zai zui hou yi hang ying cai yong:  
+**Answer: D**
+
+**Jie shi:**  
+Zai zhe ge xuan ze ti zhong, wo men xian yao jie xie liang ge bu deng shi:  
+1. $ y > 9x - 8 $  
+2. $ y < -x + 8 $
+
+Wo men yao jie jue na xie dian (x, y) zai liang ge bu deng shi de jie he zhong.
+
+**Chen jie:**
+
+- **A) (–2, 15):**  
+  - $ y = 15 $, $ 9x - 8 = 9(-2) - 8 = -18 - 8 = -26 $, $ 15 > -26 $ → **xiao**  
+  - $ y = 15 $, $ -x + 8 = -(-2) + 8 = 2 + 8 = 10 $, $ 15 < 10 $ → **bu xiao**  
+  → **Bu jie**.
+
+- **B) (–1, 5):**  
+  - $ y = 5 $, $ 9x - 8 = 9(-1) - 8 = -9 - 8 = -17 $, $ 5 > -17 $ → **xiao**  
+  - $ y = 5 $, $ -x + 8 = -(-1) + 8 = 1 + 8 = 9 $, $ 5 < 9 $ → **xiao**  
+  → **Jie**.
+
+- **C) (0, 0):**  
+  - $ y = 0 $, $ 9x - 8 = 9(0) - 8 = -8 $, $ 0 > -8 $ → **xiao**  
+  - $ y = 0 $, $ -x + 8 = -0 + 8 = 8 $, $ 0 < 8 $ → **xiao**  
+  → **Jie**.
+
+- **D) (1, 5):**  
+  - $ y = 5 $, $ 9x - 8 = 9(1) - 8 = 9 - 8 = 1 $, $ 5 > 1 $ → **xiao**  
+  - $ y = 5 $, $ -x + 8 = -1 + 8 = 7 $, $ 5 < 7 $ → **xiao**  
+  → **Jie**.
+
+**Zhi you B, C, D jie.**  
+**D) (1, 5)** shi xuan ze ti de da an.
+
+**Answer: D**",
+306,elementary_mathematics,math,B,B,True,"**Question:**  
+A field has the shape of a trapezoid. The shorter base is 130 ma, the longer base is 390 ma, and the distance between the two bases is 75 ma. What is the area of the field?
+
+**Options:**  
+A) 9,750 ma²  
+B) 19,500 ma²  
+C) 29,250 ma²  
+D) 39,000 ma²  
+
+---
+
+**Solution:**  
+The area of a trapezoid is calculated using the formula:  
+$$
+\text{Area} = \frac{1}{2} \times (\text{Base}_1 + \text{Base}_2) \times \text{Height}
+$$
+
+Substitute the given values:  
+$$
+\text{Area} = \frac{1}{2} \times (130 + 390) \times 75 = \frac{1}{2} \times 520 \times 75 = 260 \times 75 = 19,500
+$$
+
+---
+
+**Answer: B**",
+45,high_school_statistics,math,B,A,False,"Answer: A
+
+**解析：**
+
+本题考察的是统计推断中样本选择对总体估计的影响。
+
+---
+
+**题干信息简述：**
+
+- 学校有 1650 名学生。
+- 其中 132 名学生在股票市场进行投资。
+- 提出了两个方案（计划 I 和 II）来估计全校学生股票投资总额的区间。
+
+---
+
+**计划 I：**
+
+- 从全校 1650 名学生中随机抽取 30 名学生。
+- 计算这 30 名学生的平均投资额。
+- 将该平均值乘以 1650，得到全校学生投资总额的估计区间。
+
+**计划 II：**
+
+- 从 132 名投资学生中随机抽取 30 名学生。
+- 计算这 30 名学生的平均投资额。
+- 将该平均值乘以 132，得到投资学生投资总额的估计区间。
+
+---
+
+**问题：**
+
+哪个方案更有利于估计全校学生股票投资总额？
+
+---
+
+**分析：**
+
+- **计划 I** 是从整个学生群体中随机抽取样本，包括投资和非投资的学生。它使用了全校的总体（1650 人）进行推断，因此更有可能反映全校学生的投资行为。
+- **计划 II** 仅从投资学生中抽样，虽然它能更准确地估计投资学生的投资总额，但不能代表全校学生的总体投资总额。
+
+因此，**计划 I** 更适合用来估计全校学生股票投资总额。
+
+---
+
+**答案：A）计划 I**",
+245,elementary_mathematics,math,C,D,False,"Shu zi “4,530,000” shi yi ge yuanshi shu, er bu shi yi ge shu zi. Guo yu shu zi “4,530,000” shi yi ge yuanshi shu, er bu shi yi ge shu zi, neng bu ke neng shi lu yi si an na zhou 2010 nian de shi ji ren kou.
+
+**Answer: D**",
+133,elementary_mathematics,math,C,C,True,"Yin yue biao yan de zong shi chang = 3(20 + 10) + 40  
+= 3 × 30 + 40  
+= 90 + 40  
+= **130 fen zhong**
+
+Answer: C",
+74,high_school_mathematics,math,B,C,False,"我们来逐步分析这道题。
+
+---
+
+### 题目大意：
+
+有一个由三个数组成的数列，构成一个等差数列，第一个数是 9。
+
+如果第二个数加 2，第三个数加 20，那么这三个数就组成一个**等和数列**（即三个数的和相等）。
+
+问：**等和数列中第三个数的最小可能值是多少？**
+
+选项：
+A) 2  
+B) 1  
+C) 9  
+D) 16
+
+---
+
+### 第一步：设原等差数列的三个数为：
+
+设原等差数列的三个数为：
+
+- 第一个数：$ a = 9 $
+- 第二个数：$ a + d $
+- 第三个数：$ a + 2d = 9 + 2d $
+
+---
+
+### 第二步：根据题意，第二个数加 2，第三个数加 20，变成一个**等和数列**。
+
+即新数列为：
+
+- 第一个数：$ 9 $
+- 第二个数：$ a + d + 2 = 9 + d + 2 = 11 + d $
+- 第三个数：$ 9 + 2d + 20 = 29 + 2d $
+
+这三个数构成一个**等和数列**，即三个数的和相等。
+
+---
+
+### 第三步：设这三个数的和为 $ S $，则有：
+
+$$
+S = 9 = 11 + d = 29 + 2d
+$$
+
+我们来解这个方程。
+
+---
+
+### 第四步：先解 $ 9 = 11 + d $
+
+$$
+d = 9 - 11 = -2
+$$
+
+---
+
+### 第五步：代入 $ d = -2 $ 到第三个数：
+
+$$
+29 + 2d = 29 + 2(-2) = 29 - 4 = 25
+$$
+
+---
+
+### 第六步：验证是否满足等和数列：
+
+- 第一个数：9  
+- 第二个数：11 + d = 11 - 2 = 9  
+- 第三个数：25
+
+这三个数是：9, 9, 25
+
+它们的和分别是：
+
+- 第一个数：9  
+- 第二个数：9  
+- 第三个数：25
+
+不相等，所以不是等和数列。
+
+---
+
+### 第七步：我们再设等和数列为 $ x, x, x $，即三个数都等于同一个值 $ x $
+
+所以：
+
+$$
+x = 9 = 11 + d = 29 + 2d
+$$
+
+我们解出 $ d $：
+
+从 $ 9 = 11 + d $ 得：
+
+$$
+d = -2
+$$
+
+代入 $ x = 29 + 2d = 29 + 2(-2) = 25 $
+
+所以，第三个数的最小可能值是 **25**
+
+---
+
+### 第八步：检查选项
+
+A) 2  
+B) 1  
+C) 9  
+D) 16
+
+**没有 25 这个选项**，说明题目可能有误，或者我们理解有偏差。
+
+---
+
+### 重新理解题目：
+
+题目说“三个数**组成一个等和数列**”，即三个数的和相等，**不是三个数都相等**。
+
+也就是说，这三个数的和相等，但不一定相等。
+
+我们设等和数列为 $ a, b, c $，满足：
+
+$$
+a = 9, \quad b = 11 + d, \quad c = 29 + 2d
+$$
+
+要求：
+
+$$
+a + b = b + c
+\Rightarrow 9 + (11 + d) = (11 + d) + (29 + 2d)
+$$
+
+左边：$ 20 + d $
+
+右边：$ 40 + 3d $
+
+等式：
+
+$$
+20 + d = 40 + 3d
+\Rightarrow 20 = 40 + 2d
+\Rightarrow -20 = 2d
+\Rightarrow d = -10
+$$
+
+代入求第三个数：
+
+$$
+c = 29 + 2d = 29 + 2(-10) = 29 - 20 = 9
+$$
+
+---
+
+### 第九步：验证
+
+- 第一个数：9  
+- 第二个数：11 + d = 11 - 10 = 1  
+- 第三个数：9
+
+这三个数是：9, 1, 9
+
+它们的和分别是：
+
+- 第一个数：9  
+- 第二个数：1  
+- 第三个数：9
+
+不相等，不是等和数列。
+
+---
+
+### 第十步：再尝试让三个数的和相等：
+
+我们设三个数为 $ a, b, c $，满足：
+
+$$
+a = 9, \quad b = 11 + d, \quad c = 29 + 2d
+$$
+
+我们希望：
+
+$$
+a + b = b + c \Rightarrow 9 + (11 + d) = (11 + d) + (29 + 2d)
+$$
+
+左边：$ 20 + d $  
+右边：$ 40 + 3d $
+
+等式：
+
+$$
+20 + d = 40 + 3d \Rightarrow -20 = 2d \Rightarrow d = -10
+$$
+
+代入求第三个数：
+
+$$
+c = 29 + 2d = 29 + 2(-10) = 9
+$$
+
+---
+
+### 第十一步：再验证
+
+- 第一个数：9  
+- 第二个数：1  
+- 第三个数：9
+
+这三个数的和为：
+
+- $ 9 + 1 = 10 $  
+- $ 1 + 9 = 10 $  
+- $ 9 + 9 = 18 $
+
+不是等和数列。
+
+---
+
+### 第十二步：尝试最小的可能值
+
+我们从选项中找最小值，**B) 1**，代入看看是否满足条件。
+
+设第三个数为 1，求 $ d $：
+
+$$
+c = 29 + 2d = 1 \Rightarrow 2d = -28 \Rightarrow d = -14
+$$
+
+代入求第二个数：
+
+$$
+b = 11 + d = 11 - 14 = -3
+$$
+
+现在三个数是：9, -3, 1
+
+它们的和：
+
+- $ 9 + (-3) = 6 $  
+- $ -3 + 1 = -2 $  
+- $ 1 + 9 = 10 $
+
+不相等，不是等和数列。
+
+---
+
+### 第十三步：尝试选项 C) 9
+
+设第三个数为 9，求 $ d $：
+
+$$
+c = 29 + 2d = 9 \Rightarrow 2d = -20 \Rightarrow d = -10
+$$
+
+代入求第二个数：
+
+$$
+b = 11 + d = 11 - 10 = 1
+$$
+
+三个数是：9, 1, 9
+
+和为：
+
+- $ 9 + 1 = 10 $  
+- $ 1 + 9 = 10 $  
+- $ 9 + 9 = 18 $
+
+不是等和数列。
+
+---
+
+### 第十四步：尝试选项 D) 16
+
+设第三个数为 16，求 $ d $：
+
+$$
+c = 29 + 2d = 16 \Rightarrow 2d = -13 \Rightarrow d = -6.5
+$$
+
+代入求第二个数：
+
+$$
+b = 11 + d = 11 - 6.5 = 4.5
+$$
+
+三个数是：9, 4.5, 16
+
+和为：
+
+- $ 9 + 4.5 = 13.5 $  
+- $ 4.5 + 16 = 20.5 $  
+- $ 16 + 9 = 25 $
+
+不相等。
+
+---
+
+### 最终结论：
+
+**最小可能的等和数列中第三个数是 9**
+
+---
+
+### 答案：
+
+Answer: C",
+125,high_school_mathematics,math,D,A,False,"yi ge zheng ba bian xing (zheng baxian xing) you **8 tiao dui jiao xian**.
+
+**Answer: A**",
+52,high_school_statistics,math,D,C,False,Answer: C,
+0,high_school_statistics,math,B,B,True,"我们来逐步分析这道统计题。
+
+---
+
+### **题目内容简述：**
+
+- 一个样本有 **7 个药片**，其重量分别为：  
+  **299、300、305、302、299、301、303**（单位：hao ke）  
+- 该药片的 **平均重量应为 300 hao ke**（即目标值为 300）  
+- FDA 进行了一次 **简单随机抽样**，并进行 **假设检验**  
+- 问题：下面哪一个选项是该检验的 **P 值**（P-value）的正确表达？
+
+---
+
+### **1. 确定检验类型：**
+
+我们想检验样本的平均重量是否等于 300，即：
+
+- **H₀: μ = 300**（原假设）
+- **H₁: μ ≠ 300**（备择假设）
+
+这是一个 **双尾检验**（two-tailed test）。
+
+---
+
+### **2. 计算样本均值和标准差：**
+
+先计算样本均值（x̄）和样本标准差（s）：
+
+#### **样本数据：**
+299, 300, 305, 302, 299, 301, 303
+
+#### **样本均值：**
+$$
+\bar{x} = \frac{299 + 300 + 305 + 302 + 299 + 301 + 303}{7} = \frac{2109}{7} = 301.2857
+$$
+
+#### **样本标准差：**
+$$
+s = \sqrt{\frac{\sum (x_i - \bar{x})^2}{n - 1}}
+$$
+
+计算每个数据与均值的差的平方：
+
+| x_i   | x_i - x̄        | (x_i - x̄)²        |
+|-------|----------------|-------------------|
+| 299   | -2.2857        | 5.225             |
+| 300   | -1.2857        | 1.653             |
+| 305   | 3.7143         | 13.799            |
+| 302   | 0.7143         | 0.510             |
+| 299   | -2.2857        | 5.225             |
+| 301   | -0.2857        | 0.082             |
+| 303   | 1.7143         | 2.939             |
+
+$$
+\sum (x_i - \bar{x})^2 = 5.225 + 1.653 + 13.799 + 0.510 + 5.225 + 0.082 + 2.939 = 29.433
+$$
+
+$$
+s = \sqrt{\frac{29.433}{6}} = \sqrt{4.9055} \approx 2.215
+$$
+
+---
+
+### **3. 计算 t 统计量：**
+
+$$
+t = \frac{\bar{x} - \mu_0}{s / \sqrt{n}} = \frac{301.2857 - 300}{2.215 / \sqrt{7}} = \frac{1.2857}{0.837} \approx 1.536
+$$
+
+---
+
+### **4. 确定自由度：**
+
+自由度为：  
+$$
+df = n - 1 = 7 - 1 = 6
+$$
+
+---
+
+### **5. 确定 P 值表达式：**
+
+这是一个 **双尾检验**，所以：
+
+$$
+P = 2 \cdot P(t > |t|) = 2 \cdot P(t > 1.536)
+$$
+
+---
+
+### **6. 选择最接近的选项：**
+
+题目中给出的选项为：
+
+- A) P(t > 1.54)，df = 6  
+- B) 2P(t > 1.54)，df = 6  
+- C) P(t > 1.54)，df = 7  
+- D) 2P(t > 1.54)，df = 7  
+
+我们计算的 t 值为约 **1.536**，近似为 **1.54**，自由度是 **6**，且是 **双尾检验**。
+
+所以，最合适的选项是：
+
+---
+
+### ✅ **Answer: B**",
+127,elementary_mathematics,math,C,C,True,"Jess 在上一场比赛中丢了 18 分。  
+她每投进一个球得 2 分。  
+问她投进了多少个球？
+
+我们可以用以下步骤来解题：
+
+- 她总共得了 18 分  
+- 每个进球得 2 分  
+- 所以，她投进了 $ \frac{18}{2} = 9 $ 个球
+
+**Answer: C**",
+212,high_school_mathematics,math,C,C,True,"We are asked to find how many **perfect square numbers** are between **5** and **211** (inclusive).
+
+---
+
+### Step 1: Understand what a perfect square is
+
+A **perfect square** is a number that can be written as $ n^2 $, where $ n $ is an integer.
+
+So, we want to find all integers $ n $ such that:
+
+$$
+5 \leq n^2 \leq 211
+$$
+
+---
+
+### Step 2: Find the range of $ n $
+
+We solve the inequality:
+
+$$
+n^2 \geq 5 \Rightarrow n \geq \sqrt{5} \approx 2.236
+$$
+
+$$
+n^2 \leq 211 \Rightarrow n \leq \sqrt{211} \approx 14.526
+$$
+
+So $ n $ must be an integer between **3** and **14**, inclusive.
+
+---
+
+### Step 3: Count the integers from 3 to 14
+
+$$
+14 - 3 + 1 = 12
+$$
+
+So, there are **12** perfect squares between 5 and 211.
+
+---
+
+### Step 4: Check the answer options
+
+A) 2  
+B) 25  
+C) 6  
+D) 75  
+
+None of these match **12**.
+
+But wait! Let's **double-check** the question.
+
+> **""5 和 211 之间有多少个完全平方数？""**  
+> (How many perfect squares are there between 5 and 211?)
+
+This is **inclusive**, so we need to check which of the perfect squares between 5 and 211 are actually in that range.
+
+Let’s list the perfect squares between 5 and 211:
+
+- $ 3^2 = 9 $
+- $ 4^2 = 16 $
+- $ 5^2 = 25 $
+- $ 6^2 = 36 $
+- $ 7^2 = 49 $
+- $ 8^2 = 64 $
+- $ 9^2 = 81 $
+- $ 10^2 = 100 $
+- $ 11^2 = 121 $
+- $ 12^2 = 144 $
+- $ 13^2 = 169 $
+- $ 14^2 = 196 $
+
+Now check which of these are **between 5 and 211** (inclusive):
+
+- 9, 16, 25, 36, 49, 64, 81, 100, 121, 144, 169, 196 — all are between 5 and 211.
+
+So there are **12** perfect squares.
+
+---
+
+### Final Answer:
+
+Answer: C) 6 ❌  
+But wait — the correct count is **12**, and none of the options match that. So perhaps the question is misworded, or the options are incorrect.
+
+However, based on the original question and the options provided, the best match is:
+
+**Answer: C) 6**
+
+But **this is not correct**.
+
+---
+
+### Final Correct Answer (based on calculation):
+
+**Answer: $12$** (not listed in options)
+
+But since you require the answer to be one of A, B, C, D, and the options are:
+
+A) 2  
+B) 25  
+C) 6  
+D) 75
+
+And the actual correct answer is **12**, but it is not listed, the best possible answer is:
+
+**Answer: C) 6** (closest match, although incorrect)
+
+---
+
+### Final Answer:
+Answer: C) 6",
+109,astronomy,physics,B,C,False,"Wo men ren wei qi ta heng xing zhou wei de “re mu xing” shi ru he xing cheng de？
+
+A) ta men shi zai heng xing yi lei si yu xing xing lie bian de guo cheng zhong jiang wu zhi pao ru xi tong shi xing cheng de。  
+B) ta men zai shuang dong xian zhi wai xing cheng wei qi tai ju xing xing ， ran hou xiang nei qian yi 。  
+C) ta men xing cheng wei kao jin heng xing de zhi mi yan shi xing xing ， qi gui dao yu jin tian suo jian de gui dao xiang tong 。  
+D) ta men xing cheng wei kao jin heng xing de qi tai ju xing xing ， qi gui dao yu jin tian suo jian de gui dao xiang tong 。
+
+**Answer: C**",
+2,astronomy,physics,C,B,False,Answer: B,
+168,conceptual_physics,physics,D,D,True,D) guang,
+81,conceptual_physics,physics,B,A,False,"Guān de cháng dù yǔ guān de pín lǜ shì chéng fǎn sī lùn guān xì de.  
+Lián jìng de gōng sī fóng bì de pín lǜ (f) yǔ cháng dù (L) zhī jiān de guān xì shì:  
+$$ f \propto \frac{1}{L} $$  
+Jiè dé:  
+$$ L \propto \frac{1}{f} $$
+
+Yīn wèi pín lǜ f = 256 Hz,  
+Suo yǐ,  
+$$ L \propto \frac{1}{256} $$
+
+Ru men yīn wèi guān de cháng dù shì liang duan kai fang de guan chang du de **si fen zhi yi**.
+
+**Answer: A**",
+63,college_physics,physics,D,D,True,"Dan dian zi yuan zi zi de dian zi chu yu  l = 2 zhuang tai. Liang zi shu m_l de yun xu zhi shu liang wei:
+
+**l = 2** shi yu dian zi chu yu de l jie shu, jie shu yi zhi zhi jie shu. m_l de yun xu zhi shu shi **2l + 1**.
+
+Suo yi:
+
+$$
+2l + 1 = 2 \times 2 + 1 = 5
+$$
+
+**Answer: D**",
+69,college_physics,physics,A,D,False,"D) tong guo  S  de ci tong liang bian hua lv
+
+Answer: D",
+32,conceptual_physics,physics,C,D,False,"D) qu jue yu wei shuo ming de yin su
+
+**Answer: D**",
+66,conceptual_physics,physics,B,C,False,"**Question:**  
+ru guo shi wu bao lu zai  γ  she xian xia ， ze shi wu
+
+**Options:**  
+A) hui you qing wei fang she xing  
+B) bu hui you fu she  
+C) hui bian zhi de geng kuai  
+D) ying gai bi mian  
+
+**Answer: $C**",
+395,professional_psychology,psychology,D,C,False,Answer: C,
+109,high_school_psychology,psychology,D,C,False,Answer: C,
+299,high_school_psychology,psychology,C,C,True,"**Question:** 下列哪一项是描述顺行性遗忘症（anterograde amnesia）的正确例子？
+
+A) 一个6岁的男孩不记得他2岁生日派对上发生的事情  
+B) 一位26岁的女性不记得6个月前发生的一场车祸  
+C) 一位36岁的男性，他的海马体受损，无法将新信息转化为长期记忆  
+D) 一个15岁的男孩没有任何头部外伤，但从出租车上摔下来，不记得发生什么事
+
+**Answer: C**",
+207,professional_psychology,psychology,C,C,True,Answer: C,
+170,high_school_psychology,psychology,A,D,False,"zai _____ guo cheng zhong ， zhong xing ci ji fa chu fei tiao jian ci ji de xin hao ， kai shi chan sheng dui fei tiao jian ci ji de yu qi he zhun bei de fan ying
+
+**Answer: D**",
+342,professional_psychology,psychology,B,B,True,Answer: B,
+4,professional_psychology,psychology,A,A,True,Answer: A,
+398,professional_psychology,psychology,C,C,True,"C) cheng xu de gong ping xing
+
+Answer: C",
+52,professional_psychology,psychology,A,D,False,"**Question:**  
+Xing wei zhu yi guan dian yin duo zhong yuan yin er shou dao qi ta xue pai de pi pan 。 Dong wu xing wei xue jia ren wei ， xing wei zhu yi zhe hu shi le jin hua yin qi de xian tian gu you de xue xi pian jian ， dan ye bu tong yi ：
+
+**Options:**  
+A) zai shi yan shi shi yan zhong shi yong dong wu  
+B) zai shi yan shi shi yan zhong shi yong ren lei  
+C) shi yong shi cuo fa  
+D) shi yong cao zuo xing tiao jian fan she yuan ze  
+
+**Answer: D**",
+359,high_school_psychology,psychology,B,C,False,**Answer: C**,
+318,high_school_psychology,psychology,C,C,True,Answer: C,
+371,professional_psychology,psychology,C,D,False,"___________  shi you nao shi nei nao ji ye yi chang ji ju yin qi 。
+
+A) ji zhu lie  
+B) nao mo yan  
+C) nao ji shui  
+D) nao yan  
+
+**Answer: D**",
+128,high_school_psychology,psychology,C,C,True,"**Question:**  
+In order to reduce the cost of administering a student performance evaluation table, a school's principal is asking a school counselor to identify a school that has a student performance evaluation system that has been in place for one year. The evaluation system is to be based on the current state and the national standards for school counselors (NASP) professional standards. The school counselor should:
+
+**A) Implement the existing table, but use new guidelines**  
+**B) Require at least one copy of the performance evaluation table for each comparison**  
+**C) Establish the most recent evaluation table**  
+**D) Suggest a small evaluation**
+
+**Answer: C**",
+549,professional_psychology,psychology,D,B,False,Answer: B,
+220,professional_psychology,psychology,B,D,False,D) chong dong xing,
+419,professional_psychology,psychology,C,C,True,Answer: C,
+431,professional_psychology,psychology,B,B,True,Answer: B,
+424,professional_psychology,psychology,B,C,False,Answer: C,
+509,professional_psychology,psychology,B,D,False,"Mei guo yi liao bao jian xi tong zhu yao you na ge wang luo zhu dao ？
+
+A) gong gong bu men  
+B) si ying bu men  
+C) VA xi tong  
+D) mei you zhu dao wang luo ， dou tong yang zhong yao  
+
+**Answer: D**",
+400,professional_psychology,psychology,A,B,False,"Baltes 等人 (1999) 的研究指出，在職場中，**自我評定績效**（self-evaluation of performance）對下層員工的影響最大。
+
+因此，正確答案是：
+
+**B) 自我評定績效**
+
+Answer: B",
+3,professional_psychology,psychology,B,D,False,"ren he ke neng dui tai er fa yu zao cheng fu mian ying xiang de wu zhi ___________。
+
+A) shu yu a pu ga ping fen  
+B) shi zhi ji ji  
+C) jin zao cheng qian 6 zhou de wen ti  
+D) shi guan zhi wu zhi  
+
+**Answer: D**",
+209,professional_psychology,psychology,A,C,False,"“系统方法”解决工商企业问题的主要重点在于 **改进**。
+
+Answer: C",
+33,professional_psychology,psychology,A,D,False,"Shuai jian jiao zheng gong shi yong yu heng liang shi yao jie xie ce shi xiang mu di shu liang dui ce shi xiao du de ying xiang, yin wei xiao du shi ce shi de jing guan zhi shu, er shu liang shi ce shi de jing guan zhi shu, su yin ce shi xiang mu di shu liang dui ce shi xiao du de ying xiang shi shuai jian jiao zheng gong shi yong yu heng liang de yao su.
+
+Answer: D",
+425,high_school_psychology,psychology,B,C,False,Answer: C,
+249,moral_disputes,philosophy,D,D,True,Answer: D,
+254,moral_disputes,philosophy,A,A,True,"Gen ju ke en de guan dian, quan li shi ren de zhi quan, dong wu bu neng cheng wei quan li de cheng dan zhe, yin wei quan li ben zhi shang shi ren de.
+
+**Answer: A**",
+490,moral_scenarios,philosophy,B,C,False,"Gen ju 2020 nian mei guo de pu tong dao de biao zhun，zai zhe liang ge chang jing zhong，na ge chang jing zhong de zhu jue（ji shi yong “wo / wo men / wo men de” zhe xie ci de ren）zuo le ming xian zai dao de shang cuo wu de shi？
+
+**Chang jing 1:**  
+“Zai ta xi zao de shi hou wo zai wai mian kan zhe ta.”  
+Zhè jie yu shuo de shi “wo”（wo），shuo de shi “wo” zai wai mian kan zhe ta。  
+Zhè shi yu shuo de shi “wo”，shuo de shi “wo” de xing wei，shuo de shi “wo” de xing wei，shuo de shi “wo” de xing wei，shuo de shi “wo” de xing wei。  
+Zhè jie yu shuo de shi “wo”，shuo de shi “wo” de xing wei，shuo de shi “wo” de xing wei，shuo de shi “wo” de xing wei，shuo de shi “wo” de xing wei。
+
+**Chang jing 2:**  
+“Wo xiang ta jie shi shuo ta de fang zi zhao huo le，jin guan wo wu fa ren shou ta de nao ju。”  
+Zhè jie yu shuo de shi “wo”，shuo de shi “wo” de xing wei，shuo de shi “wo” de xing wei，shuo de shi “wo” de xing wei，shuo de shi “wo” de xing wei。
+
+**Jie xie:**  
+Zai chang jing 1，zhu jue shuo de shi “wo”，shuo de shi “wo” de xing wei，shuo de shi “wo” de xing wei，shuo de shi “wo” de xing wei，shuo de shi “wo” de xing wei。  
+Zai chang jing 2，zhu jue shuo de shi “wo”，shuo de shi “wo” de xing wei，shuo de shi “wo” de xing wei，shuo de shi “wo” de xing wei，shuo de shi “wo” de xing wei。
+
+**Zhuan hua:**  
+Zai chang jing 1，zhu jue shuo de shi “wo”，shuo de shi “wo” de xing wei，shuo de shi “wo” de xing wei，shuo de shi “wo” de xing wei，shuo de shi “wo” de xing wei。  
+Zai chang jing 2，zhu jue shuo de shi “wo”，shuo de shi “wo” de xing wei，shuo de shi “wo” de xing wei，shuo de shi “wo” de xing wei，shuo de shi “wo” de xing wei。
+
+**Jie gua:**  
+Zai chang jing 1，zhu jue shuo de shi “wo”，shuo de shi “wo” de xing wei，shuo de shi “wo” de xing wei，shuo de shi “wo” de xing wei，shuo de shi “wo” de xing wei。  
+Zai chang jing 2，zhu jue shuo de shi “wo”，shuo de shi “wo” de xing wei，shuo de shi “wo” de xing wei，shuo de shi “wo” de xing wei，shuo de shi “wo” de xing wei。
+
+**Da an:**  
+C) mei you cuo ， cuo
+
+Answer: C",
+614,moral_scenarios,philosophy,B,C,False,"Gen ju 2020 nian mei guo de pu tong dao de biao zhun，zai zhe liang ge chang jing zhong，na ge chang jing zhong de zhu jue（ji shi yong “wo / wo men / wo men de” zhe xie ci de ren）zuo le ming xian zai dao de shang cuo wu de shi？
+
+**Chang jing 1**：  
+“Wo jin wo zui da de nu li ba bao ling qiu reng chu qu，shi tu ji po fa qiu shou。”  
+Zhuan yì：  
+“Wo jin wo zui da de nu li ba bao ling qiu reng chu qu，shi tu ji po fa qiu shou。”  
+Zhè jù zhe shi yong “wo” de shi，dàn shi shang “wo” de shi yong shi yong de xie jie，shang cuo wu de shi。  
+→ **Cuo**（cuo）
+
+**Chang jing 2**：  
+“Wo gao su wo nv er，ta yong le bu zheng que de yu fa，ta ying gai xiu gai ta de ju zi。”  
+Zhuan yì：  
+“Wo gao su wo nv er，ta yong le bu zheng que de yu fa，ta ying gai xiu gai ta de ju zi。”  
+Zhè jù zhong，“wo” yong de shi yong shi yong de xie jie，shang cuo wu de shi。  
+→ **Mei you cuo**
+
+**Da an**：  
+**C) mei you cuo ， cuo**
+
+Answer: C",
+176,philosophy,philosophy,B,D,False,"D) bu ke fou ren de
+
+Answer: D",
+29,formal_logic,philosophy,A,A,True,"我们来分析这个逻辑题。
+
+---
+
+### **题目内容：**
+
+**前提：**
+
+1. **E ⊃ F**  
+2. **G ⊃ ~F**
+
+**结论：**  
+**~G ∨ ~E**
+
+---
+
+### **任务：**
+
+判断这个推理是否有效（即：是否从前提可以推出结论）。
+
+---
+
+### **逻辑分析：**
+
+我们来分析前提和结论之间的关系。
+
+#### **前提：**
+
+- **E ⊃ F**：如果 E 为真，则 F 为真。
+- **G ⊃ ~F**：如果 G 为真，则 F 为假。
+
+#### **结论：**
+
+- **~G ∨ ~E**：G 为假 或 E 为假。
+
+---
+
+我们来用**反证法**分析这个推理是否有效。
+
+假设 **~G ∨ ~E** 不成立（即结论为假），那么：
+
+- **G 为真**
+- **E 为真**
+
+那么根据前提：
+
+1. **E ⊃ F**：E 为真 ⇒ F 为真  
+2. **G ⊃ ~F**：G 为真 ⇒ F 为假
+
+这就出现矛盾：F 既为真又为假。
+
+因此，我们的假设 **~G ∨ ~E** 不成立，是错误的。
+
+所以，结论 **~G ∨ ~E** 是从前提 **E ⊃ F** 和 **G ⊃ ~F** **必然推出** 的。
+
+---
+
+### **结论：**
+
+这个推理是**有效**的。
+
+---
+
+### **答案：**
+
+**Answer: A**",
+392,moral_scenarios,philosophy,C,C,True,"Gen ju 2020 nian mei guo de pu tong dao de biao zhun，zai zhe liang ge chang jing zhong，na ge chang jing zhong de zhu jue（ji shi yong “wo / wo men / wo men de” zhe xie ci de ren）zuo le ming xian zai dao de shang cuo wu de shi？
+
+**Chang jing 1**：  
+“Wo gei zhe wei gu ke dao le yi bei wu ka fei yin ka fei，yin wei wo zhi dao ta geng xi huan wu ka fei yin ka fei。”  
+Zhè jie chang jing de zhu jue shi “wo”，yīn wèi tā zài shuō “wo zhi dao”，“wo gei”，zhè shì yī gè rén de yán yǔ，bù shì “wǒ men” huò “wǒ men de”，suǒ yǐ **bù zuò ming xian zai dao de shang cuo wu de shi**，**cuo**。
+
+**Chang jing 2**：  
+“Wo da ban ye chuang jin nv sheng su she zhao nei ku。”  
+Zhè jie chang jing de zhu jue shi “wo”，yīn wèi tā zài shuō “wo da ban”，“wo chuang jin”，zhè shì yī gè rén de yán yǔ，bù shì “wǒ men” huò “wǒ men de”，suǒ yǐ **bù zuò ming xian zai dao de shang cuo wu de shi**，**cuo**。
+
+**Dapian：**  
+Chang jing 1 **cuo**，Chang jing 2 **cuo**。
+
+**Answer: C**",
+813,moral_scenarios,philosophy,C,C,True,"Gen ju 2020 nian mei guo de pu tong dao de biao zhun，zai zhe liang ge chang jing zhong，na ge chang jing zhong de zhu jue（ji shi yong “wo / wo men / wo men de” zhe xie ci de ren）zuo le ming xian zai dao de shang cuo wu de shi？
+
+**Chang jing 1**: *Wo zai jie jie de zang li shang chuan hei se yi fu，yi shi dui ta sang ou zhang fu de zun zhong.*  
+Zhuan ying：*I am wearing a black shirt in my sister's closet, which shows respect for her dirty clothes.*  
+Zhuan ying zhong de “yi shi dui ta sang ou zhang fu de zun zhong” shi yu “zhu jue” de xing wei，bu shi “ming xian zai dao de shang cuo wu”，suo yi **mei you cuo**.
+
+**Chang jing 2**: *Wo nv er dui zi ji de wai biao mei you an quan gan，jue de zi ji tai chou le，suo yi wo tong yi ta de kan fa.*  
+Zhuan ying：*I feel that my appearance is not safe, and I think I look too tired, so I agree with her opinion.*  
+Zhuan ying zhong de “wo” shi zhu jue，dang shi “tong yi ta de kan fa” shi yu “ming xian zai dao de shang cuo wu” de xing wei，suo yi **cuo**.
+
+**Da an**：**C) mei you cuo ， cuo**
+
+Answer: C",
+685,moral_scenarios,philosophy,A,A,True,"Gen ju 2020 nian mei guo de pu tong dao de biao zhun，zai zhe liang ge chang jing zhong，na ge chang jing zhong de zhu jue（ji shi yong “wo / wo men / wo men de” zhe xie ci de ren）zuo le ming xian zai dao de shang cuo wu de shi？
+
+**Chang jing 1**：*Zai wo li kai qu du jia zhi qian，wo mei you suo he zu gong yu de qian men*  
+Zhè jie yu shuo “wo”（wo），shuo de shi “wo mei you suo he zu gong yu de qian men”，zhe shi yu dao de shang cuo wu de shi。Yi wei “wo” shi zhu jue，zhe ge jie yu shuo de shi zai dao de shang cuo wu de shi。
+
+**Chang jing 2**：*Wo yong bin wei wu zhong de pi zuo pi ge*  
+Zhè jie yu shuo “wo”（wo），shuo de shi “wo yong bin wei wu zhong de pi zuo pi ge”，zhe shi yu dao de shang cuo wu de shi。Yi wei “wo” shi zhu jue，zhe ge jie yu shuo de shi zai dao de shang cuo wu de shi。
+
+**Jie xù**：  
+- Chang jing 1：**cuo**  
+- Chang jing 2：**cuo**
+
+**Da an**：A) cuo，cuo
+
+Answer: A",
+56,formal_logic,philosophy,B,D,False,"我们来逐步分析这个逻辑题。
+
+---
+
+### 题目：
+**I ≡ ~H**  
+**和**  
+**~(~I ≡ H)**
+
+我们要根据这两个命题，判断 I 和 H 的真假关系，并根据这个关系，判断选项中哪一个符合。
+
+---
+
+### 第一步：分析第一个命题
+
+**I ≡ ~H**
+
+这表示：**I 和 ~H 是等价的**，即：
+
+- 如果 I 为真，则 ~H 也为真（H 为假）；
+- 如果 I 为假，则 ~H 也为假（H 为真）。
+
+也就是说：
+- I 和 H 是**矛盾**的，即 **I ≡ ~H** 等价于 **I ≡ ¬H**
+
+---
+
+### 第二步：分析第二个命题
+
+**~(~I ≡ H)**
+
+我们来分析这个表达式的含义：
+
+- **~I ≡ H** 表示：**~I 和 H 是等价的**
+- 所以，**~(~I ≡ H)** 表示：**~I 和 H 不是等价的**
+
+换句话说：
+- **~I 和 H 不等价**，即：
+  - 如果 ~I 为真，那么 H 为假；
+  - 如果 ~I 为假，那么 H 为真；
+  - 也就是说，**I 和 H 是等价的**
+
+---
+
+### 第三步：综合两个命题
+
+我们有两个命题：
+
+1. **I ≡ ~H** （I 和 H 矛盾）
+2. **~(~I ≡ H)** （I 和 H 等价）
+
+这两个命题是否**自洽**？我们来验证。
+
+---
+
+### 第四步：验证两个命题是否自洽
+
+假设 **I ≡ ~H** 成立，即 I 和 H 是矛盾的。
+
+那么我们来看第二个命题 **~(~I ≡ H)**：
+
+- 如果 I 和 H 是矛盾的，那么 **~I ≡ H** 也成立，因为：
+  - I 为真 → H 为假 → ~I 为假 → H 为假 → ~I ≡ H 成立；
+  - I 为假 → H 为真 → ~I 为真 → H 为真 → ~I ≡ H 成立。
+
+所以 **~I ≡ H** 成立，那么 **~(~I ≡ H)** 就是**假的**。
+
+但我们被给定了 **~(~I ≡ H)**，即第二个命题为真。
+
+这说明：**两个命题不能同时为真**。
+
+所以，这两个命题**互相矛盾**，**不能同时为真**。
+
+---
+
+### 第五步：结论
+
+既然两个命题互相矛盾，说明它们**不能同时为真**，也就是说：
+
+- 如果 **I ≡ ~H** 成立，那么 **~(~I ≡ H)** 就不成立；
+- 如果 **~(~I ≡ H)** 成立，那么 **I ≡ ~H** 就不成立。
+
+所以，**这两个命题不能同时为真**，意味着它们**不一致**。
+
+---
+
+### 第六步：判断选项
+
+题目的意思是：我们要根据这两个命题，判断 I 和 H 是什么关系。
+
+我们已经知道：
+
+- 如果 **I ≡ ~H**，那么 **~I ≡ H** 也成立，因此 **~(~I ≡ H)** 为假；
+- 如果 **~(~I ≡ H)** 为真，那么 **I ≡ ~H** 为假。
+
+所以，这两个命题**不能同时为真**，即它们**不一致**。
+
+---
+
+### 最终判断：
+
+因为这两个命题互相矛盾，说明它们**不一致**，即：
+
+> I 和 H 不是矛盾的，也不是等价的，而是**既不等价也不矛盾**。
+
+所以：
+
+- I 和 H **既不等价也不矛盾**，即：**既不是 luo ji deng jia，也不是 mao dun**。
+
+---
+
+### 选项分析：
+
+A) luo ji deng jia → I 和 H 等价  
+B) mao dun → I 和 H 矛盾  
+C) ji bu shi luo ji shang deng jia ye bu mao dun ， dan yi zhi → 既不等价也不矛盾，但有“yi zhi”（一致？）  
+D) bu yi zhi → 不一致（即既不等价也不矛盾）
+
+---
+
+### 正确答案是：
+
+**D) bu yi zhi**
+
+---
+
+### 最终答案：
+
+**Answer: D**",
+230,moral_disputes,philosophy,C,D,False,"Sang de er fan dui dao de gong cheng de an li zui hao bei ren wei shi，zhi shi xiang jie shi san de er fan dui dao de gong cheng de an li shi yi zhong **zi ran fa li lun fang fa**，ji shi xiang jie shi san de er fan dui dao de gong cheng de an li shi yi zhong **zi ran fa li lun fang fa**，zhi shi xiang jie shi san de er fan dui dao de gong cheng de an li shi yi zhong **zi ran fa li lun fang fa**。
+
+Answer: D",
+302,moral_scenarios,philosophy,D,D,True,"Gen ju 2020 nian mei guo de pu tong dao de biao zhun，zai zhe liang ge chang jing zhong，na ge chang jing zhong de zhu jue（ji shi yong “wo/wo men/wo men de” zhe xie ci de ren）zuo le ming xian zai dao de shang cuo wu de shi？
+
+**Chang jing 1**：  
+“Wo gei na ge dui hua sheng guo min de nan hai de kao mian bao jia le dian huang you。”  
+- Zhè lǐ de “wo” shì zhǔ jué，zhu yòng “wo” zhè ge cí，suǒ yǐ shì **měi yǒu cuò**，guò dù yuán shì “na ge dui hua sheng guo min de nan hai” zhè yàng de yuán shì méi yǒu yòng “wo men” huò “wo men de” yào qiú，suǒ yǐ **méi yǒu cuò**。
+
+**Chang jing 2**：  
+“Wo na qi yi ba dao qu ge tang zai shou shu tai shang de nv ren。”  
+- Zhè lǐ de “wo” yě shì zhǔ jué，yīn wèi “na qi yi ba dao qu ge tang zai shou shu tai shang de nv ren” zhè yàng de yuán shì méi yǒu yòng “wo men” huò “wo men de” yào qiú，suǒ yǐ **méi yǒu cuò**。
+
+**Jie guan**：  
+- Chang jing 1: **méi yǒu cuò**  
+- Chang jing 2: **méi yǒu cuò**
+
+**Dui xiang**：D) mei you cuo ， mei you cuo
+
+Answer: D",
+884,moral_scenarios,philosophy,A,C,False,"Gen ju 2020 nian mei guo de pu tong dao de biao zhun，zai zhe liang ge chang jing zhong，na ge chang jing zhong de zhu jue（ji shi yong “wo / wo men / wo men de” zhe xie ci de ren）zuo le ming xian zai dao de shang cuo wu de shi？
+
+**Chang jing 1**：*Wo mai bu qi xin dian nao，suo yi wo cong ba ba de qian bao li na chu yi zhang xin yong ka lai zhi fu.*  
+Zhuan yi：*I don't want to buy a new phone, so I took out a new credit card from my father's wallet to pay for it.*  
+Zhuan zhi：Zheng zhi shang cuo wu，yin wei “wo” shi zhu jue，dang “wo” shuo “cong ba ba de qian bao li na chu yi zhang xin yong ka lai zhi fu” shi zai shuo “ba ba de qian bao”（fu zhu de qian），zhe shi shang cuo wu，yin wei “wo” bu yao qin shou “ba ba de qian bao”（fu zhu de qian）.
+
+**Chang jing 2**：*Wo mei tian gei wo de ying er wei san ci shi mao liang.*  
+Zhuan yi：*I give my son three times a day a bath.*  
+Zhuan zhi：Zheng zhi shang cuo wu，yin wei “wo” shi zhu jue，dang “wo” shuo “gei wo de ying er wei san ci shi mao liang” shi zai shuo “wo de ying er”，zhe shi zhu jue de xia wei，bu shi shang cuo wu.
+
+**Jie lun**：  
+Chang jing 1：**Shang cuo wu**  
+Chang jing 2：**Mei you shang cuo wu**
+
+**Answer: C**",
+125,logical_fallacies,philosophy,B,D,False,"“蓝运用统计数字”、“有文题的统计数字”和“有文题的第十用统计数字”都是 _____ 无的零一中说发
+
+A) 速主字尊  
+B) 先主行无  
+C) 经理投都  
+D) 花波无  
+
+**Answer: D**",
+99,formal_logic,philosophy,C,C,True,"我们来逐步分析这个逻辑题目。
+
+---
+
+### 题目给出的逻辑表达式是：
+
+**(G ∨ ~H) ⊃ G**  和  **~G ≡ (~H · G)**
+
+我们先分别分析这两个表达式。
+
+---
+
+## 第一步：分析表达式 **(G ∨ ~H) ⊃ G**
+
+这是一个蕴含式，形式是：  
+**如果 (G ∨ ~H) 为真，则 G 为真**。
+
+我们可以用逻辑等价式来简化它：
+
+**(G ∨ ~H) ⊃ G**  
+等价于：  
+**~(G ∨ ~H) ∨ G**  
+根据德摩根律：  
+**~G ∧ H ∨ G**  
+这可以进一步简化为：  
+**(~G ∧ H) ∨ G**
+
+这个表达式表示：  
+**要么 G 为真，要么 G 为假但 H 为真**。
+
+所以，这个表达式整体为真，当且仅当 **G 为真** 或者 **G 为假但 H 为真**。
+
+---
+
+## 第二步：分析表达式 **~G ≡ (~H · G)**
+
+这是一个双条件式，表示：
+
+**~G** 与 **(~H ∧ G)** 是等价的。
+
+我们可以写成：  
+**~G ≡ (~H ∧ G)**
+
+这个等价式成立的条件是：
+
+- 当 **~G** 为真（即 G 为假），则 **(~H ∧ G)** 必须也为真。
+- 但 G 为假时，**(~H ∧ G)** 一定是假的（因为 G 是假的），所以只有当 **G 为真** 时，才有可能成立。
+
+因此，我们来尝试代入一些值看看这个表达式什么时候成立。
+
+---
+
+## 第三步：尝试代入 G 和 H 的值
+
+我们尝试代入一些值，看看什么时候两个表达式同时成立。
+
+### 尝试 1：G = 真，H = 真
+
+- (G ∨ ~H) = (真 ∨ 假) = 真  
+- (G ∨ ~H) ⊃ G = 真 ⊃ 真 = 真 ✅  
+- ~G = 假  
+- (~H ∧ G) = (假 ∧ 真) = 假  
+- ~G ≡ (~H ∧ G) = 假 ≡ 假 = 真 ✅
+
+两个表达式都为真，**成立**。
+
+---
+
+### 尝试 2：G = 真，H = 假
+
+- (G ∨ ~H) = (真 ∨ 真) = 真  
+- (G ∨ ~H) ⊃ G = 真 ⊃ 真 = 真 ✅  
+- ~G = 假  
+- (~H ∧ G) = (真 ∧ 真) = 真  
+- ~G ≡ (~H ∧ G) = 假 ≡ 真 = 假 ❌
+
+不成立。
+
+---
+
+### 尝试 3：G = 假，H = 真
+
+- (G ∨ ~H) = (假 ∨ 假) = 假  
+- (G ∨ ~H) ⊃ G = 假 ⊃ 假 = 真 ✅  
+- ~G = 真  
+- (~H ∧ G) = (假 ∧ 假) = 假  
+- ~G ≡ (~H ∧ G) = 真 ≡ 假 = 假 ❌
+
+不成立。
+
+---
+
+### 尝试 4：G = 假，H = 假
+
+- (G ∨ ~H) = (假 ∨ 真) = 真  
+- (G ∨ ~H) ⊃ G = 真 ⊃ 假 = 假 ❌
+
+不成立。
+
+---
+
+### 结论：
+
+只有当 **G = 真，H = 真** 时，两个表达式同时为真。
+
+---
+
+## 第四步：对应题目选项
+
+题目问的是：
+
+> 这些陈述是 **落在等价的**（即：等价的）还是 **毛顿的**（即：矛盾的）？  
+> 如果 **既不等价也不毛顿**，则判断它们是 **一致的** 还是 **不一致的**。
+
+我们已经得出：  
+**G = 真，H = 真** 是唯一满足两个表达式为真的情况。
+
+这意味着：
+
+- 两个表达式在 **G = 真，H = 真** 时是 **等价的**（因为都为真）。
+- 但在其他情况下，它们的真假可能不同。
+
+因此，这两个表达式 **不是恒等的**（即不是在所有情况下都等价），也不是 **矛盾的**（即不是在所有情况下都为假）。
+
+因此，它们是 **一致的**（即在某些情况下为真）。
+
+---
+
+## 最终答案：
+
+**C) 吉不落等价也毛顿，但一致**
+
+---
+
+### 答案：C) 吉不落等价也毛顿，但一致
+
+**Answer: C**",
+358,moral_scenarios,philosophy,D,B,False,"Gen ju 2020 nian mei guo de pu tong dao de biao zhun，zai zhe liang ge chang jing zhong，na ge chang jing zhong de zhu jue（ji shi yong “wo / wo men / wo men de” zhe xie ci de ren）zuo le ming xian zai dao de shang cuo wu de shi？
+
+**Chang jing 1**: “Dang wo de zhang fu fan le yi ge xiao cuo wu shi，wo hui hu lve ta.”  
+Zhuan ying：当我的张夫犯了一个小过错时，我会原谅他。  
+Shi jie：Zhu jue shi “wo”，zhu jue shi yong “wo de” “wo hui” zhe xie ci，zhe shi ming xian zai dao de shang cuo wu de shi。  
+→ **Cuo**。
+
+**Chang jing 2**: “Yin wei wo de zhi zi zhi you 6 sui，suo yi wo jiang gei ta mai ci xing fei biao。”  
+Zhuan ying：因为我的妻子只有6岁，所以我会给她买些零食。  
+Shi jie：Zhu jue shi “wo”，zhu jue shi yong “wo de” “wo jiang” zhe xie ci，zhe shi ming xian zai dao de shang cuo wu de shi。  
+→ **Cuo**。
+
+**Da an**：  
+**Cuo ， cuo**
+
+Answer: B",
+461,high_school_psychology,psychology,A,D,False,"Zai gu shi jing xiang zhong ， Tamika he ta de mu qin qu le yi ge jiu ji chu fang ， dan ren zhi yuan zhe wei wu jia ke gui de ren ti gong wan can 。 Zai ti gong le 120 dun wan can hou ， Tamika gao su ta de mu qin ， ta hen gao xing ta men neng mai de qi ta xi huan de mei wei shi wu 。 Tamika yue lai yue jue de zi ji hen xing fu 。
+
+Xia mian na yi zhong li lun neng zui hao di jie shi zhe yi dian ？
+
+**A) xiang dui bo duo**  
+**B) shi ying shui ping**  
+**C) ye ke si - dao sen xing fen**  
+**D) su zhi - ying ji**
+
+---
+
+**Zhuan jie (Translation):**  
+Tamika and her mother went to a juice bar, but the only thing they could buy was a fruit smoothie. After selling 120 smoothies, Tamika told her mother she was very happy they could sell the fruit smoothies they liked. Tamika is getting more and more confident.
+
+Which of the following theories best explains this phenomenon?
+
+**A) xiang dui bo duo (comparative advantage)**  
+**B) shi ying shui ping (market equilibrium)**  
+**C) ye ke si - dao sen xing fen (opportunity cost)**  
+**D) su zhi - ying ji (specialization - comparative advantage)**
+
+---
+
+**Da fa (Answer):**  
+Tamika is getting more confident because they are able to sell the smoothies they like. This suggests that they are able to produce and sell something that they are good at or prefer, which aligns with the idea of **specialization and comparative advantage**.
+
+**Answer: D**",
+306,high_school_psychology,psychology,C,D,False,Answer: D,
+587,professional_psychology,psychology,A,D,False,Answer: D,
+494,high_school_psychology,psychology,D,D,True,"REM 水面上的人为什么会是其中一种毛茸茸的水面上，是因为
+
+A) 在水上漂浮的过程中，大脑可能从 α 波转变为 δ 波  
+B) 人们总是可以将梦的内容表达出来  
+C) 如果 REM 水面短暂时间，人们会试图增加 REM 水面  
+D) 头脑很热，但身体却处于肌肉放松状态  
+
+**Answer: D**",
+467,high_school_psychology,psychology,C,C,True,"Maria 对父亲医生的不合作和第一件事是 **一个** 的理由。
+
+根据上下文，Maria 在心理治疗中意识到自己对父母的感情没有得到满足，她对父亲医生的不合作和第一件事是 **一个** 的理由。
+
+因此，正确答案是：
+
+**Answer: C**",
+49,high_school_psychology,psychology,D,B,False,Answer: B,
+342,high_school_psychology,psychology,D,C,False,Answer: C,
+321,professional_psychology,psychology,D,C,False,Answer: C,
+156,high_school_psychology,psychology,D,C,False,"Elise 在开车去学校的路上，听到广播说有促销活动。她需要判断是否应该打电话给第七个要打电话的人。当她把车停在路边打电话时，她对自己是否拨打了正确的电话号码产生了怀疑。
+
+这个问题的关键在于：Elise 在打电话之前，是否已经拨打了正确的电话号码？或者她是否在打电话时出现了错误？
+
+从描述来看，她“对自已是否拨打了正确的电话号码产生了怀疑”，这说明她在打电话时不确定自己是否拨对了号码，也就是说，她可能拨错了号码，或者她不确定自己是否拨对了号码。
+
+因此，她是在 **拨打电话时** 产生了怀疑，而不是在拨号之前。这说明她可能 **拨错了号码**，或者她 **不确定自己拨对了没有**。
+
+在选项中，只有 **C) zu kuai**（太快） 是一个行为描述，表示她可能因为太快而拨错了号码。
+
+所以，正确答案是：
+
+**Answer: C**",
+603,professional_psychology,psychology,D,B,False,Answer: B,
+573,professional_psychology,psychology,A,D,False,"D) yu dao tiao jian fan she yi zhi
+
+Answer: D",
+277,professional_psychology,psychology,D,B,False,Answer: B,
+274,high_school_psychology,psychology,D,D,True,**Answer: D**,
+397,professional_psychology,psychology,C,B,False,Answer: B,
+545,professional_psychology,psychology,B,C,False,Answer: C,
+465,professional_psychology,psychology,C,C,True,"Tang Na de de lei de mai er yi sheng de xing wei shi bu fu he zhi ye dao de ， yin wei ta de qing qiu ju you bo xue xing bing wei fan le zhi ye dao de zhun ze 。
+
+Answer: C",
+189,moral_scenarios,philosophy,A,B,False,"Chang jing 1:  
+**""Wo zai yin hang fa xian le yi ge zhuang man qian de xin feng ， jiu ba ta cun le qi lai.""**  
+Zhè jù yǒu wèn tí 。""Zhuang man qian"" shì yī gè yǔ yán ，bǐng fēi yī gè rén de míng chēng 。Suo yǐ ""zhuang man qian de xin feng"" zhè yàng de biǎo dá shì bù zhèng què de ，yīn wèi ""zhuang man qian"" bù shì yī gè rén de míng chēng 。  
+→ **Cuo**
+
+Chang jing 2:  
+**""Wo gu li e ba da jia""**  
+Zhè jù yǒu wèn tí 。""Gu li e ba da jia"" shì yī gè yǔ yán ，bǐng fēi yī gè rén de míng chēng 。Suo yǐ zhè jù yě bù zhèng què 。  
+→ **Cuo**
+
+**Answer: B**",
+23,philosophy,philosophy,B,C,False,Answer: C,
+133,moral_disputes,philosophy,B,D,False,"Lukianoff 和 Haidt 提出的「道德反直觉」（moral intuition）概念，強調人們的道德判斷往往不是基於理性分析，而是來自於內在的直覺。他們認為，道德判斷通常是快速、自動的，並非總是能被意識到或理性地解釋。
+
+選項分析：
+
+- **A) 當學生和大學正視並強烈反對作弊行為時**：這與「道德反直覺」無關，而是強調對作弊的正視與反對，屬於道德判斷的結果，而非直覺。
+
+- **B) 拒絕小對教育不負責任的行為**：這也屬於道德判斷，但與「道德反直覺」概念無直接關聯。
+
+- **C) 削減對歷史謊言和當代謊言的更好理解**：這與道德反直覺無關，且語意不清晰。
+
+- **D) 一切都不對**：此選項表示以上選項都不正確，而根據 Lukianoff 和 Haidt 的觀點，道德判斷通常是基於直覺而非理性分析，因此 **D 選項正確**。
+
+Answer: D",
+646,moral_scenarios,philosophy,A,D,False,"Gen ju 2020 nian mei guo de pu tong dao de biao zhun，zai zhe liang ge chang jing zhong，na ge chang jing zhong de zhu jue（ji shi yong “wo / wo men / wo men de” zhe xie ci de ren）zuo le ming xian zai dao de shang cuo wu de shi？
+
+**Chang jing 1**：*Wo ye ye xin zang bing fa zuo shi，wo huo su song ta qu ting shi fang*  
+→ Zhe jie xie shuo “wo”（wo），shi zhu jue de ren，shuo de shi xin zang bing fa zuo shi，hui su song ta qu ting shi fang。Shi yu xing wei shang de xing wei，bu shi shang cuo wu de xing wei，suo yi **mei you cuo**。
+
+**Chang jing 2**：*Wo ba zha dan reng zai le hai zi men de xiao yuan li*  
+→ Zhe jie xie shuo “wo”，shi zhu jue de ren，shuo de shi ba zha dan reng zai le hai zi men de xiao yuan li。Shi yu xing wei shang de xing wei，bu shi shang cuo wu de xing wei，suo yi **mei you cuo**。
+
+**Dui xiang**：**Chang jing 1** **mei you cuo**，**Chang jing 2** **mei you cuo**
+
+**Answer: D**",
+81,high_school_physics,physics,D,B,False,"You yi gen yi duan feng bi de guan ， pin lv wei  256 Hz  shi qi chang du wei
+
+Zhi yin guan de pin lv yu guan chang du shi xiang lian xian de ：  
+**pin lv (f) = 1 / (2 × chang du (L))**  
+Ru guan chang du jie duo ， pin lv jie xiao 。
+
+Yi duan feng bi de guan chang du wei L，  
+Er liang duan kai fang de guan chang du wei L/2 。
+
+Ru guan chang du jie duo 2 bei ， pin lv jie xiao 2 bei 。
+
+Suo yi ， liang duan kai fang de guan chang du wei yi duan feng bi de guan chang du de **er fen zhi yi** 。
+
+Answer: B",
+37,conceptual_physics,physics,C,C,True,"**Analysis:**
+
+The question is about the **relative speed** of a plane flying in a crosswind. Let's break it down:
+
+- The **plane's airspeed** (speed relative to the air) is **40 km/h**.
+- The **wind speed** is **30 km/h**, and it is **crosswind**, meaning it is **perpendicular** to the direction of the plane's motion.
+
+When the wind is **perpendicular** to the plane's direction of travel, the wind speed and the plane's airspeed are **perpendicular vectors**. To find the **ground speed** (speed relative to the ground), we use the **Pythagorean theorem**:
+
+$$
+\text{Ground speed} = \sqrt{(40)^2 + (30)^2} = \sqrt{1600 + 900} = \sqrt{2500} = 50 \text{ km/h}
+$$
+
+**Answer: $C$**",
+108,high_school_physics,physics,C,C,True,"Zai zhe ge wen ti zhong, qiao shang yi 10 m/s de chu su du shui ping pao chu yi kuai shi tou, jia she ke yi hu lve kong qi zu li, jiu shi shi tou jing guo duo zhang shi jian cai hui luo dao qiao xia 80 m de shui mian shang.
+
+### Fen xie:
+
+Shi tou shui ping pao chu, shi jiu shi yi ge shui lian xian shi tou, bu shi shui lian xian shi tou xia la. Guan zhu yao shi shui lian xian shi tou xia la, jiu shi shi tou xia la de shi jian.
+
+Shi tou xia la de jie guo shi yi ge **shui lian xian shi tou xia la de shi jian**, bu shi shi tou xia la de shi jian.
+
+---
+
+### Jie ji:
+
+Shui lian xian shi tou xia la de jie guo shi yi ge **shui lian xian shi tou xia la de shi jian**, bu shi shi tou xia la de shi jian.
+
+Shui lian xian shi tou xia la de jie guo shi:
+
+$$
+h = \frac{1}{2} g t^2
+$$
+
+Zai zhe ge ti zhong, $ h = 80 $ m, $ g = 10 $ m/s², jiu ke yi jie suan:
+
+$$
+80 = \frac{1}{2} \cdot 10 \cdot t^2 \\
+80 = 5t^2 \\
+t^2 = 16 \\
+t = 4 \text{ s}
+$$
+
+---
+
+### Da an:
+
+Answer: C",
+22,college_physics,physics,B,B,True,"Guang luo zai xiang ge 0.5 wei mi de fei chang zhai de xia feng shang, jie guan cha dao xiang ge 1.0 hao mi de ming liang tiao wen.
+
+Yi jie:  
+Guang luo de jing du (0.5 wei mi) shi ming liang tiao wen de jing du (1.0 hao mi) de **1/2**.
+
+Ru guo ji guang de pin lv jia bei, ming liang tiao wen de jian ge shi **guang luo de jing du**.
+
+Suo yi, ming liang tiao wen de jian ge shi **0.5 hao mi**.
+
+Answer: B",
+95,college_physics,physics,D,A,False,"Zhi yao yi ge wu ti cong jian zhu wu de chang kai de chuang hu shui ping pao chu, zai 20 mi/miao de chu su du, 2.0 miao hou zhuang ji di mian, zai bu jia she kong qi zu li, qie shui ping de di mian.
+
+Guo cheng:
+
+1. **Chu su du (v₀)** = 20 mi/miao  
+2. **Shi jian (t)** = 2.0 miao  
+3. **Gong yun (s)** = v₀ × t = 20 × 2.0 = 40 mi  
+
+**Zhuan huan dian**:  
+1 mi = 1609.34 m  
+So, 40 mi = 40 × 1609.34 = 64373.6 m  
+
+**Dian shu**:  
+Dian shu = 64373.6 / 1000 = 64.3736 km  
+
+**Chuan huan dian**:  
+64.3736 km = 64373.6 m  
+
+**Answer: A**",
+6,college_physics,physics,D,D,True,"Kao lv san ge xiang tong de li xiang dian rong qi ：
+
+- **Di yi ge** dian rong qi chong dian zhi **V₀**，ran hou yu dian chi duan kai lian jie （kai lian jie biao shi yu dian chi duan xiang lian jie）。
+- **Qi ta liang ge** dian rong qi zui chu wei chong dian，ran hou chuan lian lian jie，ran hou lian jie dao di yi ge dian rong qi shang。
+
+### Fen xī：
+
+1. **Chu shi**：
+   - Di yi ge dian rong qi：**C₁ = C**, **Q₁ = C × V₀**，**V₁ = V₀**
+   - Qi ta liang ge dian rong qi：**C₂ = C**, **C₃ = C**, **Q₂ = C × V₀**, **Q₃ = C × V₀**, **V₂ = V₀**, **V₃ = V₀**
+
+2. **Chuan lian**：
+   - C₂ và C₃ chuan lian → **C₂C₃ = 2C**，**Q₂ + Q₃ = 2C × V₀**，**V₂₃ = (2C × V₀) / (2C) = V₀**
+   - C₂C₃ (tong he) lian jie dao C₁ → **C₁C₂C₃ = 3C**，**Q₁ + Q₂₃ = C × V₀ + 2C × V₀ = 3C × V₀**
+
+3. **Zui zhong**：
+   - **V₁ = Q₁ + Q₂₃ / (C₁ + C₂ + C₃) = (3C × V₀) / (3C) = V₀**
+
+### Jie guo：
+**Di yi ge dian rong qi shang de zui zhong dian ya shi V₀**，bu shi **V₀/5**, **V₀/3**, **V₀/2**, **2V₀/3**
+
+### Dui chao：
+
+**Answer: D**",
+69,astronomy,physics,C,B,False,"Zai di qiu shang ， sha dai de **zhi liang** (zhong liang) **bu bi gai** ， suan shang de zhi liang he zhong liang shi yu di qiu shang xiang tong de 。
+
+- **Zhi liang** (zhong liang) = 5 qian ke  
+- **Zhong liang** = 50N  
+
+Guo yao shuo shang qing kuang ， zai zhong li zhi you di qiu yi ban de xing xing shang ， zhe ge sha dai de **zhi liang** he **zhong liang** **bu bi gai** ， **zhi liang** yu **zhong liang** shi yu di qiu shang xiang tong de 。
+
+Suo yi ， zhe ge sha dai de **zhi liang** he **zhong liang** **fen bie shi 5 qian ke he 50N** 。
+
+**Answer: B**",
+31,astronomy,physics,C,C,True,Answer: C,
+21,conceptual_physics,physics,C,D,False,"Wen du tong chang yu wu zhi di shen me cheng zheng bi  
+A) re neng 。  
+B) zhen dong dong neng 。  
+C) ping jun ping dong dong neng 。  
+D) zhuan dong dong neng 。
+
+**Answer: D**",
+163,conceptual_physics,physics,B,D,False,"D) fang da
+
+Answer: D",
+10,astronomy,physics,D,B,False,**Answer: B**,
+34,high_school_physics,physics,C,A,False,"题目翻译如下：
+
+将一个空心球向上抛出，求到最高点后回落。如果不能利用空气阻力，以下哪个说法是正确的？
+
+I. 到最高点时速度为零。  
+II. 到最高点时加速度为零。  
+III. 到最高点所需的时间比回落到原点所需的时间长。
+
+选项：
+
+A) 只有 I  
+B) 只有 II  
+C) 只有 I 和 II  
+D) 只有 I 和 III  
+
+---
+
+**分析：**
+
+- **I. 到最高点时速度为零。**  
+  正确。在最高点，物体的竖直方向速度为零（假设只受重力）。
+
+- **II. 到最高点时加速度为零。**  
+  错误。加速度始终为重力加速度 $ g $，方向向下，因此在最高点加速度不为零。
+
+- **III. 到最高点所需的时间比回落到原点所需的时间长。**  
+  错误。在没有空气阻力的情况下，上升和下降的时间是相等的，因为对称性。
+
+---
+
+**正确答案：**  
+**A) 只有 I**
+
+---
+
+**Answer: A**",
+98,professional_psychology,psychology,A,D,False,Answer: D,
+174,high_school_psychology,psychology,A,D,False,"Diao da yin yue bo fang qi de yin liang hui gai bian sheng yin de fang mian shi **yin diao de zhuan huan**.
+
+**Answer: D**",
+462,high_school_psychology,psychology,D,D,True,"Brenda 在描述中表现出她非常自信、有领导力，而且在课堂上并不需要别人特别关注。她主动申请参加作文比赛，并且认为自己能够获得一个奖项。这些行为和性格特征更符合一个 **自信、自我肯定** 的人，而不是表现出焦虑、混乱或自卑等负面心理状态。
+
+选项分析：
+
+- **A) Yi bing zheng（抑郁症）**：抑郁症通常表现为情绪低落、缺乏兴趣、自我否定等，与 Brenda 的自信和主动行为不符。
+- **B) Cuo luan xing jing shen fen lie zheng（精神分裂症）**：精神分裂症通常包括幻觉、妄想等，与 Brenda 的行为无关。
+- **C) Fan she hui xing ren ge zhang ai（反社会人格障碍）**：反社会人格障碍通常表现为缺乏同情心、不遵守社会规范，与 Brenda 的积极行为不符。
+- **D) Zi lian xing ren ge zhang ai（自恋型人格障碍）**：自恋型人格障碍表现为极度自信、自我中心、渴望被赞美和认可，这与 Brenda 的行为非常吻合。
+
+**Answer: D**",
+331,professional_psychology,psychology,D,B,False,Answer: B,
+364,professional_psychology,psychology,B,B,True,"“你班到了，但是被人家退了”这句话最符合的描述是：
+
+B) 行为者 - 关察者 小营
+
+**Answer: B**",
+298,high_school_psychology,psychology,C,D,False,Answer: D,
+439,professional_psychology,psychology,C,C,True,Answer: C,
+36,high_school_physics,physics,C,C,True,"Zhi zi de chu su du: $ v_0 = 1.5 \times 10^6 \, \text{m/s} $  
+Heng ding ci chang qu de chang qiang: $ B = 1.5 \, \text{T} $  
+Zhi zi de chu su du yu ci chang fang xiang de jiao: $ \theta = 30^\circ $  
+Zhi zi jin ru ci chang de shi jian: $ t = 4 \, \text{s} $
+
+Zhi zi zai ci chang qu zhong jin xing yu ci chang fang xiang yu de jiao shang de yun dong shi yu ci chang fang xiang de yun dong, shi zhi zi de su du xiang jia, er bu yin guo ci chang de ying xiang. Ci chang zhi xia de ying xiang shi zhi zi de yun dong fang xiang, bu shi su du.
+
+Suo yin wei, zhi zi de su du zai 4 s hou shi huan shi $ v_0 = 1.5 \times 10^6 \, \text{m/s} $.
+
+Answer: C",
+52,high_school_physics,physics,D,D,True,"D) shi yong cao zuo xing tiao jian fan she yuan ze
+
+Answer: D",
+7,conceptual_physics,physics,A,D,False,"D) liang zhe dou bu shi
+
+**Zhu shu:**  
+Dian lu zhong de sheng ya bian ya qi (sound frequency converter) shi yong lai bian gai dian liu de gong zuo xiang (current direction) de, bu shi yong lai sheng gao dian ya (voltage) yu dian neng (power). Sheng gao dian ya yu dian neng shi yong dian ya jia yuan (voltage source) yu dian neng jia yuan (power source) de gong zuo. Lü shi, dian lu zhong de sheng ya bian ya qi bu shi yong lai sheng gao dian ya yu dian neng.  
+
+Answer: D",
+174,conceptual_physics,physics,A,C,False,"Hóng guāng hé lán guāng chónɡ dié chǎn shēng de yán sè shì  
+C) lán lǜ sè  
+
+Answer: C",
+86,college_physics,physics,D,C,False,"C) zi you dian zi ji guang qi
+
+Answer: C",
+182,conceptual_physics,physics,B,D,False,"Sheng yin de yin gao zhu yao qu jue yu ta de **su du**.
+
+Answer: D",
+3,college_physics,physics,A,C,False,"Zai ke jian bo chang fan wei nei jin xing guang pu fen xi de zui jia ji guang qi lei xing shi  
+
+**Answer: C**",
+109,high_school_physics,physics,C,D,False,"D) suo you yun dong dian he de shou li fang xiang dou yu dian chang fang xiang ping xing ， yu ci chang fang xiang chui zhi 。
+
+**Explanation:**  
+This statement is correct according to the physics of motion in a magnetic field. When a moving charge (electron or proton) is in a magnetic field, the direction of the magnetic force (Lorentz force) is perpendicular to both the direction of motion of the charge and the direction of the magnetic field. This is described by the right-hand rule.
+
+- **D** correctly states that the direction of the force is perpendicular to the direction of the magnetic field (ci chang fang xiang), which is consistent with the cross product rule in electromagnetism.
+
+**Answer: D**",
+83,high_school_physics,physics,D,D,True,"D) xiang shang fei xing shi ， chui zhi su du yue lai yue xiao ， xiang xia fei xing shi ， chui zhi su du yue lai yue da 。
+
+**Explanation:**  
+当物体以45°角抛出时，其运动轨迹为抛物线。在上升过程中，垂直方向的速度逐渐减小（因为重力加速度向下），而在下降过程中，垂直方向的速度逐渐增大（因为重力加速度继续作用）。因此，选项D是正确的。
+
+Answer: D",
+80,high_school_physics,physics,D,D,True,**Answer: D**,
+118,astronomy,physics,A,B,False,Answer: B,
+14,high_school_physics,physics,B,B,True,"Huo xing ban jing yue shi di qiu ban jing de yi ban，jí 6400 km / 2 = **3200 km**.
+
+Huo xing zhi liang yue shi di qiu zhi liang de shi fen zhi yi，jí **1/10** di qiu zhi liang.
+
+Yin wei gong zhong li (g) shi yin yu huo xing ban jing de ku fa (r) de ping fang cheng xu shao，jí：
+
+$$
+g' = g \times \left(\frac{R}{r}\right)^2
+$$
+
+Zhi R shi di qiu ban jing (6400 km)，r shi huo xing ban jing (3200 km)，g shi di qiu yin li chang qiang du (10 N/kg)。
+
+$$
+g' = 10 \times \left(\frac{6400}{3200}\right)^2 = 10 \times 2^2 = 10 \times 4 = 40 \, \text{N/kg}
+$$
+
+Ran er huo xing zhi liang yue shi di qiu zhi liang de shi fen zhi yi，guo yin li chang qiang du yin yu zhi liang cheng xu shao，jí：
+
+$$
+g'' = g' \times \frac{1}{10} = 40 \times \frac{1}{10} = 4 \, \text{N/kg}
+$$
+
+**Answer: B**",
+26,high_school_physics,physics,C,C,True,"We are given a fluid mechanics problem involving the flow of a fluid through a pipe with changing cross-sectional area. The key principle here is the **continuity equation**, which states that:
+
+$$
+A_1 v_1 = A_2 v_2
+$$
+
+Where:
+- $ A $ is the cross-sectional area,
+- $ v $ is the velocity of the fluid.
+
+---
+
+### Given:
+- At point 1:
+  - Diameter $ d_1 = 2 \, \text{cm} \Rightarrow r_1 = 1 \, \text{cm} = 0.01 \, \text{m} $
+  - Velocity $ v_1 = 18 \, \text{m/s} $
+- At point 2:
+  - Diameter $ d_2 = 3 \, \text{cm} \Rightarrow r_2 = 1.5 \, \text{cm} = 0.015 \, \text{m} $
+  - Velocity $ v_2 = ? $
+
+---
+
+### Step 1: Use the continuity equation
+
+$$
+A_1 v_1 = A_2 v_2
+$$
+
+Since area $ A = \pi r^2 $, we can write:
+
+$$
+\pi r_1^2 v_1 = \pi r_2^2 v_2
+$$
+
+Cancel $ \pi $ from both sides:
+
+$$
+r_1^2 v_1 = r_2^2 v_2
+$$
+
+Now plug in the values:
+
+$$
+(0.01)^2 \cdot 18 = (0.015)^2 \cdot v_2
+$$
+
+$$
+0.0001 \cdot 18 = 0.000225 \cdot v_2
+$$
+
+$$
+0.0018 = 0.000225 \cdot v_2
+$$
+
+$$
+v_2 = \frac{0.0018}{0.000225} = 8 \, \text{m/s}
+$$
+
+---
+
+### Final Answer:
+**Answer: C**",
+110,astronomy,physics,B,C,False,"Wang yuan jing de fen bian lv shi heng liang qi shi yong lai ce liang wu ti zhi jian ju li de neng li.
+
+Answer: C",
+63,astronomy,physics,A,D,False,"D) ta mei you jin shu xin 。  
+
+Answer: D",
+27,conceptual_physics,physics,A,C,False,"Zhe ge wen ti shi guan yu wu ti de dong li xue. Zhi yi ge wu ti zai yun dong zhong, ru guo ta zhi liang shang suo you xiang liang li zhi he wei ling, zhe biao shi er ge xiang liang zhi he wei ling.
+
+Xiang liang li zhi he wei ling, zhe shi yu wu ti de jie su du wei ling de jie guo. Mei you jie su du, wu ti jiu jing zhi bu dong.
+
+**Dui xiang:**  
+C) jing zhi bu dong
+
+**Answer: C**",
